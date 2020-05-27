@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+    <head>
+        <meta charset="UTF-8" />
+        <script>
+            var coverSupport = 'CSS' in window && typeof CSS.supports === 'function' && (CSS.supports('top: env(a)') ||
+                CSS.supports('top: constant(a)'))
+            document.write(
+                '<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0' +
+                (coverSupport ? ', viewport-fit=cover' : '') + '" />')
+        </script>
+        <title>View</title>
+        <style>
+            * {
+                -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+                -webkit-tap-highlight-color: transparent;
+            }
+
+            input[type="search"i]::-webkit-search-cancel-button {
+                display: none;
+            }
+        </style>
+        <script>
+            var __wxConfig = {"debug":false,"appname":"Airline Engineer Application","entryPagePath":"pages/index/index.html","page":{"pages/index/index.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Airline Maintenance"}},"pages/image_history/image_history.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Search History"}},"pages/detail/detail.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Detail"}},"pages/map_html/map_html.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Navigation"}},"pages/component/component.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Component"}},"pages/part/part.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Component Maintenance"}},"pages/search_by_photo/search_by_photo.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Search By Photo"}},"pages/user/user.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Mine"}},"pages/history/history.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Miantenance History"}},"pages/order/order.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Submit Order"}},"pages/search/search.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Search"}},"pages/manual/manual.html":{"window":{"usingComponents":{},"navigationBarTitleText":"manual"}},"pages/map/map.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Navigation"}},"pages/map_npm/map_npm.html":{"window":{"usingComponents":{},"navigationBarTitleText":"Navigation"}}},"global":{"window":{"navigationBarTextStyle":"white","navigationBarTitleText":"Singapore Airline Engineer Application","navigationBarBackgroundColor":"#478AE7","backgroundColor":"#478AE7","backgroundColorTop":"#F7F7F7","backgroundColorBottom":"#F7F7F7"}},"tabBar":{"color":"#B4BFDC","selectedColor":"#247DEB","backgroundColor":"#ffffff","borderStyle":"black","list":[{"pagePath":"pages/index/index.html","iconPath":"static/airplaneLight.png","selectedIconPath":"static/airplaneBlue.png","text":"Airplanes"},{"pagePath":"pages/part/part.html","iconPath":"static/partLight.png","selectedIconPath":"static/partBlue.png","text":"Component"},{"pagePath":"pages/user/user.html","iconPath":"static/userLight.png","selectedIconPath":"static/userBlue.png","text":"Me"}],"position":"bottom"},"networkTimeout":{"request":60000,"connectSocket":60000,"uploadFile":60000,"downloadFile":60000},"platform":"devtools","pages":["pages/index/index","pages/image_history/image_history","pages/detail/detail","pages/map_html/map_html","pages/component/component","pages/part/part","pages/search_by_photo/search_by_photo","pages/user/user","pages/history/history","pages/order/order","pages/search/search","pages/manual/manual","pages/map/map","pages/map_npm/map_npm"],"usingComponents":{},"nvueCompiler":"weex","renderer":"auto","splashscreen":{"alwaysShowBeforeRender":true,"autoclose":false},"compilerVersion":"2.2.2"}
+        </script>
+        <script>
+            var __id__ = '';
+            window.__dispatchGenerateFunc__ = function(page) {
+                __id__ = page;
+                document.title = page;
+                // window.history.pushState('', '', page);
+                var wxss = page.replace('.html', '.wxss')
+                if (
+                    typeof __wxAppCode__ !== 'undefined' &&
+                    __wxAppCode__.hasOwnProperty(wxss)
+                ) {
+                    var setCssToHead = __wxAppCode__[wxss]
+                    typeof setCssToHead === 'function' && setCssToHead()
+                    document.dispatchEvent(new CustomEvent("generateFuncReady", {
+                        detail: {
+                            generateFunc: $gwx(page.replace('.html', '.wxml'))
+                        }
+                    }));
+                } else {
+                    plus.webview.currentWebview().setJsFile('_www/' + page.replace('.html', '.js'));
+                }
+            };
+        </script>
+        <script src="__uniappes6.js"></script>
+        <script src="uniapp://ready"></script>
+    </head>
+
+    <body>
+        <div></div>
+    </body>
+
+</html>

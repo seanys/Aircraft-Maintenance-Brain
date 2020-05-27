@@ -1,0 +1,123 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "Airline Maintenance"
+			}
+		}
+		,{
+		    "path" : "pages/image_history/image_history",
+		    "style" : {
+				"navigationBarTitleText": "Search History"
+			}
+		},{
+		    "path" : "pages/detail/detail",
+		    "style" : {
+				"navigationBarTitleText": "Detail"
+			}
+		}
+		,{
+		    "path" : "pages/map_html/map_html",
+		    "style" : {
+				"navigationBarTitleText": "Navigation"
+			}
+		}
+		,{
+		    "path" : "pages/component/component",
+		    "style" : {
+				"navigationBarTitleText": "Component"
+			}
+		}
+		,{
+		    "path" : "pages/part/part",
+		    "style": {
+		    	"navigationBarTitleText": "Component Maintenance"
+		    }
+		},{
+		    "path" : "pages/search_by_photo/search_by_photo",
+		    "style" : {
+				"navigationBarTitleText": "Search By Photo"
+			}
+		},{
+            "path" : "pages/user/user",
+            "style": {
+            	"navigationBarTitleText": "Mine"
+            }
+        }
+        ,{
+            "path" : "pages/history/history",
+            "style" : {
+				"navigationBarTitleText": "Miantenance History"
+			}
+        }
+        ,{
+            "path" : "pages/order/order",
+            "style" : {
+				"navigationBarTitleText": "Submit Order"
+			}
+        }
+        ,{
+            "path" : "pages/search/search",
+            "style" : {
+				"navigationBarTitleText": "Search"
+			}
+        }
+		,{
+		    "path" : "pages/manual/manual",
+		    "style" : {
+				"navigationBarTitleText": "manual"
+			}
+		}
+        ,{
+            "path" : "pages/map/map",
+            "style" : {
+				"navigationBarTitleText": "Navigation"
+			}
+        }
+        ,{
+            "path" : "pages/map_npm/map_npm",
+            "style" : {
+				"navigationBarTitleText": "Navigation"
+			}
+        }
+    ],
+	"tabBar": {
+		"color": "#B4BFDC",
+		"selectedColor": "#247DEB",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"iconPath": "static/airplaneLight.png",
+			"selectedIconPath": "static/airplaneBlue.png",
+			"text": "Airplanes"
+		}, {
+			"pagePath": "pages/part/part",
+			"iconPath": "static/partLight.png",
+			"selectedIconPath": "static/partBlue.png",
+			"text": "Component"
+		}, {
+			"pagePath": "pages/user/user",
+			"iconPath": "static/userLight.png",
+			"selectedIconPath": "static/userBlue.png",
+			"text": "Me"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "Singapore Airline Engineer Application",
+		"navigationBarBackgroundColor": "#478AE7",
+		"backgroundColor": "#478AE7",
+		"backgroundColorTop": "#F7F7F7",
+		"backgroundColorBottom": "#F7F7F7"
+	},
+	"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [{
+			"name": "", //模式名称
+			"path": "", //启动页面，必选
+			"query": "" //启动参数，在页面的onLoad函数里面得到
+		}]
+	}
+}

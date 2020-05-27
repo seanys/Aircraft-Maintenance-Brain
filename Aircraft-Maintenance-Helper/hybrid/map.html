@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Navigation</title>
+	<script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
+	<link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
+	<script src="https://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+	</head>
+	
+	<body>
+		<div id="map" style="height: 800px;"></div>
+		<div id="label" style="display:none">
+			<div id="marker" class="marker" title="Marker">
+				<img src="https://ly.inftime.cn/location.tiff">
+				<a style="color:#46A0FC;" id="address" target="_blank" href="http://www.openlayers.org">Navigation</a>
+			</div>
+		</div>
+		<div style="background-color:white;height:270px;position: fixed;bottom:0px;width:100%;border-radius: 10px 10px 0 0;z-index:10000;border-top: #E4E7ED 2px solid;box-shadow: 0 -12px 10px 0 rgba(0,0,0,0.1);">
+			<div style="width:100%;height:20px;text-align: center;">
+				<div style="width:30px;height: 5px;position: relative;top:7px;background-color: #DADCE0;border-radius: 5px;margin:0 auto"></div>
+			</div>
+			<div style="display: flex;margin-top: 50px;">
+				<div style="flex:1">
+					<div style="width:50px;margin: auto;height:150px">
+						<div style="background-color: #4688F1;border-radius: 50%;width:100px;height: 100px;">
+							<image src="./navigator.png" style="width:40px;height: 40px;margin: auto;margin:33px 25px;"></image>
+							<view style="margin-left: 17px;color:rgba(0,0,0,0.54)">Navigate</view>
+						</div>
+					</div>
+				</div>
+				<div style="flex:1">
+					<div style="width:50px;margin: auto;height:100px">
+						<div style="background-color: #4688F1;border-radius: 50%;width:100px;height: 100px;">
+							<image src="./update.png" style="width:40px;height: 40px;margin: auto;margin:30px 30px;"/>
+							<view style="left: 25px;position:relative;top:6px;color:rgba(0,0,0,0.54)">Update</view>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript">
+		$(function() {
+			//樟宜机场 SIN
+			var SIN = ol.proj.fromLonLat([103.99, 1.360]);
+
+			//初始化地图
+			var map = new ol.Map({
+				target: 'map',
+				layers: [
+					new ol.layer.Tile({
+						source: new ol.source.OSM()
+					})
+				],
+				view: new ol.View({
+					center: SIN,
+					zoom: 16, 
+					minZoom: 2
+				})
+			});
+
+			//创建标签的样式
+			var createLabelStyle = function(feature) {
+				//返回一个样式
+				return new ol.style.Style({
+					//把点的样式换成ICON图标
+					image: new ol.style.Icon({
+						anchor: [-2, 22],
+						anchorOrigin: 'top-right',
+						anchorXUnits: 'fraction',
+						anchorYUnits: 'pixels',
+						offsetOrigin: 'top-right',
+						opacity: 1,
+						src: 'https://ly.inftime.cn/location.tiff'
+					}),
+					text: new ol.style.Text({
+						textAlign: 'center',
+						textBaseline: 'middle',
+						font: 'normal 14px 微软雅黑',
+						text: feature.get('name'),
+						fill: new ol.style.Fill({
+							color: '#950D12'
+						}),
+
+					})
+				});
+			};
+			
+			//Show aim position
+			var maintenancePoint = ol.proj.fromLonLat([103.9935, 1.36103]);
+
+			var iconFeature = new ol.Feature({
+				geometry: new ol.geom.Point(maintenancePoint),
+				name: 'Aim Position'
+			});
+			iconFeature.setStyle(createLabelStyle(iconFeature));
+
+			var vectorSource = new ol.source.Vector({
+				features: [iconFeature]
+			});
+
+			var vectorLayer = new ol.layer.Vector({
+				source: vectorSource
+			});
+			map.addLayer(vectorLayer);
+			
+			//New Point Add
+			map.on('click', function(evt) {
+				var point = evt.coordinate;
+				console.log(point)
+				addVectorLabel([point[0] - 0.0008, point[1] + 0.1503]);
+			});
+
+			function addVectorLabel(coordinate) {
+				var newFeature = new ol.Feature({
+					geometry: new ol.geom.Point(coordinate),
+					name: 'New Point'
+				});
+				newFeature.setStyle(createLabelStyle(newFeature));
+				vectorSource.addFeature(newFeature);
+			}
+			
+			function addMyPoint(coordinate) {
+				var newFeature = new ol.Feature({
+					geometry: new ol.geom.Point(coordinate),
+					name: 'My Position'
+				});
+				console.log(coordinate)
+				newFeature.setStyle(createLabelStyle(newFeature));
+				vectorSource.addFeature(newFeature);
+				console.log("Add my location")
+			}
+			
+
+
+			if (navigator.geolocation) { //如果浏览器支持获取地理信息
+				navigator.geolocation.getCurrentPosition(successCallback, errorCallback);
+			} else {
+				
+				console.log("Please access your location to our app");
+				console.log("不支持定位");
+			}
+
+			function successCallback(position) {
+				console.log("Get GIS position success");
+				var wd = position.coords.latitude; // 维度
+				var jd = position.coords.longitude; // 经度
+				console.log("维度：" + wd + "    经度：" + jd); // 可以通过百度地图API和经纬度获取具体信息
+				addMyPoint([10,wd])
+			}
+
+			function errorCallback(error) {
+				console.log("Get position error"); //没有给浏览器获取位置权限时，会执行errorCallback
+				console.log(error); // PositionError {code: 1, message: "User denied Geolocation"}
+			}
+			
+			//mock uer position at SIN
+			maintenancePoint = ol.proj.fromLonLat([103.9923, 1.3578]);
+			
+			iconFeature = new ol.Feature({
+				geometry: new ol.geom.Point(maintenancePoint),
+				name: 'My Position'
+			});
+			iconFeature.setStyle(createLabelStyle(iconFeature));
+			
+			vectorSource = new ol.source.Vector({
+				features: [iconFeature]
+			});
+			
+			vectorLayer = new ol.layer.Vector({
+				source: vectorSource
+			});
+			map.addLayer(vectorLayer);
+
+		});
+	</script>
+	<style type="text/css">
+		body,
+		html,
+		div,
+		ul,
+		li,
+		img {
+			border: none;
+			padding: 0px;
+			margin: 0px;
+		}
+
+		.navigatorBar {
+			box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.25);
+			width: 100%;
+		}
+
+		#menu {
+			width: 100%;
+			height: 20px;
+			padding: 5px 10px;
+			left: 10px;
+			font-size: 14px;
+			font-family: "微软雅黑";
+		}
+
+		.checkbox {
+			margin: 5px 15px;
+		}
+
+		.marker {
+			width: 20px;
+			height: 20px;
+			border: 1px solid #088;
+			border-radius: 10px;
+			background-color: #0FF;
+			opacity: 0.5;
+		}
+
+		.address {
+			text-decoration: none;
+			color: #aa3300;
+			font-size: 14px;
+			font-weight: bold;
+			text-shadow: black 0.1em 0.1em 0.2em;
+		}
+		body{
+			font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+		}
+	</style>
+</html>

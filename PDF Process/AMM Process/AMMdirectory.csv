@@ -1,0 +1,2239 @@
+05-51-01-210-801,HARD LANDING OR HIGH DRAG/SIDE LOADLANDING CONDITIONAL INSPECTION Phase I Inspection,硬着陆或高阻力/侧向载荷着陆状况检查 I,1
+05-51-01-210-802,HARD LANDING OR HIGH DRAG/SIDE LOADLANDING CONDITIONAL INSPECTION Phase II Inspection II,硬着陆或高阻力/侧向载荷着陆状况检查 II,2
+05-51-04-210-801,Severe or Unusual Turbulence StallBuffet or Speeds More than the Design  Limits Conditional Inspection,严重或异常紊流，失速， 振动或速度超过设计限制状况检查,3
+05-51-07-210-801,HIGH ENERGY STOP/HEAT DAMAGE CONDITION,高能制动/热损伤状况-维护实施,4
+05-51-08-210-801,FLAP/SLAT DOWN OVERSPEED CONDITION- MAINTENANCE PRACTICES Phase I Inspection,襟翼/缝翼向下超速状况阶段I检查,5
+05-51-08-210-802,FLAP/SLAT DOWN OVERSPEED CONDITION- MAINTENANCE PRACTICES Phase II Inspection,襟翼/缝翼向下超速状况阶段II检查,6
+05-51-09-212-801,OVERWEIGHT TAXI - MAINTENANCE PRACTICES (CONDITIONAL INSPECTION) Phase I Inspection,超重滑行-维护实施(状况检查)阶段I 检查,7
+05-51-09-210-801,OVERWEIGHT TAXI - MAINTENANCE PRACTICES (CONDITIONAL INSPECTION) Phase II Inspection,超重滑行-维护实施(状况检查)阶段II 检查,8
+05-51-15-210-801,Brake Seizure Conditional Inspection,刹车卡住状况检查,9
+05-51-16-210-801,Flat Spotted Tires Conditional Inspection,轮胎磨平状况检查,10
+05-51-17-210-801,Wheel Bearing Failure,机轮轴承失效,11
+21-27-05,EQUIPMENT COOLING OVERBOARD EXHAUST VALVE - REMOVAL/INSTALLATION,设备冷却机外排气活门-拆卸/安装,12
+21-27-06,SATCOM COOLING FAN - REMOVAL/INSTALLATION,卫星通信冷却风扇-拆卸/安装,13
+21-27-07,EQUIPMENT COOLING MUFFLER -REMOVAL/INSTALLATION,设备冷却消声器-拆卸/安装,14
+21-31-00,PRESSURIZATION CONTROL SYSTEM -ADJUSTMENT/TEST,增压控制系统-调整/测试,15
+21-31-00-710-801,Pressurization System Manual Mode Test,增压系统手动模式测试,16
+21-31-00-710-802,750 Feet Per Minute Descent With Cargo Fire Mode Test,货舱防火模式测试下750 英尺/分钟下降,17
+21-31-00-700-801,Master Caution Test,主警告测试,18
+21-31-00-700-802,Pressurization System Ground Test,增压系统地面测试,19
+21-31-01,CABIN PRESSURE CONTROLLER (CPC) -REMOVAL/INSTALLATION,客舱压力控制器(CPC)-拆卸/安装,20
+21-31-01-000-801,Cabin Pressure Controller (CPC) Removal,客舱压力控制器(CPC)的拆卸,21
+21-31-01-400-801,Cabin Pressure Controller (CPC) Installation,客舱压力控制器(CPC)的安装,22
+21-31-02-000-801,Cabin Pressure Control Module Removal,拆卸客舱压力控制组件,23
+21-31-02-400-801,Cabin Pressure Control Module Installation,安装客舱压力控制组件,24
+32-33-41,NOSE GEAR TRANSFER CYLINDER -REMOVAL/INSTALLATION,前起落架传输作动筒-拆卸/安装,25
+32-33-51,NOSE GEAR LOCK MECHANISM -REMOVAL/INSTALLATION,前起落架锁紧机构-拆卸/安装,26
+32-33-51,NOSE GEAR LOCK MECHANISM -INSPECTION/CHECK,前起落架锁机构-检验/检查,27
+32-33-52,NOSE GEAR LOCK SPRING - REMOVAL/INSTALLATION,起落架锁弹簧-拆卸/安装,28
+32-33-61,NOSE GEAR WHEEL WELL DOOR LINKAGE -REMOVAL/INSTALLATION,前起落架轮舱门连杆-拆卸/安装,29
+32-33-61,NOSE GEAR WHEEL WELL DOOR LINKAGE -ADJUSTMENT/TEST,前起落架轮舱门连杆-调整/测试,30
+32-33-61,Nose Gear Wheel Well Door Linkage Inspection,前起落架轮舱门连杆-检验/检查,31
+32-33-71,NOSE GEAR PRESSURE FUSE - REMOVAL/INSTALLATION,前起落架压力保险丝-拆卸/安装,32
+32-33-72,NOSE GEAR HYDRAULIC FLOW REGULATOR - REMOVAL/INSTALLATION,前起落架液压流量调节器-拆卸/安装,33
+32-34-00,MAIN GEAR MANUAL EXTENSION SYSTEM - ADJUSTMENT/TEST,主起落架手动伸出系统-调节/测试,34
+32-34-11,MAIN GEAR MANUAL EXTENSION CONTROL MECHANISM - REMOVAL/INSTALLATION,主起落架手动放下操纵机构-拆卸/安装,35
+32-34-21,MAIN GEAR MANUAL EXTENSION MECHANISM - REMOVAL/INSTALLATION,主起落架手动放下机构-拆卸/安装,36
+32-34-31,MAIN GEAR MANUAL EXTENSION SYSTEM CABLES - REMOVAL/INSTALLATION,主起落架手动放下系统钢索-拆卸/安装,37
+32-35-00,NOSE GEAR MANUAL EXTENSION SYSTEM - ADJUSTMENT/TEST,前起落架手动伸出系统-调节/测试,38
+32-35-11,NOSE GEAR MANUAL EXTENSION RELEASE MECHANISM - REMOVAL/INSTALLATION,前起落架手动放下释放机构-拆卸/安装,39
+32-35-20,NOSE GEAR MANUAL EXTENSION SPRING -REMOVAL/INSTALLATION,前起落架人工伸展弹簧-拆卸/安装,40
+32-35-21,NOSE GEAR MANUAL EXTENSION SYSTEM CABLES - REMOVAL/INSTALLATION,前起落架手动放下系统钢索-拆卸/安装,41
+32-41-00,HYDRAULIC BRAKE SYSTEM -MAINTENANCE PRACTICES,液压刹车系统-维护实施,42
+32-41-00,HYDRAULIC BRAKE SYSTEM -ADJUSTMENT/TEST,液压刹车系统-调节/测试,43
+32-41-11,BRAKE DISCONNECT - REMOVAL/INSTALLATION,刹车断开装置-拆卸/安装,44
+32-41-21,BRAKE METERING VALVE CONTROL QUADRANT - REMOVAL/INSTALLATION,刹车调节活门操纵扇形轮-拆卸/安装,45
+32-41-31,BRAKE METERING VALVE ASSEMBLY -REMOVAL/INSTALLATION,刹车调节活门组件-拆卸/安装,46
+32-41-41,MAIN LANDING GEAR BRAKE - REMOVAL/INSTALLATION,主起落架刹车-拆卸/安装,47
+32-41-41,MAIN LANDING GEAR BRAKE -INSPECTION/CHECK,主起落架刹车-检验/检查,48
+32-41-51,HYDRAULIC BRAKE ACCUMULATOR -REMOVAL/INSTALLATION,液压刹车蓄压器-拆卸/安装,49
+32-41-53,BRAKE ACCUMULATOR PRESSURE TRANSMITTER - REMOVAL/INSTALLATION,刹车蓄压器压力传感器-拆卸/安装,50
+32-41-54,BRAKE ACCUMULATOR PRESSURE GAGE (FLIGHT COMPARTMENT) - REMOVAL/INSTALLATION,刹车蓄压器压力表(驾驶舱)-拆卸/安装,51
+32-41-71,BRAKE ACCUMULATOR PRESSURE RELIEF VALVE - REMOVAL/INSTALLATION,刹车蓄压器释压活门-拆卸/安装,52
+32-41-72,BRAKE HYDRAULIC FUSES - REMOVAL/INSTALLATION,刹车液力熔断器-拆卸/安装,53
+32-41-81,HYDRAULIC BRAKE CONTROL CABLE -REMOVAL/INSTALLATION,液压刹车操纵钢索-拆卸/安装,54
+32-41-91,BRAKE ACCUMULATOR ISOLATION VALVE - REMOVAL/INSTALLATION,刹车蓄压器隔离活门-拆卸/安装,55
+32-41-93,ALTERNATE BRAKE SELECTOR VALVE -REMOVAL/INSTALLATION,备用刹车选择器活门-拆卸/安装,56
+32-41-95,BRAKE SHUTTLE VALVES - REMOVAL/INSTALLATION,刹车往复活门-拆卸/安装,57
+32-41-96,BRAKE FLOW LIMITERS - REMOVAL/INSTALLATION,刹车流量限制器-拆卸/安装,58
+32-42-00,ANTISKID/AUTOBRAKE SYSTEM -ADJUSTMENT/TEST,防滑/自动刹车系统-调整/测试,59
+32-42-11,ANTISKID WHEEL SPEED TRANSDUCER -REMOVAL/INSTALLATION,防滑机轮速度传感器-拆卸/安装,60
+32-42-21,ANTISKID/AUTOBRAKE CONTROL UNIT -REMOVAL/INSTALLATION,防滑/自动刹车控制组件-拆卸/安装,61
+32-42-31,ANTISKID VALVE - REMOVAL/INSTALLATION,防滑活门-拆卸/安装,62
+32-42-51,ANTISKID LANDING GEAR LEVER UP SWITCH - REMOVAL/INSTALLATION,防滑起落架手柄向上电门-拆卸/安装,63
+32-42-61,AUTOBRAKE SELECTOR SWITCH -REMOVAL/INSTALLATION,自动刹车选择器电门-拆卸/安装,64
+32-42-71,AUTOBRAKE SHUTTLE VALVE - REMOVAL/INSTALLATION,自动刹车往复活门-拆卸/安装,65
+32-42-81,AUTOBRAKE PRESSURE CONTROL MODULE - REMOVAL/INSTALLATION,自动刹车压力控制组件-拆卸/安装,66
+32-44-00,PARKING BRAKE SYSTEM - ADJUSTMENT/TEST,停留刹车系统-调节/测试,67
+32-44-11,PARKING BRAKE LINKAGE - REMOVAL/INSTALLATION,停留刹车连杆-拆卸/安装,68
+32-44-21,PARKING BRAKE SHUTOFF VALVE -REMOVAL/INSTALLATION,停留刹车关断活门-拆卸/安装,69
+32-45-00-000-801,Tires and Wheels - Deflation/Inflation,轮胎和机轮-放气/充气,70
+32-45-00-700-801,Wheels Fast Check (Wheel Installed on the Airplane),机轮快速检查(机轮已安装在飞机上),71
+32-45-00-700-802,Wheels Inspection (Wheel Removed from the Airplane),机轮检查(机轮已从飞机上拆卸),72
+32-45-00-700-803,Tires Inspection,轮胎检查,73
+32-45-08,TIRE INFLATION VALVE - REMOVAL/INSTALLATION,轮胎充气活门-拆卸/安装,74
+32-45-11-000-801,Main Landing Gear Wheel and Tire Assembly Removal,主起落架机轮和轮胎组件拆卸,75
+32-45-11-400-801,Main Landing Gear Wheel and Tire Assembly Installation,主起落架机轮和轮胎组件安装,76
+32-45-21-000-801,Nose Landing Gear Wheel and Tire Assembly Removal,前起落架轮舱和轮胎组件拆卸,77
+32-45-21-400-801,Nose Landing Gear Wheel and Tire Assembly Installation,前起落架轮舱和轮胎组件安装,78
+32-45-31,NOSE WHEEL SPIN BRAKE LINING -MAINTENANCE PRACTICES,前轮旋转刹车衬里-维护实施,79
+32-46-00-740-801,Brake Temperature Monitoring System (BTMS) - BITE Test,刹车温度监控系统(BTMS)-BITE测试,80
+32-46-00-710-801,Brake Temperature Sensors -Operational Test of Each Sensor,刹车温度传感器-每个传感器的操作测试,81
+32-46-21-000-801,Brake Temperature Sensor Removal,刹车温度传感器拆卸,82
+32-46-21-400-801,Brake Temperature Sensor Installation,刹车温度传感器安装,83
+32-46-31-000-801,Brake Temperature Monitor Unit Removal,刹车温度监控组件拆卸,84
+32-46-31-400-801,Brake Temperature Monitor Unit Installation,刹车温度监控组件安装,85
+32-51-00,NOSE WHEEL STEERING SYSTEM -ADJUSTMENT/TEST,前轮转向系统-调节/测试,86
+32-51-11,NOSE WHEEL STEERING - MAINTENANCE PRACTICES,前轮转向-维护实施,87
+32-51-11,STEERING METERING VALVE - REMOVAL/INSTALLATION,转向调节活门-拆卸/安装,88
+32-51-21,RUDDER PEDAL STEERING MECHANISM -REMOVAL/INSTALLATION,方向舵脚蹬转向机构-拆卸/安装,89
+32-51-31,STEERING SYSTEM CABLES - REMOVAL/INSTALLATION,转向系统钢索-拆卸/安装,90
+32-51-31,STEERING SYSTEM CABLES - INSPECTION/CHECK,转向系统钢索-检验/检查,91
+32-51-41,NOSE LANDING GEAR CONTROL WHEEL AND TILLER ASSEMBLY - REMOVAL/INSTALLATION,前起落架操纵轮和舵柄组件-拆卸/安装,92
+32-51-51,NOSE GEAR STEERING ACTUATOR -REMOVAL/INSTALLATION,前起落架转向作动筒-拆卸/安装,93
+32-51-51,NOSE GEAR STEERING ACTUATOR -INSPECTION/CHECK,前起落架转向作动筒-检验/检查,94
+32-51-52,NOSE LANDING GEAR STEERING SUMMING MECHANISM - REMOVAL/INSTALLATION,前起落架转弯合成机构-拆卸/安装,95
+32-51-61,STEERING COLLAR - REMOVAL/INSTALLATION,转向护环-拆卸/安装,96
+32-51-61,STEERING COLLAR - INSPECTION/CHECK,转向护环-检验/检查,97
+32-51-81,RUDDER PEDAL STEERING ROTARY ACTUATOR - REMOVAL/INSTALLATION,方向舵脚蹬操纵旋转式作动筒-拆卸/安装,98
+32-61-00,Landing Gear Position Indicating and Warning System - Test,起落架位置指示和警告系统-调节/测试,99
+32-61-21,MAIN LANDING GEAR UPLOCK SENSOR -REMOVAL/INSTALLATION,主起落架上位锁传感器-拆卸/安装,100
+32-61-21,MAIN LANDING GEAR UPLOCK SENSOR -ADJUSTMENT/TEST,主起落架上位锁传感器-调整/测试,101
+32-61-31,MAIN LANDING GEAR DOWN-AND-LOCKED SENSOR - REMOVAL/INSTALLATION,主起落架下位锁传感器-拆卸/安装,102
+32-61-31,MAIN LANDING GEAR DOWN-AND-LOCKED SENSOR - ADJUSTMENT/TEST,主起落架下位锁传感器-调整/测试,103
+32-61-41,NOSE LANDING GEAR LOCK SENSOR -REMOVAL/INSTALLATION,前起落架锁传感器-拆卸/安装,104
+32-61-41,NOSE LANDING GEAR LOCK SENSOR -ADJUSTMENT/TEST,前起落架锁传感器-调整/测试,105
+32-61-51,NOSE LANDING GEAR DOWN POSITION SENSOR - REMOVAL/INSTALLATION,前起落架放下位置传感器-拆卸/安装,106
+32-61-51,NOSE LANDING GEAR DOWN POSITION SENSOR - ADJUSTMENT/TEST,前起落架放下位置传感器-调整/测试,107
+32-71-00,TAIL SKID ASSEMBLY - MAINTENANCE PRACTICES,尾撬组件-维护实施,108
+32-71-00-200-801,Tailskid Cartridge Assembly -Inspection/Check,尾撬-检验/检查,109
+32-71-21,TAIL SKID ASSEMBLY - REMOVAL/INSTALLATION,尾橇枢轴连杆-拆卸/安装,110
+33-11-00,INSTRUMENT AND PANEL LIGHTS -MAINTENANCE PRACTICES,仪表和面板灯-维护实施,111
+33-11-00-960-801,Captain’s Lighting Module - Module Replacement,机长照明设备组件-组件更换,112
+33-11-00-960-802,First Officer’s Lighting Module - Module Replacement,副驾驶照明设备组件-组件更换,113
+33-11-00-960-803,Control Column Memory Device - Lamp Replacement,驾驶杆存储装置-灯泡,114
+33-11-00-960-804,Master Warning And Caution System Annunciator - Lamp Replacement,主警告和警示灯-灯泡更换,115
+33-11-00-960-806,Master Warning And Caution System Annunciator - Light Assembly,主警告和警示灯-灯组件更换,116
+33-14-00,MISCELLANEOUS LIGHTS - MAINTENANCE PRACTICES,混合灯-维护实施,117
+33-14-00-960-801,Panel/Glareshield Floodlight - Light Assembly Replacement,面板/遮光屏照明灯-灯组件,118
+33-14-00-960-802,Control Stand Floodlight - Lamp Replacement,操纵台泛光照明-灯更换,119
+33-14-00-960-803,Oxygen Mask Floodlight - Light Assembly Replacement,氧气罩照明灯-灯组件更换,120
+33-14-00-960-804,Dome Light - Lamp Replacement,舱顶灯-灯更换,121
+33-14-00-000-801,Left Dome Light - Removal,左舱顶灯-拆卸,122
+33-14-00-400-801,Left Dome Light - Installation,左舱顶灯-安装,123
+33-14-00-960-805,Circuit Breaker Panel Light - Lamp Replacement,跳开关面板灯-灯更换,124
+33-14-00-960-806,Dimmer Control Unit - Replacement,调光器控制装置-更换,125
+33-14-00-710-801,Panel Floodlights - Operational Test of the Standby Relay,面板泛光灯-备用继电器操作测试,126
+33-17-00-960-801,Map Light - Lamp Replacement,地图灯-灯更换,127
+33-17-00-960-802,Flight Kit/Reading Light - Lamp Replacement,飞行工具/阅读灯-灯更换,128
+33-17-00-960-803,Chart Light - Lamp Replacement,图表灯-灯更换,129
+33-18-00,MASTER DIM AND TEST (MD&T) LIGHTS -MAINTENANCE PRACTICES,主调光和测试(MD&T)灯-维护实施,130
+33-18-00-960-801,Indicator Light - Lamp Replacement,指示器灯-灯更换,131
+33-18-00-710-802,Master Dim and Test - Operational Test,主调光和测试-操作测试,132
+33-20-00-710-801-001,Passenger Compartment Lights -Operational Test,客舱灯-操作测试,133
+33-21-00,WINDOW LIGHTS - MAINTENANCE PRACTICES,窗灯-维护实施,134
+33-22-00,CEILING LIGHTS - MAINTENANCE PRACTICES,天花板灯-维护实施,135
+33-23-00,READING LIGHTS - MAINTENANCE PRACTICES,阅读灯-维护实施,136
+33-23-00-960-801,Reading Light - Lamp Replacement,阅读灯-灯泡更换,137
+33-23-00-960-802,Reading Light - Light Assembly Replacement,阅读灯-灯组件更换,138
+33-23-00-820-803,Reading Light - Adjustment and Test,阅读灯-调节和测试,139
+33-23-00-820-801,Reading Light - PSU Circuit Board Replacement,阅读灯-PSU 电路板更换,140
+33-23-00-960-803,Reading Light - PSU Circuit Board Fuse Replacement,阅读灯-PSU 电路板熔丝更换,141
+33-25-00,INFORMATION SIGNS - MAINTENANCE PRACTICES,信息标志-维护实施,142
+33-25-00-960-801,Information Sign - Lamp Replacement,信息标志-灯更换,143
+33-26-01-960-801,Attendant Work Light - Lamp Replacement,乘务员工作灯-灯更换,144
+33-26-01-960-802,Attendant Work Light - Light Assembly Replacement,乘务员工作灯-灯组件更换,145
+33-26-02-960-801,Galley Light - Lamp Replacement,厨房灯-灯更换,146
+33-26-02-960-802,Galley Light - Ballast Replacement,厨房灯-镇流器更换,147
+33-26-03,LAVATORY LIGHTS AND SIGNS -MAINTENANCE PRACTICES,盥洗室灯和标志-维护实施,148
+33-26-03-960-801,Lavatory Light - Lamp Replacement,盥洗室灯-灯泡更换,149
+33-26-03-960-802,Lavatory Light - Ballast Replacement,盥洗室灯-镇流器更换,150
+33-26-03-960-803,Lavatory-Occupied Sign - Light Assembly Replacement,盥洗室占用标志-灯组件更换,151
+33-26-03-960-804,Lavatory Door Switch - Adjustment/Replacement,盥洗室门电门-调节/更换,152
+33-27-00,PASSENGER AND LAVATORY CALL LIGHTS- MAINTENANCE PRACTICES,乘客和盥洗室呼叫灯-维护实施,153
+33-27-00-960-801,Passenger Call Light - PSU Light/Switch Replacement,乘客呼叫灯-PSU 灯/电门更换,154
+21-31-03,AFT OUTFLOW VALVE ASSEMBLY -REMOVAL/INSTALLATION,后外流活门组件-拆卸/安装,155
+21-32-01,POSITIVE PRESSURE RELIEF VALVE -REMOVAL/INSTALLATION,正压释压活门-拆卸/安装,156
+21-32-01-700-801,Positive Pressure Relief Valve - System Test with the Use of Hamilton Sundstrand Test Equipment,用Hamilton Sundstrand 测试设备对正压释压活门进行系统测试,157
+21-32-01-700-802,Positive Pressure Relief Valve - System Test with the Use of Boeing Test Equipment,用波音测试设备对正压释压活门进行系统测试,158
+21-32-02,POSITIVE PRESSURE RELIEF VALVE FILTER - REMOVAL/INSTALLATION,正压释压活门过滤器-拆卸/安装,159
+21-32-03,NEGATIVE PRESSURE RELIEF VALVE -MAINTENANCE PRACTICES,负压释压活门-维护实施,160
+21-32-05,CARGO COMPARTMENT BLOWOUT PANELS - REMOVAL/INSTALLATION,货舱释压板-拆卸/安装,161
+21-33-00,CABIN PRESSURE INDICATION SYSTEM -ADJUSTMENT/TEST,客舱压力指示系统-调整/测试,162
+21-33-00-000-801,Cabin Altitude Warning Switch Functional Test,客舱高度警告电门功能测试,163
+21-33-00-700-801,Check of the Cabin Rate of Climb Indicator,检查客舱爬升率指示器,164
+21-33-01,CABIN RATE OF CLIMB INDICATOR -REMOVAL/INSTALLATION,客舱爬升率指示器-拆卸/安装,165
+21-33-02,CABIN ALTITUDE AND DIFFERENTIAL PRESSURE INDICATOR - REMOVAL/INSTALLATION,客舱高度和压差指示器-拆卸/安装,166
+21-33-04,CABIN ALTITUDE WARNING SWITCH -REMOVAL/INSTALLATION,客舱高度和爬升率组件-拆卸和安装,167
+33-27-00-960-802,Lavatory Call Light - Light/Switch Replacement,盥洗室呼叫灯-灯/电门更换,168
+33-29-00,ENTRY LIGHTS - MAINTENANCE PRACTICES,入口灯-维护实施,169
+33-29-00-960-801,Entry Light - Fluorescent Lamp Replacement,入口灯-荧光灯更换,170
+33-32-00-960-801,Wheel Well Light - Lamp Replacement,轮舱灯-灯更换,171
+33-32-00-710-801,Wheel Well Lights - Operational Test,轮舱灯-操作测试,172
+33-33-00-960-801,Air Conditioning Compartment Light -Lamp Replacement,空调舱灯-灯更换,173
+33-34-00-960-801,Electronic Equipment Compartment Light - Lamp Replacement,电子设备舱灯-灯更换,174
+33-35-00-960-801,Accessory Compartment Light - Lamp Replacement,附属舱灯-灯更换,175
+33-36-00,CARGO COMPARTMENT LIGHTS -MAINTENANCE PRACTICES,货舱灯-维护实施,176
+33-36-00-960-801,天花板Cargo Compartment Light - Lamp Replacement Ceiling,货舱灯-灯更换,177
+33-41-00,WING ILLUMINATION LIGHTS -MAINTENANCE PRACTICES,机翼照明灯-维护实施,178
+33-41-00-960-801,Wing Illumination Light - Lamp Replacement,机翼照明灯-灯更换,179
+33-42-01,FIXED LANDING LIGHTS - MAINTENANCE PRACTICES,固定着陆灯-维护实施,180
+33-42-01-960-801,Fixed Landing Light - Lamp Replacement,固定着陆灯-灯更换,181
+33-42-01-820-801,Fixed Landing Light - Light Beam Adjustment,固定着陆灯-光束调节,182
+33-42-02,RETRACTABLE LANDING LIGHTS -MAINTENANCE PRACTICES,可收进着陆灯-维护实施,183
+33-42-02-960-801,Retractable Landing Light - Lamp Replacement,可收进着陆灯-灯更换,184
+33-42-02-960-803,Retractable Landing Light - Light Adjustment,可收进着陆灯-灯光调节,185
+33-43-00,POSITION LIGHTS - MAINTENANCE PRACTICES,航行灯-维护实施,186
+33-43-00-960-801,Position Light - Transformer Replacement,航行灯-变压器更换,187
+33-43-00-710-801,Position Lights - Operational Test,航行灯-操作测试,188
+33-43-01-960-801,Forward Position Light - Lamp Replacement,前航行灯-灯更换,189
+33-43-02-960-801,Aft Position Light - Lamp Replacement,后航行灯-灯更换,190
+33-43-02-960-802,Aft Position Light - Light Assembly Replacement,后航行灯-灯组件更换,191
+33-43-10,WINGLET POSITION LIGHTS -MAINTENANCE PRACTICES,小翼航行灯-维护实施,192
+33-43-10-960-801,Position Light - Transformer Replacement,航行灯-变压器更换,193
+33-43-10-710-801,Position Lights - Operational Test,航行灯-操作测试,194
+33-43-11,WINGLET FORWARD POSITION LIGHTS -MAINTENANCE PRACTICES,小翼前侧航行灯-维护实施,195
+33-43-11-960-801,Forward Position Light - Lamp Replacement,前航行灯-灯更换,196
+33-43-12-960-801,Aft Position Light - Lamp Replacement,后航行灯-灯更换,197
+33-43-12-960-802,Aft Position Light - Light Assembly Replacement,后航行灯-灯组件更换,198
+33-44-00-710-801,Anti-Collision Lights - Operational Test,防撞灯-操作测试,199
+33-44-01,UPPER ANTI-COLLISION LIGHT -MAINTENANCE PRACTICES,上部防撞灯-维护实施,200
+33-44-02,LOWER ANTI-COLLISION LIGHT -MAINTENANCE PRACTICES,下部防撞灯-维护实施,201
+33-44-03,WING ANTI-COLLISION LIGHTS -MAINTENANCE PRACTICES,机翼防撞灯-维护实施,202
+33-44-04-960-801,Wing Anti-Collision Light - Light Assembly Replacement,尾部防撞灯-灯更换,203
+33-44-04,TAIL ANTI-COLLISION LIGHT -MAINTENANCE PRACTICES,尾部防撞灯-维护实施,204
+33-44-13,WINGLET ANTI-COLLISION LIGHTS -MAINTENANCE PRACTICES,小翼防撞灯-维护实施,205
+33-45-01,TAXI LIGHT - MAINTENANCE PRACTICES,滑行灯-维护实施,206
+33-45-01-960-801,Taxi Light - Lamp Replacement,滑行灯-灯更换,207
+33-45-01-000-801,Taxi Light Housing Assembly - Removal,滑行灯壳体组件-拆卸,208
+33-45-01-400-801,Taxi Light Housing Assembly -Installation,滑行灯壳体组件-安装,209
+33-45-01-350-801,Nose Landing Gear Taxi Light Lens -Temporary Repair,前起落架滑行灯透镜-临时修理,210
+33-45-02-960-801,Runway Turnoff Light - Lamp Replacement,跑道侧向灯-灯更换,211
+33-45-02-820-801,Runway Turnoff Light - Light Beam Adjustment,跑道侧向灯-光束调节,212
+33-45-03-710-801,Taxi Light Relay - Operational Test,滑行灯继电器-操作测试,213
+33-45-03-960-801,Taxi Light Relay - Replacement,滑行灯继电器-更换,214
+33-46-00-710-801,Airstair Tread Light - Operational Test,登机梯踏板灯-操作测试,215
+33-49-00-960-801,Logo Light - Lamp Replacement,标识灯-灯泡更换,216
+33-49-00-960-802,Logo Light - Light Assembly Replacement,标识灯-灯组件更换,217
+33-51-00-710-801,Emergency Lights - Operational Test,应急灯-操作测试,218
+33-51-00-720-801,Emergency Lights - Operational Check,应急灯-操作检查,219
+33-51-01-960-801,Exit Sign - Lamp Replacement,出口标志牌-灯泡更换,220
+33-51-01-960-802,Exit Sign - Light Assembly Replacement,出口标志牌-灯组件更换,221
+33-51-02-720-801,Self Illuminated Exit Sign - Functional Test,自照明出口标志牌-功能测试,222
+33-51-02-020-801,Self Illuminated Exit Sign - Removal,自照明出口标志牌-拆卸,223
+33-51-02-400-801,Self Illuminated Exit Sign - Installation,自照明出口标志牌-安装,224
+33-51-03-960-801,Area Light - Lamp Replacement,区域灯-灯更换,225
+33-51-03-960-802,Area Light - Light Assembly Replacement,区域灯-灯组件更换,226
+33-51-04-960-801,Slide/Overwing Light - Lamp Replacement,滑梯/翼上灯-灯更换,227
+33-51-06,POWER SUPPLIES - MAINTENANCE PRACTICES,电源-维护实施,228
+33-51-12-960-801,Floor Proximity Light - Lamp Replacement,地面接近灯-灯更换,229
+33-51-12-960-802,Floor Proximity Light - Light Assembly Replacement,地面接近灯-灯组件更换,230
+33-51-14,FLOOR PROXIMITY LIGHTS ON GALLEYS LAVATORIES CLOSETS AND WINDSCREENS - MAINTENANCE PRACTICES,厨房、盥洗室、储藏室和挡风玻璃上的地面接近灯-维护实施,231
+33-51-15,FLOOR PROXIMITY LIGHTSPHOTOLUMINESCENT - MAINTENANCE PRACTICES,荧光地面接近灯-维护实施,232
+33-51-15-860-802,Floor Proximity Light - Light Assembly Replacement,客舱照明设备-测量有效的光强,233
+34-11-00,STATIC AND TOTAL AIR PRESSURE SYSTEM - MAINTENANCE PRACTICES,静压和全压系统-维护实施,234
+34-11-00-790-803,Captain’s Total Air Pressure System -Pressurization,机长全压系统-增加压力,235
+34-11-00-790-802,Static and Total Air Pressure System -Pressurization,静压和全压系统-增加压力,236
+34-11-00,STATIC AND TOTAL AIR PRESSURE SYSTEM - SERVICING,静压和全压系统-勤务,237
+34-11-00,STATIC AND TOTAL AIR PRESSURE SYSTEM - ADJUSTMENT/TEST,静压和全压系统-调整/测试,238
+34-11-01-000-801,Pitot Probe Removal,全压探头拆卸,239
+34-11-01-400-801,Pitot Probe Installation,全压探头安装,240
+34-11-01-200-804,Pitot Probe - Detailed Inspection,空速管探头-详细检查,241
+34-11-01-200-803,Pitot Probe - Special Detailed Inspection,空速管探头-特别详细检查,242
+34-11-01-100-801,Pitot Probe Cleaning,全压探头清洗,243
+1934/11/2,STATIC PORT - REMOVAL/INSTALLATION,静压孔-拆卸/安装,244
+34-11-02-200-803,Static Port - Detailed Inspection,静压孔-详细检查,245
+34-11-02-200-801,Static Port - Special Detailed Inspection,静压孔-特别详细的检查,246
+34-13-00-730-801,Air Data Instruments - System Test,大气数据仪表-系统测试,247
+34-13-01,STANDBY ALTIMETER/AIRSPEED INDICATOR - REMOVAL/INSTALLATION,高度／空速指示器 -拆卸/安装,248
+34-16-00-730-801,Mach Airspeed Warning System - Aural Warning Discrete Output Test,马赫数空速警告系统-声响警告离散输出测试,249
+34-21-00-820-801,Air Data Inertial Reference System -Alignment from the FMC CDU,通过FMC CDU 校准大气数据惯导基准系统 34-21-00-820-801,250
+34-21-00-820-802,Air Data Inertial Reference System -Alignment from the ISDU,通过ISDU 校准大气数据惯导基准系统,251
+34-21-00-200-801,IR Radial Position Error Check,IR 径向位置误差检查,252
+34-21-00-200-802,Inertial Reference Residual Groundspeed Error Check,惯性基准剩余地速误差检查,253
+34-21-00-710-801,Air Data Inertial Reference System -Operational Test,大气数据惯导基准系统-操作测试,254
+34-21-00-730-801,Inertial Reference - System Test,系统测试惯性基准,255
+34-21-00-730-802,Air Data Reference - System Test,大气数据参考-系统测试,256
+34-21-01-000-801,Air Data Inertial Reference Unit Removal,大气数据惯导基准组件拆卸,257
+34-21-01-400-801,Air Data Inertial Reference Unit Installation,大气数据惯导基准组件安装,258
+34-21-02-000-801,Inertial System Display Unit Removal,惯性系统显示组件拆卸,259
+34-21-02-400-801,Inertial System Display Unit Installation,惯性系统显示组件安装,260
+34-21-03-000-801,IRS Mode Select Unit Removal,IRS 模式选择组件拆卸,261
+34-21-03-400-801,IRS Mode Select Unit Installation,IRS 模式选择组件安装,262
+34-21-04-000-801,Pitot Air Data Module Removal,空速管大气数据模块拆卸,263
+34-21-04-000-802,Static Air Data Module Removal,静态大气数据组件拆卸,264
+34-21-04-400-801,Pitot Air Data Module Installation,空速管大气数据模块安装,265
+34-21-04-400-802,Static Air Data Module Installation,静态大气数据组件安装,266
+34-21-05-000-801,Angle of Attack Sensor Removal,迎角传感器拆卸,267
+34-21-05-400-801,Angle of Attack Sensor Installation,迎角传感器安装,268
+34-21-05-200-801,Angle of Attack Sensor - Inspection,迎角传感器-检验,269
+34-21-06-000-801,Total Air Temperature Probe Removal,全空温探头拆卸,270
+34-21-06-400-801,Total Air Temperature Probe Installation,全空温探头安装,271
+34-21-06-000-802,Total Air Temperature Probe -Inspection,全空温探头-检验,272
+34-21-07-000-801,IRS Master Caution Unit Removal,IRS 主警戒组件拆卸,273
+34-21-07-400-801,IRS Master Caution Unit Installation,IRS 主警戒组件安装,274
+34-22-01-000-801,Radio Magnetic Indicator (RMI) Removal,无线电磁指示器(RMI)拆卸,275
+34-22-01-400-801,Radio Magnetic Indicator (RMI) Installation,无线电磁指示器(RMI)安装,276
+34-23-00-820-801,Standby Magnetic Compass Calibrator Procedure,备用磁罗盘校准器程序,277
+34-23-00-820-802,Standby Magnetic Compass Taxi/Tow Around Procedure,备用磁罗盘滑行/旋转牵引程序,278
+34-23-01-000-802,Standby Magnetic Compass Light -Removal,备用磁罗盘灯-拆卸,279
+34-23-01-400-802,Standby Magnetic Compass Light -Installation,备用磁罗盘灯-安装,280
+34-23-01-000-801,Standby Magnetic Compass Removal,备用磁罗盘拆卸,281
+34-23-01-400-801,Standby Magnetic Compass Installation,备用磁罗盘安装,282
+34-24-00-730-801,Standby Attitude Reference System -System Test,备用姿态基准系统-系统测试,283
+34-24-01-000-802,Standby Attitude Indicator Light Removal,备用姿态指示器灯拆卸,284
+34-24-01-400-802,Standby Attitude Indicator Light Installation,备用姿态指示器灯安装,285
+34-24-01-000-801,Standby Attitude Indicator Removal,备用姿态指示器拆卸,286
+34-24-01-400-801,Standby Attitude Indicator Installation,备用姿态指示器安装,287
+34-24-02-000-801,Integrated Standby Flight Display Removal,综合备用飞行显示器拆卸,288
+34-24-02-400-801,Integrated Standby Flight Display Installation,综合备用飞行显示器安装,289
+34-24-02-710-801,Integrated Standby Flight Display -Operational Tes,综合备用飞行显示器-操作测试,290
+34-24-02-730-801,Integrated Standby Flight Display -System Test,综合备用飞行显示器-系统测试,291
+34-24-02-710-802,ISFD Dedicated Battery System -Operational Test,ISFD 专用电瓶系统-操作测试,292
+34-24-03-000-801,ISFD Dedicated System and Battery Pack Removal,ISFD 专用系统和电瓶组拆卸,293
+34-24-03-400-801,ISFD Dedicated Battery System and Battery Pack Installation,ISFD 专用电瓶系统和电瓶组安装,294
+34-31-00-710-801,Instrument Landing System -Operational Test,仪表着陆系统-操作测试,295
+34-31-00-730-801,Instrument Landing System - System Test,仪表着陆系统-系统测试,296
+34-31-21-000-801,ILS Glide Slope Antenna Removal,ILS 下滑道天线拆卸,297
+21-45-00,DOOR AREA HEATING SYSTEM -ADJUSTMENT/TEST,门区域加热系统-调整/测试,298
+21-45-02,EMERGENCY EXIT DOOR HEATER SYSTEM - REMOVAL/INSTALLATION,应急出口门加热器系统-拆卸/安装,299
+21-51-00,PACK FLOW CONTROL AND PACK COOLING SYSTEM - ADJUSTMENT/TEST,Pack 组件流量控制和Pack 组件冷却系统-调整/测试,300
+21-51-00-700-801,Low Limit 35 Degree F BITE Test,低温限制35°F BITE 测试,301
+21-51-00-700-803,Pack/Zone Temperature Controller BITE Test,Pack 组件/区域温度控制器BITE测试,302
+21-51-00-700-802,Pack Flow Control Valve - Operational Tes,Pack 组件流量控制活门-操作测试,303
+21-51-00-943-801,Pack Flow Control and Pack Cooling System Check,组件流量控制和组件冷却系统检查,304
+21-51-01-000-801-001,Flow Control and Shutoff Valve Removal,拆卸流量控制活门和关断活门,305
+21-51-01-400-801-001,Flow Control and Shutoff Valve Installation,安装流量控制活门和关断活门,306
+21-51-01-000-802-002,Left Flow Control and Shutoff Valve Removal,左侧流量控制活门和关断活门拆卸,307
+21-51-01-000-805-002,Right Flow Control and Shutoff Valve Removal,右侧流量控制和关断活门拆卸,308
+21-51-01-000-805-002,Left Flow Control and Shutoff Valve Installation,左侧流量控制和关断活门安装,309
+21-51-01-400-802-002,Right Flow Control and Shutoff Valve Installation,右侧流量控制和关断活门安装,310
+34-31-21-400-801,ILS Glide Slope Antenna Installation,ILS 下滑道天线安装,311
+34-31-31-000-801,Localizer Antenna Removal,定位信标天线拆卸,312
+34-31-31-400-801,Localizer Antenna Installation,定位信标天线安装,313
+34-31-42-000-801,Receiver for ILS - Removal,ILS 接收机-拆卸,314
+34-31-42-400-801,Receiver for ILS - Installation,ILS 接收机-安装,315
+34-31-52-000-801,Navigation Control Panel Removal,导航控制面板拆卸,316
+34-31-52-400-801,Navigation Control Panel Installation,导航控制面板安装,317
+34-31-62-000-801,RF Power Divider Removal,RF 电源分配器拆卸,318
+34-31-62-400-801,RF Power Divider Installation,RF 电源分配器安装,319
+34-31-72-000-801,Localizer Antenna Switch Removal,定位信标天线电门拆卸,320
+34-31-72-400-801,Localizer Antenna Switch Installation,定位器天线电门安装,321
+34-32-00-710-801,Marker Beacon System - Operational Test,标记信标系统-操作测试,322
+34-32-00-730-801,Marker Beacon System - System Test,标记信标系统-系统测试,323
+34-32-11-000-801,Marker Beacon Antenna Removal,标记信标天线拆卸,324
+34-32-11-000-802,Marker Beacon Antenna with Gasket -Removal,带密封垫的标记信标天线-拆卸,325
+34-32-11-400-801,Marker Beacon Antenna Installation,标记信标天线安装,326
+34-32-11-400-802,Marker Beacon Antenna with Gasket -Installation,带密封垫的标记信标天线-安装,327
+34-33-00-700-801,Radio Altitude Simulation Test,无线电高度模拟测试,328
+34-33-00-710-801,Low Range Radio Altimeter (LRRA) System - Operational Test,低读数无线电高度计(LRRA)系统-操作测试,329
+34-33-00-730-801,Low Range Radio Altimeter (LRRA) System - System Test,低读数无线电高度计(LRRA)系统-系统测试,330
+34-33-11-000-801,Low Range Radio Altimeter (LRRA) Antenna Removal,低读数无线电高度计(LRRA)天线拆卸,331
+34-33-11-000-802,Low Range Radio Altimeter (LRRA) Antenna with Gasket - Removal,带有密封垫的低读数无线电高度计(LRRA)天线-拆卸,332
+34-33-11-400-801,Low Range Radio Altimeter (LRRA) Antenna Installation,低读数无线电高度计(LRRA)天线安装,333
+34-33-11-400-802,Low Range Radio Altimeter (LRRA) Antenna with Gasket - Installation,带有密封垫的低读数无线电高度计(LRRA)天线-安装,334
+34-33-11-211-802,Low Range Radio Altimeter (LRRA) Antenna Inspection and Check,低范围无线电高度计(LRRA)天线检验和检查,335
+34-33-21-000-801,Low Range Radio Altimeter (LRRA) Receiver/Transmitter (R/T) Removal,低读数无线电高度计(LRRA)接收机/发射机(R/T)拆卸,336
+34-33-21-400-801,Low Range Radio Altimeter (LRRA)Receiver/Transmitter (R/T) Installation,低读数无线电高度计(LRRA)接收机/发射机(R/T)安装,337
+34-43-00-710-802-001,Weather Radar (WXR) System -Operational Test,气象雷达(WXR)系统-操作测试,338
+34-43-00-730-802-001,Weather Radar (WXR) System - System Test,气象雷达(WXR)系统-系统测试,339
+34-43-09-000-801,Weather Radar Receiver/Transmitter Mount Filter Removal,气象雷达接收机/发射机安装座滤波器拆卸,340
+34-43-09-400-801,Weather Radar Receiver/Transmitter Mount Filter Installation,气象雷达接收机/发射机安装座滤波器安装,341
+34-43-09-100-801,Weather Radar R/T Mount Filter Cleaning,气象雷达R/T 安装座过滤器清洗,342
+34-43-11-000-801,Weather Radar Antenna Flat Plate Removal,气象雷达天线平板拆卸,343
+34-43-11-400-801,Weather Radar Antenna Flat Plate Installation,气象雷达天线平板安装,344
+34-43-11-000-802,Weather Radar Antenna Drive Unit Removal,气象雷达天线驱动组件拆卸,345
+34-43-11-400-802,Weather Radar Antenna Drive Unit Installation,气象雷达天线驱动组件安装,346
+34-43-21-000-801,WXR Waveguide Removal,WXR 波导拆卸,347
+34-43-21-400-801,WXR Waveguide Installation,WXR 波导安装,348
+34-43-31-000-801,Weather Radar Receiver/Transmitter Mount Removal,气象雷达接收机/发射机安装座的拆卸,349
+34-43-31-400-801,Weather Radar Receiver/Transmitter Mount Installation,气象雷达接收机/发射机安装座的安装,350
+34-43-41-000-801,Weather Radar Receiver/Transmitter Removal,气象雷达接收机/发射机拆卸,351
+34-43-41-400-801,Weather Radar Receiver/Transmitter Installation,气象雷达接收机/发射机安装,352
+34-43-51-000-801,Weather Radar R/T Mount Blower Assembly Removal,气象雷达R/T 安装座鼓风机组件拆卸,353
+34-43-51-400-801,Weather Radar R/T Mount Blower Assembly Installation,气象雷达R/T 安装座鼓风机组件安装,354
+34-43-91-000-801,Weather Radar Control Panel Removal,气象雷达控制面板拆卸,355
+34-43-91-400-801,Weather Radar Control Panel Installation,气象雷达控制面板安装,356
+34-45-00-710-801,TCAS - Operational Test,TCAS-操作测试,357
+34-45-00-730-801,TCAS - System Test (With the IFR TCAS-201 Test Set),TCAS-系统测试(用IFR TCAS-201测试装置),358
+34-45-00-730-802,TCAS - System Test (with the TIC T-49 Test Set),TCAS-系统测试(通过TIC T-49 测试装置),359
+34-45-00-730-803,TCAS - System Test (With the IFR-6000 Test Set,TCAS-系统测试(用IFR-6000 测试装置),360
+34-45-01-000-801,TCAS Computer Removal,TCAS 计算机拆卸,361
+34-45-01-400-801,TCAS Computer Installation,TCAS 计算机安装,362
+34-45-02-000-801,TCAS Antenna Removal,TCAS 天线拆卸,363
+34-45-02-000-802,TCAS Antenna with Gasket - Removal,带密封垫的TCAS 天线-拆卸,364
+34-45-02-400-801,TCAS Antenna Installation,TCAS 天线安装,365
+34-45-02-400-802,TCAS Antenna with Gasket - Installation,带密封垫的TCAS 天线-安装,366
+34-46-00-470-802,Load the Terrain Database,装载地形数据库,367
+34-46-00-700-801,Verify the Terrain Database Part Number,检验地形数据库零件号,368
+34-46-00-970-801,Flight History Data Download,飞行历史数据下载,369
+34-46-00-710-804-002,Ground Proximity Warning System -Operational Test,近地警告系统GPWS-操作试验,370
+34-46-01-000-801,Ground Proximity Warning Computer Removal,近地警告计算机拆卸,371
+34-46-01-400-801,Ground Proximity Warning Computer Installation,近地警告计算机安装,372
+34-46-02-000-801,Ground Proximity Warning Module Removal,近地警告组件拆卸,373
+34-46-02-400-801,Ground Proximity Warning Module Installation,近地警告组件安装,374
+34-51-00-710-801,VOR System - Operational Test,VOR 系统-操作测试,375
+34-51-00-730-801,VOR System - System Test,VOR 系统-系统测试,376
+34-51-01-000-801,VOR/MKR Receiver Removal,VOR/MKR 接收机拆卸,377
+34-51-01-400-801,VOR/MKR Receiver Installation,VOR/MKR 接收机安装,378
+34-51-02-000-801,VOR/LOC Antenna Removal,VOR/LOC 天线拆卸,379
+34-51-02-400-801,VOR/LOC Antenna Installation,VOR/LOC 天线安装,380
+34-53-00-710-801,Air Traffic Control System - Operational Test,空中交通管制系统ATC-操作测试,381
+34-53-00-730-803,ATC System Test (With the ATC-601 Test Set),ATC 系统测试(用ATC-601 测试装置),382
+34-53-00-730-802,System Test - ATC System (With the TIC T-48 or T-49 Series Test Set),系统测试-ATC 系统(通过TIC T-48或T-49 系列测试装置),383
+34-53-00-730-805,ATC System - System Test (With the IFR 6000 Test Set,ATC 系统-系统测试(用IFR 6000测试装置),384
+34-53-00-730-806,ATC System Test (With the TR-220 Test Set),ATC 系统测试(用TR-220 测试装置),385
+34-53-01-000-801,ATC Antenna Removal,ATC 天线拆卸,386
+34-53-01-000-802,ATC Antenna with Gasket - Removal,装有密封垫的ATC 天线-拆卸,387
+34-53-01-400-801,ATC Antenna Installation,ATC 天线安装,388
+34-53-01-400-802,ATC Antenna with Gasket - Installation,装有密封垫的ATC 天线-安装,389
+34-53-01-200-801,Air Traffic Control (ATC) Antenna -Inspection/Check,空中交通管制(ATC)天线-检验/检查,390
+34-53-02-020-801,ATC Transponder Removal,ATC 应答机拆卸,391
+34-53-02-400-801,ATC Transponder Installation,ATC 应答机安装,392
+34-53-03-000-801,ATC Control Panel Removal,ATC 控制面板拆卸,393
+34-53-03-400-801,ATC Control Panel Installation,ATC 控制面板安装,394
+34-53-04-000-801,ATC Antenna Switch Removal,ATC 天线电门拆卸,395
+34-53-04-400-801,ATC Antenna Switch Installation,ATC 天线电门安装,396
+34-55-00-710-801,DME System - Operational Test,DME 系统-操作试验,397
+34-55-00-730-801,DME System - System Test,DME 系统-系统测试,398
+34-55-11-000-801,DME Antenna Removal,DME 天线拆卸,399
+34-55-11-000-802,DME Antenna with Gasket - Removal,带有垫圈的DME 天线-拆卸,400
+34-55-11-400-801,DME Interrogator Removal,DME 天线安装,401
+34-55-11-400-802,DME Interrogator Installation,带有垫圈的DME 天线-安装,402
+34-55-21-000-801,DME Interrogator Removal,DME 应答机拆卸,403
+34-55-21-400-801,DME Interrogator Installation,DME 应答机安装,404
+34-57-00-730-802,Automatic Direction Finder System -System Test,自动定向仪系统ADF-系统测试,405
+34-57-01-000-801,ADF Antenna Removal,ADF 天线拆卸,406
+34-57-01-400-801,ADF Antenna Installation,ADF 天线安装,407
+34-57-02-000-801,ADF Control Panel Removal,ADF 控制面板拆卸,408
+34-57-02-400-801,ADF Control Panel Installation,ADF 控制面板安装,409
+34-57-03-000-801,ADF Receiver Removal,ADF 接收机拆卸,410
+34-57-03-400-801,ADF Receiver Installation,ADF 接收机安装,411
+34-58-00-710-802,Global Positioning System - Operational Test,全球定位系统GPS-操作测试,412
+34-58-00-730-802,Global Positioning System - System Test,全球定位系统GPS-系统测试,413
+34-58-02-000-802,GPS Antenna Removal,GPS 天线拆卸,414
+34-58-02-400-802,GPS Antenna Installation,安装GPS 天线,415
+34-61-00-470-804,FMC Software Installation with an Airborne Data Loader,使用机载数据载入器进行FMC软件安装,416
+34-61-00-470-805,FMC Software Installation with a Portable Data Loader,用便携式数据载入器进行FMC 软件安装,417
+34-61-00-470-806,FMC Software Crossload,FMC 软件交叉传输,418
+34-61-00-750-801,FMC Software Configuration Check,FMC 软件构型检查,419
+34-61-00-470-807,CDU Software Installation with an Airborne Data Loader (AIRPLANES WITH LIQUID CRYSTAL DISPLAY CDU),用飞行数据载入器进行CDU 软件安装(带有液晶显示器CDU 的飞机),420
+34-61-00-750-802,CDU Software Configuration Check (AIRPLANES WITH LIQUID CRYSTAL DISPLAY CDU),检查CDU 软件配置(带有液晶显示器CDU 的飞机),421
+34-61-00-470-809,Software Installation when the Airborne Data Loader is Inoperative,机载数据载入器不工作时的软件安装,422
+34-61-00-810-801,FMC Diagnostic Data Transfer,FMC 诊断数据传输,423
+34-61-00-400-801,Setting Zero Fuel Weight,设定零燃油重量,424
+34-61-00-710-801,Flight Management Computer System -Operational Test,飞行管理计算机系统-操作测试,425
+34-61-00-730-801,Flight Management Computer System -System Test,飞行管理计算机系统-系统测试,426
+34-61-00-800-801,FMCS Performance Factors -Adjustment,FMCS 性能系数调节,427
+34-61-01-100-801,FMCS CDU Cooling Vent and Surfaces Cleaning,FMCS CDU 冷却排放和表面清洗,428
+34-61-01-100-802,FMCS CDU Display Cleaning,FMCS CDU 显示器清洁,429
+34-61-01-000-801,FMCS CDU Keyboard Removal,FMCS CDU 键盘拆卸,430
+34-61-01-400-801,FMCS CDU Keyboard Installation,FMCS CDU 键盘安装,431
+34-61-01-710-801,CDU Lamp Test,FMCS 控制显示组件CDU灯泡试验,432
+34-61-01-000-802,FMCS Control Display Unit (CDU) Removal,FMCS 控制显示组件(CDU)拆卸,433
+34-61-01-400-802,FMCS Control Display Unit (CDU) Installation,FMCS 控制显示组件(CDU)安装,434
+34-61-02-000-801,FMCS Computer Removal,FMCS 计算机拆卸,435
+34-61-02-400-801,FMCS Computer Installation,FMCS 计算机安装,436
+34-61-03-100-801,Airborne Data Loader Head Cleaning,机载数据载入器磁头清洗,437
+34-61-03-000-801,Airborne Data Loader Removal,机载数据载入器拆卸,438
+34-61-03-400-801,Airborne Data Loader Installation,机载数据载入器安装,439
+35-00-00,OXYGEN - MAINTENANCE PRACTICES,氧气-维护实施,440
+21-51-02-000-801,Air Conditioning Accessory Unit (ACAU) Removal,空调附件组件(ACAU)的拆卸,441
+21-51-02-400-801,Air Conditioning Accessory Unit (ACAU) Installation,安装空调附件组件(ACAU),442
+21-51-02-710-801-001,Air Conditioning Accessory Unit -Operational Test,空调附件组件-操作试验,443
+21-51-02-710-802-002,Air Conditioning Accessory Unit -Operational Test,空调附件组件-操作试验,444
+21-51-03,HEAT EXCHANGER AND PLENUM/DIFFUSER ASSEMBLY - REMOVAL/INSTALLATION,热交换器和通风装置/扩散器组件-拆卸/安装,445
+21-51-04,AIR CYCLE MACHINE - REMOVAL/INSTALLATION,空气循环机-拆卸/安装,446
+21-51-05,WATER SEPARATOR - MAINTENANCE PRACTICES,水分离器-维护实施,447
+21-51-06,WATER SPRAY INJECTOR - REMOVAL/INSTALLATION,喷水器-拆卸/安装,448
+21-51-07,CONDITIONED AIR CHECK VALVE -REMOVAL/INSTALLATION,调节空气单向活门-拆卸/安装,449
+21-51-08,HIGH PRESSURE WATER SEPARATOR (HPWS) - REMOVAL/INSTALLATION,高压水分离器(HPWS)-拆卸/安装,450
+21-51-09,LOW PRESSURE WATER SYSTEM MIX MUFF - REMOVAL/INSTALLATION,低压水系统混合套管-拆卸/安装,451
+21-51-10,TEMPERATURE CONTROL VALVE -REMOVAL/INSTALLATION,温度控制活门-拆卸/安装,452
+21-51-11,STANDBY TEMPERATURE CONTROL VALVE - REMOVAL/INSTALLATION,备用温度控制活门-拆卸/安装,453
+35-00-00-910-801,Oxygen System General Maintenance Practices,氧气系统常规维护实施,454
+35-00-00-910-802,Safety Precautions,安全预防措施,455
+35-00-00-910-803,Maintenance Practices,维护措施,456
+35-00-00-790-801,Leak Detection,渗漏检测,457
+35-00-00-420-801,Installation of Caps on Open Oxygen Lines,在开放的氧气管上安装盖子,458
+35-00-00-910-804,Oxygen Tubing Removal and Installation,氧气导管拆卸和安装,459
+35-00-00-600-801,Servicing of the Crew Oxygen System,机组氧气系统勤务,460
+35-00-00-600-802,Servicing of the Passenger Oxygen System,旅客供氧系统勤务,461
+35-00-00-600-803,Portable Oxygen System Servicing,便携式氧气系统勤务,462
+35-00-00-100-801,Clean the Oxygen System Components,清洁氧气系统部件,463
+35-12-00,CREW OXYGEN SYSTEM - MAINTENANCE PRACTICES,机组氧气系统-维护实施,464
+35-12-00-700-801,Crew Oxygen Stowage Box Test (Mask Stowed in Stowage Box),机组氧气储存盒测试(面罩存放在储存盒内),465
+35-12-00-700-802,Crew Oxygen Mask-Regulator Test,机组氧气面罩-调节器测试,466
+35-12-00-710-801,Crew Oxygen Pressure Indication Operational Test,机组氧气压力指示操作测试,467
+35-12-00,CREW OXYGEN SYSTEM - INSPECTION/CHECK,机组氧气系统-检验/检查,468
+1935/12/11,PRESSURE REDUCING REGULATOR -REMOVAL/INSTALLATION,减压调节器-拆卸/安装,469
+1935/12/21,PRESSURE TRANSDUCER - REMOVAL/INSTALLATION,压力传感器-拆卸/安装,470
+1935/12/22,CREW OXYGEN PRESSURE INDICATOR -REMOVAL/INSTALLATION,机组氧气压力指示器-拆卸/安装,471
+35-12-51,DISCHARGE INDICATOR DISC - REMOVAL/INSTALLATION,排放指示盘-拆卸/安装,472
+35-12-71,REMOTE FILL PANEL PRESSUREINDICATOR - REMOVAL/INSTALLATION,远端加注面板压力指示器-拆卸/安装,473
+35-12-81,REMOTE FILL PANEL AND FILL VALVE -REMOVAL/INSTALLATION,远端加注面板和加注活门-拆卸/安装,474
+35-12-85-910-801,Crew Oxygen Mask Stowage,机组氧气面罩储存,475
+35-12-85,CREW OXYGEN MASK/STOWAGE BOX -REMOVAL/INSTALLATION,机组氧气面罩/储存盒-拆卸/安装,476
+35-12-85-100-801,Clean the Crew Oxygen Mask,清洁机组氧气面罩,477
+35-21-00,PASSENGER OXYGEN SYSTEM -ADJUSTMENT/TEST,旅客供氧系统(气态)-调整/测试,478
+35-21-00-210-801,Visual Inspection of the Heat-SensitiveBand On Oxygen Generator,旅客氧气瓶安全性和状态检查,479
+35-22-00-700-801,Passenger Oxygen System - Functional Test,客舱高度警告电门功能测试,480
+35-22-00,PASSENGER OXYGEN SYSTEM -ADJUSTMENT/TEST,旅客氧气系统-调节/测试,481
+35-22-00-700-801,Passenger Oxygen System - Functional Test,旅客供氧系统-功能测试,482
+35-22-00-210-801,Visual Inspection of the Heat-SensitiveBand On Oxygen Generator,目视检查氧气发生器上的热敏带,483
+35-22-11-000-811-001,Oxygen Generator Deactivation,氧气发生器解除,484
+35-22-11-400-811-001,Oxygen Generator Activation,氧气发生器激活,485
+35-22-11,OXYGEN GENERATOR - REMOVAL/INSTALLATION,氧气发生器-拆卸/安装,486
+35-22-21,OXYGEN MASK DOOR LATCH ACTUATOR -REMOVAL/INSTALLATION,氧气面罩门闩作动筒-拆卸/安装,487
+35-22-31,PASSENGER OXYGEN MASK -MAINTENANCE PRACTICES,旅客氧气面罩-维护实施,488
+35-22-31-210-801-001,Visual Inspection of the Oxygen Mask,目视检验氧气面罩,489
+35-22-31-000-801-001,PSU Oxygen Mask Removal,PSU 氧气面罩拆卸,490
+35-22-31-400-801-001,PSU Oxygen Mask Installation,PSU 氧气面罩安装,491
+35-22-31-100-801-001,Clean the Oxygen Mask Assembly,清洁氧气面罩组件,492
+35-22-41,ALTITUDE PRESSURE SWITCH - REMOVAL/INSTALLATION,高空压力电门-拆卸/安装,493
+35-31-00-710-801,Portable Oxygen Cylinder Pressure andCondition Check,便携式氧气瓶压力和状况检查,494
+35-31-00-710-802,Portable Oxygen Cylinder Leak Check,便携式氧气瓶泄漏检查,495
+35-31-00-100-801,Clean the Portable Oxygen SystemComponents,清洁便携式氧气系统部件,496
+35-31-01-960-801,Replace Portable Oxygen Cylinder,更换便携式氧气瓶,497
+35-31-02-000-801,Portable Protective Breathing Equipment Removal,便携式呼吸保护设备拆卸,498
+35-31-02-400-801,Portable Protective Breathing Equipment Installation,便携式呼吸保护设备安装,499
+36-00-00,PNEUMATIC - MAINTENANCE PRACTICES,气动-维护实施,500
+36-00-00-860-802,Supply Pressure to the Pneumatic System with an External Ground Air Source,用外部地面气源给气动系统供压,501
+36-00-00-860-803,Supply Pressure to the Pneumatic System with the APU,用APU 给气动系统供压,502
+36-00-00-860-804,Supply Pressure to the Pneumatic System with One or Both Engines,通过一台或两台发动机给气动系统供压,503
+36-00-00-860-805,Supply Pressure Upstream of the PRSOV,给PRSOV上游供压,504
+36-00-00-860-806,Remove Pressure from the Pneumatic System,从引气系统上释放压力,505
+36-11-00,ENGINE BLEED AIR DISTRIBUTION SYSTEM - ADJUSTMENT/TEST,发动机引气分配系统-调整/测试,506
+36-11-00-720-801,Bleed Air Regulator and 490F Overtemperature Switch Functional Test,引气调节器和490°F 超温电门的功能测试,507
+36-11-00-730-801,Engine Bleed Trip Off Voltage Test,发动机引气跳闸电压测试,508
+36-11-00-710-801,Engine Bleed Air Crossover Operational Test,发动机引气交叉操作测试,509
+36-11-00-700-80,Engine Bleed Air System Health Check,发动机引气系统良好状况检查,510
+36-11-00-700-802,Engine Bleed Air System Leak Check Using the APU,使用APU 进行发动机引气系统泄漏检查,511
+36-11-00-700-803,Engine Bleed Air System Health Check Using a Portable Valve Actuating Test Set,使用手提式活门起动测试装置进行发动机引气系统正常状况检查,512
+1936/11/1,ENGINE PNEUMATIC DUCT - REMOVAL/INSTALLATION,发动机气动管-拆卸/安装,513
+1936/11/2,BLEED AIR CHECK VALVE (5TH-STAGE) -REMOVAL/INSTALLATION,引气单向活门(第5 级)-拆卸/安装,514
+36-11-02-200-801,Bleed Air Check Valve Inspection,引气单向活门(第5 级)-检验/检查,515
+1936/11/3,BLEED AIR REGULATOR - REMOVAL/INSTALLATION,引气调节器-拆卸/安装,516
+1936/11/4,PRESSURE REGULATING AND SHUTOFF VALVE (PRSOV) - REMOVAL/INSTALLATION,压力调节和关断活门(PRSOV)-拆卸/安装,517
+1936/11/5,4508 F THERMOSTAT - REMOVAL/INSTALLATION,450°F 恒温器-拆卸/安装恒温器拆卸,518
+1936/11/6,HIGH STAGE VALVE - REMOVAL/INSTALLATION,高压活门-拆卸/安装,519
+1936/11/7,HIGH STAGE REGULATOR - REMOVAL/INSTALLATION,高压调节器-拆卸/安装,520
+1936/11/8,4508 F THERMOSTAT - REMOVAL/INSTALLATION,490°F 超温电门-拆卸/安装,521
+36-12-00,BLEED AIR PRECOOLER SYSTEM -ADJUSTMENT/TEST,引气预冷器系统-调整/测试,522
+1936/12/1,BLEED AIR PRECOOLER - MAINTENANCE PRACTICES,引气预冷器-维护实施,523
+1936/12/1,BLEED AIR PRECOOLER - REMOVAL/INSTALLATION,引气预冷器-拆卸/安装,524
+1936/12/2,PRECOOLER CONTROL VALVE - REMOVAL/INSTALLATION,预冷器控制活门-拆卸/安装,525
+1936/12/3,PRECOOLER CONTROL VALVE SENSOR -EMOVAL/INSTALLATION,预冷器控制活门传感器-拆卸/安装,526
+36-13-00,PNEUMATIC MANIFOLD SYSTEM -ADJUSTMENT/TEST,气动总管系统-调整/测试,527
+36-13-00-710-801,Bleed Air Isolation Valve Operational Test,引气隔离活门操作试验,528
+36-13-00-700-801,Pneumatic System Duct Leakage Test,气动系统导管泄漏测试,529
+36-13-01,PNEUMATIC MANIFOLD DUCT - REMOVAL/INSTALLATION,气动总管管道-拆卸/安装,530
+36-13-01-200-801,Pneumatic Manifold Duct Inspection,气动总管管道的检验,531
+36-13-01-100-801,Pneumatic Duct Cleaning,气动管的清洗,532
+36-13-01-300-801,Pneumatic Duct Repairs,气动管的修理,533
+36-13-02,Pneumatic Duct Insulation Removal,气动管隔热层-拆卸/安装,534
+36-13-02-300-801,Pneumatic Duct Insulation Repair,气动管隔热层-修理,535
+36-13-03,GROUND PNEUMATIC CONNECTOR CHECK VALVE - REMOVAL/INSTALLATION,地面气动接头单向活门-拆卸/安装,536
+36-13-04,BLEED AIR ISOLATION VALVE - REMOVAL/INSTALLATION,引气隔离活门-拆卸/安装,537
+36-14-00-710-801,Dual Bleed Warning Test,双引气警告测试,538
+36-14-02,APU CHECK VALVE - REMOVAL/INSTALLATION,APU 单向活门-拆卸/安装,539
+36-21-01,DUCT PRESSURE TRANSDUCER -REMOVAL/INSTALLATION,管道压力转换器-拆卸/安装,540
+36-21-02,DUAL DUCT PRESSURE INDICATOR -REMOVAL/INSTALLATION,双管道压力指示器-拆卸/安装,541
+38-10-00-600-801,Potable Water System - Disinfectant,饮用水系统-消毒,542
+38-10-00-790-801,Potable Water System - Leak Test,饮用水系统-泄漏测试,543
+38-10-00-100-801,Manually Clean the Potable Water Tank,手动清洁饮用水水箱,544
+1938/11/1,WATER TANK - REMOVAL/INSTALLATION,水箱-拆卸/安装,545
+1938/11/3,FILL/OVERFLOW VALVE AND CONTROL CABLE - REMOVAL/INSTALLATION,加水活门/溢流活门和控制电缆-拆卸/安装,546
+1938/11/5,LAVATORY FAUCET - MAINTENANCE PRACTICES,盥洗室龙头-维护实施,547
+38-11-06-000-802-001,Forward Lavatory Drain Valve Operational Check,前盥洗室排放活门的操作检查,548
+1938/11/6,FORWARD LAVATORY DRAIN VALVE -REMOVAL/INSTALLATION,前盥洗室排放活门-拆卸/安装,549
+1938/11/7,LAVATORY WATER SUPPLY SHUTOFF VALVE - REMOVAL/INSTALLATION,盥洗室供水关断活门-拆卸/安装,550
+1938/11/8,WATER TANK DRAIN VALVE AND CONTROL CABLE - REMOVAL/INSTALLATION,水箱排放活门和控制电缆-拆卸/安装,551
+1938/11/9,POTABLE WATER FILL FITTING - REMOVAL/INSTALLATION,饮用水加水接头-拆卸/安装,552
+38-13-01,WATER HEATER - REMOVAL/INSTALLATION,热水器-拆卸/安装,553
+38-14-01,WATER QUANTITY TRANSMITTER -REMOVAL/INSTALLATION,水量传感器-拆卸/安装,554
+38-14-01-800-801,WATER QUANTITY TRANSMITTER -ADJUSTMENT/TEST,水量传感器-调整/测试,555
+38-14-02,ATTENDANT’S PANEL WATER QUANTITY INDICATOR - REMOVAL/INSTALLATION,乘务员面板污水量指示器-拆卸/安装,556
+38-31-00,GRAY WATER/DRAIN SYSTEM -MAINTENANCE PRACTICES,洗盥污水/排水系统-维护实施,557
+38-31-01,DRAIN MAST - REMOVAL/INSTALLATION,排水柱-拆卸/安装,558
+38-31-03,SILL DRAIN BLADDER ASSEMBLY -REMOVAL/INSTALLATION,梁排放球囊组件-拆卸/安装,559
+38-31-06,SILL DRAIN FLOAT VALVE - REMOVAL/INSTALLATION,梁排放浮子活门-拆卸/安装,560
+38-32-00,VACUUM WASTE SYSTEM - MAINTENANCE PRACTICES,真空污水系统-维护实施,561
+38-32-00,VACUUM WASTE SYSTEM - REMOVAL/INSTALLATION,真空污水系统-拆卸/安装,562
+38-32-00,VACUUM WASTE SYSTEM - ADJUSTMENT/TEST,真空污水系统-调整/测试,563
+38-32-00,VACUUM WASTE SYSTEM - CLEANING/PAINTING,真空污水系统-清洗/喷漆,564
+38-32-02,LIQUID SEPARATOR - MAINTENANCE PRACTICES,液体分离器-维护实施,565
+38-32-03,WASTE DRAIN BALL VALVE AND LINKAGE ASSEMBLY - REMOVAL/INSTALLATION,污水排放球形活门和连杆组件-拆卸/安装,566
+38-32-03,WASTE DRAIN BALL-VALVE AND CONTROL ROD - ADJUSTMENT/TEST,污水排放球形活门和操纵杆-调节/测试,567
+38-32-04,FLUSH SWITCH - REMOVAL/INSTALLATION,冲洗电门-拆卸/安装,568
+38-32-05,VACUUM BLOWER - REMOVAL/INSTALLATION,真空鼓风机-拆卸/安装,569
+38-32-06,VACUUM CHECK VALVE - REMOVAL/INSTALLATION,真空单向活门-拆卸/安装,570
+38-32-07,WASTE TANK - MAINTENANCE PRACTICES,污水箱-维护实施,571
+38-32-08,WASTE DRAIN VALVE ASSEMBLY -REMOVAL/INSTALLATION,废水排放活门组件 -拆卸/安装,572
+38-32-09,WASTE TANK RINSE FITTING ASSEMBLY -REMOVAL/INSTALLATION,污水箱冲洗接头组件-拆卸/安装,573
+38-32-10,WASTE TANK RINSE NOZZLE -MAINTENANCE PRACTICES,污水箱冲洗喷嘴-维护实施,574
+38-32-11,WASTE TANK RINSE FILTER -MAINTENANCE PRACTICES,污水箱冲洗过滤器-维护实施,575
+38-32-12,VACUUM BLOWER BAROMETRIC SWITCH -REMOVAL/INSTALLATION,真空鼓风机气压电门-拆卸/安装,576
+38-32-13,WASTE TANK DRAIN LINE BLOCKAGE REMOVAL VALVE - REMOVAL/INSTALLATION,污水箱排水管排堵活门-拆卸/安装,577
+38-33-00,WASTE TANK QUANTITY INDICATION -ADJUSTMENT/TEST,污水箱水量指示器-调整/测试,578
+38-33-01,WASTE TANK POINT LEVEL SENSOR -REMOVAL/INSTALLATION,污水箱点水位传感器-拆卸/安装,579
+38-33-01,WASTE TANK POINT LEVEL SENSOR -CLEANING/PAINTING,污水箱点水位传感器-清洗/喷漆,580
+38-33-02,WASTE TANK CONTINUOUS LEVEL SENSOR - REMOVAL/INSTALLATION,污水箱连续水位传感器-拆卸/安装,581
+38-33-02,WASTE TANK CONTINUOUS LEVEL SENSOR - CLEANING/PAINTING,污水箱连续水位传感器-清洗/喷漆,582
+38-33-03,LOGIC CONTROL MODULE - MAINTENANCE PRACTICES,逻辑控制模块-维护实施,583
+21-51-12,CONDENSER - REMOVAL/INSTALLATION,冷凝器-拆卸/安装,584
+21-51-13,REHEATER - REMOVAL/INSTALLATION,再加热器-拆卸/安装,585
+21-51-14,WATER EXTRACTOR - REMOVAL/INSTALLATION,除湿机-拆卸/安装,586
+21-51-15,WATER EXTRACTOR DUCT - REMOVAL/INSTALLATION,抽水机管道-拆卸/安装,587
+21-51-16,WATER SPRAY NOZZLE - REMOVAL/INSTALLATION,喷水嘴-拆卸/安装,588
+21-51-20,RAM AIR INLET CONTROLLER - REMOVAL/INSTALLATION,冲压进气口控制器-拆卸/安装,589
+21-51-21,RAM AIR INLET ACTUATOR - REMOVAL/INSTALLATION,冲压进气口作动筒-拆卸/安装,590
+21-51-22,RAM AIR INLET SYSTEM - ADJUSTMENT,冲压进气口系统-调节,591
+21-51-23,RAM AIR INLET MODULATION PANELS -REMOVAL/INSTALLATION,冲压进气口调节面板-拆卸/安装,592
+21-51-24,RAM AIR DUCTS - REMOVAL/INSTALLATION,冲压空气导管-拆卸/安装,593
+21-51-40,COMPRESSOR DISCHARGE OVERHEAT SWITCH - REMOVAL/INSTALLATION,压气机排气过热电门-拆卸/安装,594
+21-51-41,TURBINE INLET OVERHEAT SWITCH -REMOVAL/INSTALLATION,涡轮进口过热电门-拆卸/安装,595
+21-51-42,PACK DISCHARGE DUCT OVERHEAT SWITCH - REMOVAL/INSTALLATION,Pack 组件排放管道过热电门-拆卸/安装,596
+38-33-04,ATTENDANT’S PANEL WASTE QUANTITY INDICATOR - REMOVAL/INSTALLATION,乘务员面板污水量指示器-拆卸/安装,597
+38-33-05,SERVICE PANEL WASTE QUANTITY GAUGE - REMOVAL/INSTALLATION,勤务面板污水量仪表-拆卸/安装,598
+38-33-06,SERVICE PANEL SENSOR FOULED INDICATOR - REMOVAL/INSTALLATION,勤务面板传感器污染指示器-拆卸/安装,599
+38-42-00,WATER TANK PRESSURIZATION -MAINTENANCE PRACTICES,水箱的增压-维护实施,600
+38-42-00-800-801,Potable Water System - Pressure Release,饮用水系统-释压,601
+38-42-00-800-802,Potable Water System - Pressurization,饮用水系统-增压,602
+38-42-00-800-803,Pressure Regulator - Operational Test,水箱增压系统-操作测试,603
+38-42-00-800-804,Pressure Regulator - Operational Test,压力调节器-操作测试,604
+38-42-01,AIR COMPRESSOR - REMOVAL/INSTALLATION,空气压气机 -拆卸/安装,605
+38-42-02,COMPRESSOR INLET AIR FILTER -REMOVAL/INSTALLATION,压气机进气口过滤器-拆卸/安装,606
+38-42-03,COMPRESSOR CUT-OUT SWITCH -REMOVAL/INSTALLATION,压气机关断电门-拆卸/安装,607
+38-42-06,PRESSURE RELIEF VALVE - MAINTENANCE PRACTICES,释压活门–维护实施,608
+38-42-07,PRESSURE LIMIT SWITCH - MAINTENANCE PRACTICES,压力限制电门-维护实施,609
+38-42-07-700-801,Pressure Limit Switch - Operational Test,压力限制电门-操作测试,610
+38-42-08,PRESSURE REGULATOR - REMOVAL/INSTALLATION,压力调节器-拆卸/安装,611
+38-42-09,CHECK VALVES - REMOVAL/INSTALLATION,单向活门-拆卸/安装,612
+38-42-10,BLEED AIR FILTER - REMOVAL/INSTALLATION,引气过滤器-拆卸/安装,613
+44-21-00-710-801,Passenger Video System - Operational Test,旅客视频系统-操作测试,614
+44-21-05-000-802,Digital Passenger Control Unit Removal,数字旅客控制组件拆卸,615
+44-21-05-400-802,Digital Passenger Control Unit Installation,数字旅客控制组件安装,616
+44-21-08-000-801,System Controller Unit Removal,系统控制器组件拆卸,617
+44-21-08-400-801,System Controller Unit Installation,系统控制器组件安装,618
+44-21-11-000-801,Seat Electronics Box Removal,座椅电子盒拆卸,619
+44-21-11-400-801,Seat Electronics Box Installation,座椅电子盒安装,620
+44-21-12-000-801,PSU-Mounted LCD Monitor Removal,PSU 装设LCD 监控器拆卸,621
+44-21-12-400-801,PSU-Mounted LCD Monitor Installation,PSU 装设LCD 监控器安装,622
+44-21-13-000-801,Video Distribution Unit Removal,视频分配组件拆卸,623
+44-21-13-400-801,Video Distribution Unit Installation,视频分配组件安装,624
+44-21-21-000-801,Audio Multiplexer Removal,音频多路调制器拆卸,625
+44-21-21-400-801,Audio Multiplexer Installation,音频多路调制器安装,626
+44-21-23-000-801,Broadcast Digital Server Removal,广播数字伺服器拆卸,627
+44-21-23-400-801,Broadcast Digital Server Installation,广播数字伺服器安装,628
+44-21-24-000-801,Flyable Data Loader Removal,适航数据加载器拆卸,629
+44-21-24-400-801,Flyable Data Loader Installation,适航数据加载器安装,630
+47-00-00,NITROGEN GENERATION SYSTEM -MAINTENANCE PRACTICES,氮气发生系统-维护实施,631
+47-00-00-910-802,Airworthiness Limitation Precautions,适航限制预告,632
+47-00-00-010-801,Nitrogen Generation System (NGS)Precautions,氮气发生系统(NGS)预先警告,633
+47-00-00-800-801,Ground Operation of the Nitrogen Generation System,氮气发生系统的地面操作,634
+47-00-00-720-801,Functional Test of the Nitrogen Generation System,氮气发生系统功能测试,635
+47-00-00-790-801,Leak Check of the Nitrogen Generation System,氮气发生系统的泄漏检查,636
+47-00-00-280-801,Cross Vent Check Valve - Operational Test,前后通风单向活门-检验/检查,637
+1947/11/1,AIR SEPARATION MODULE - REMOVAL/INSTALLATION,空气分离模块-拆卸/安装,638
+1947/11/2,HIGH FLOW VALVE - REMOVAL/INSTALLATION,高流量活门-拆卸/安装,639
+1947/11/4,OVERTEMPERATURE SHUTOFF VALVE -REMOVAL/INSTALLATION,超温关断活门-拆卸/安装,640
+47-21-00,NITROGEN-ENRICHED AIR DISTRIBUTION -MAINTENANCE PRACTICES,富氮空气分配-维护实施,641
+47-21-00-700-802,Drain Cap - Fuel Leak Check,排放盖-漏油检查,642
+47-21-00-700-804,NEADS - Air Pressure Leak Check,NEADS-空气压力泄漏检查,643
+47-21-02-000-801,Float Valve Removal,浮子活门拆卸,644
+47-21-02-420-801,Float Valve Installation,浮子活门安装,645
+47-21-04,BACKFLOW CHECK VALVE - REMOVAL/INSTALLATION,逆流单向活门-拆卸/安装,646
+47-21-05,CROSS VENT CHECK VALVE - REMOVAL/INSTALLATION,十字通风单向活门-拆卸/安装,647
+47-21-07,FLAME ARRESTOR - REMOVAL/INSTALLATION,火焰清除器-拆卸/安装,648
+47-21-08,LIGHTNING SHIELDS - REMOVAL/INSTALLATION,避雷罩-拆卸/安装,649
+47-21-11,DRAIN CAP - REMOVAL/INSTALLATION,排放盖-拆卸/安装,650
+47-31-01,NITROGEN GENERATION SYSTEM CONTROLLER - REMOVAL/INSTALLATION,氮气发生系统控制器-拆卸/安装,651
+47-31-02,BITE DISPLAY UNIT - MAINTENANCE PRACTICES,BITE 显示器-维护实施,652
+47-31-02,BITE DISPLAY UNIT - REMOVAL/INSTALLATION,BITE 显示器-拆卸/安装,653
+47-31-03,OPERABILITY INDICATOR - REMOVAL/INSTALLATION,性能指示器-拆卸/安装,654
+47-32-01,NGS SHUTOFF VALVE - REMOVAL/INSTALLATION,NGS 关断活门-拆卸/安装,655
+47-32-02,OZONE CONVERTER - REMOVAL/INSTALLATION,臭氧转换器-拆除/安装,656
+47-32-03,HEAT EXCHANGER - REMOVAL/INSTALLATION,热交换器-拆卸/安装,657
+47-32-04,NGS FILTER - REMOVAL/INSTALLATION,NGS 过滤器-拆卸/安装,658
+47-32-05,RAM AIR VALVE - REMOVAL/INSTALLATION,冲压空气活门-拆卸/安装,659
+47-42-01,ALTITUDE SENSOR - REMOVAL/INSTALLATION,高度传感器-拆卸/安装,660
+47-42-02,HIGH FLOW VALVE DIFFERENTIAL PRESSURE SENSOR - REMOVAL/INSTALLATION,高流量活门压差传感器-拆卸/安装,661
+47-42-03,NGS OXYGEN SENSOR - REMOVAL/INSTALLATION,NGS 氧气传感器-拆卸/安装,662
+47-43-01,FILTER DIFFERENTIAL PRESSURE SWITCH -REMOVAL/INSTALLATION,过滤器压差电门-拆卸/安装,663
+47-43-02,THERMAL SWITCH - REMOVAL/INSTALLATION,热控电门-拆卸/安装,664
+47-43-02-720-801,Thermal Switch Functional Test,热控电门功能测试,665
+47-43-03,TEMPERATURE SENSOR - REMOVAL/INSTALLATION,温度传感器-拆卸/安装,666
+47-43-04,NGS PRESSURE SENSOR - REMOVAL/INSTALLATION,NGS 压力传感器-拆卸/安装,667
+49-11-00,APU POWER PLANT - MAINTENANCE PRACTICES,APU 动力装置-维护实施,668
+49-11-00-710-802,APU Operation Limits,APU 操作限制,669
+49-11-00-860-801,APU Starting and Operation,APU 的起动和操作,670
+49-11-00-860-802,APU Usual Shutdown,APU 常规关闭,671
+49-11-00-860-803,APU Emergency Shutdown,APU 紧急停车,672
+49-11-00-860-805,APU Protective Shutdown,APU 保护性关闭,673
+49-11-00-860-804,Motor the APU,发动 APU,674
+49-11-00,APU POWER PLANT - REMOVAL/INSTALLATION,APU 动力装置-拆卸/安装,675
+49-11-00-710-801,APU Operational Test,APU 操作测试,676
+49-11-00-200-801,APU Power Plant Inspection,APU 动力装置检查,677
+49-11-00,APU POWER PLANT - REPAIR,APU 动力装置-修理,678
+49-15-00,APU AIR INLET - ADJUSTMENT/TEST,APU 进气-调整/测试,679
+49-15-11,AIR INLET SEAL - REMOVAL/INSTALLATION,进气口密封件-拆卸/安装,680
+49-15-11,AIR INLET SEAL - INSPECTION/CHECK,进气口密封件-检验/检查,681
+49-15-15,APU AIR INLET PLENUM - REMOVAL/INSTALLATION,APU 进气通风口-拆卸/安装,682
+49-15-22,AIR INLET DOOR - SERVICING,进气门-维护,683
+49-15-22,AIR INLET DOOR - REMOVAL/INSTALLATION,进气门-拆卸/安装,684
+49-15-23,VORTEX GENERATOR - REMOVAL/INSTALLATION,涡流发电机-拆卸/安装,685
+49-15-31,AIR INLET DOOR ACTUATOR - REMOVAL/INSTALLATION,进气门作动筒-拆卸/安装,686
+49-15-41,AIR INLET DOOR POSITION SWITCH -REMOVAL/INSTALLATION,进气门位置电门-拆卸/安装,687
+49-16-11,Drain Mast Servicing,排放柱-勤务,688
+49-16-11,Drain Mast Inspection Procedure,排放柱-检验/检查,689
+49-16-11,Clean the APU Drains,APU 排放管-清洗/喷漆,690
+49-16-12,COMBUSTOR DRAIN - REMOVAL/INSTALLATION,燃烧室排放管-拆卸/安装,691
+49-16-12,Combustor Drain Cleaning,燃烧室排放管-清洗/喷漆,692
+49-17-11,INSULATION PANEL - REMOVAL/INSTALLATION,隔热层-拆卸/安装,693
+49-21-00,APU ENGINE - MAINTENANCE PRACTICES,APU 发动机-维护实施,694
+49-21-00-200-801,APU Engine Inspection,APU 发动机检查,695
+49-21-00-200-803,APU Engine Compressor Cleaning,APU 发动机压气机清洗,696
+49-31-00,APU FUEL SYSTEM - MAINTENANCE PRACTICES,APU 燃油系统-维护实施,697
+49-31-11,Fuel Control Unit Inspection,燃油控制组件-检验/检查,698
+49-31-14,FUEL NOZZLE - REMOVAL/INSTALLATION,喷嘴-拆除/安装,699
+49-61-00,APU CONTROLS - MAINTENANCE PRACTICES,APU 控制器-维护实施,700
+49-61-00-700-801,APU BITE Procedure,APU BITE 程序,701
+49-61-00-710-801,APU Controls Operational Check,APU 控制操作检查,702
+49-61-12,ELECTRONIC CONTROL UNIT - REMOVAL/INSTALLATION,电子控制组件-拆卸/安装,703
+49-61-21,SPEED SENSOR - REMOVAL/INSTALLATION,速度传感器-拆下/安装,704
+49-61-31,INLET TEMPERATURE SENSOR -REMOVAL/INSTALLATION,进气口温度传感器-拆卸/安装,705
+49-71-11,EXHAUST GAS TEMPERATURE INDICATOR- REMOVAL/INSTALLATION,排气温度指示器-拆卸/安装,706
+49-71-21,EXHAUST GAS TEMPERATURE THERMOCOUPLE - REMOVAL/INSTALLATION,排气温度热电偶-拆除/安装,707
+49-72-11,DATA MEMORY MODULE - REMOVAL/INSTALLATION,数据存储模块-拆卸/安装,708
+49-81-11,EXHAUST DUCT MUFFLER - REMOVAL/INSTALLATION,排气管消声器-拆卸/安装,709
+49-91-11,LUBE MODULE - REMOVAL/INSTALLATION,润滑油组件-拆卸/安装,710
+49-91-11,LUBE MODULE - INSPECTION/CHECK,润滑油组件-检验/检查,711
+49-91-12,OIL FILTER ELEMENTS - REMOVAL/INSTALLATION,燃油滤芯-拆卸/安装,712
+49-91-13,OIL FILTER INDICATOR - SERVICING,滑油滤指示器-维护,713
+49-91-21,TEMPERATURE CONTROL VALVE -REMOVAL/INSTALLATION,温度控制活门-拆卸/安装,714
+49-91-81,MAGNETIC DRAIN PLUG - REMOVAL/INSTALLATION,磁性排放塞-拆卸/安装,715
+49-91-81,MAGNETIC DRAIN PLUG - INSPECTION/CHECK,磁性排放塞-检验/检查,716
+49-94-11,OIL LEVEL SENSOR - REMOVAL/INSTALLATION,油位传感器-拆卸/安装,717
+49-94-21,OIL TEMPERATURE SENSOR - REMOVAL/INSTALLATION,滑油温度传感器-拆除/安装,718
+49-94-22,LOW OIL PRESSURE SWITCH - REMOVAL/INSTALLATION,滑油低压电门-拆卸/安装,719
+1952/5/3,DOORS - STRUCTURAL INSPECTIONS -MAINTENANCE PRACTICES,舱门-结构检查-维护实施,720
+1952/9/10,DOOR SEALS - REPAIRS,修理舱门密封件,721
+1952/9/11,BLADE SEALS - REMOVAL/INSTALLATION,条形密封件-拆卸/安装,722
+1952/9/12,BLADE AND DIAPHRAGM SEALS -REMOVAL/INSTALLATION,条形密封件和膈膜密封件-拆卸/安装,723
+1952/9/14,BULB AND DIAPHRAGM SEAL - REMOVAL/INSTALLATION,球形件及膈膜密封件-拆卸/安装,724
+1952/9/15,AERODYNAMIC SEALS - REMOVAL/INSTALLATION,气动密封-拆卸/安装,725
+1952/9/16,ACOUSTIC AND THERMO SEALS -REMOVAL/INSTALLATION,隔音和隔热密封件-拆卸/安装,726
+21-51-50,RAM AIR CONTROL TEMPERATURE SENSOR - REMOVAL/INSTALLATION,冲压空气控制温度传感器-拆卸/安装,727
+21-51-51,MIX MANIFOLD TEMPERATURE SENSOR -REMOVAL/INSTALLATION,混合总管温度传感器-拆卸/安装,728
+21-51-51-000-802,Mix Manifold Temperature Sensor Test,混合总管温度传感器测试,729
+21-51-52,PACK TEMPERATURE SENSOR -REMOVAL/INSTALLATION,Pack 组件温度传感器-拆卸/安装,730
+21-51-52-000-801,Pack Temperature Sensor Removal,拆卸Pack 组件温度传感器,731
+21-51-52-400-801,Pack Temperature Sensor Installation,安装Pack 组件温度传感器,732
+21-51-52-720-801,Pack Temperature Sensor Test,Pack 组件温度传感器测试,733
+21-51-60-000-801,Pack Temperature Bulb Removal,拆卸Pack 组件热敏元件,734
+21-51-60-400-801,Pack Temperature Bulb Installation,安装Pack 组件热敏元件,735
+21-51-65-000-801,Air Conditioning Module Removal,空调组件的拆卸,736
+21-51-65-400-801,Air Conditioning Module Installation,安装空调组件,737
+21-61-00,ZONE TEMPERATURE CONTROL AND INDICATION - ADJUSTMENT/TEST,区域温度控制和指示-调整/测试,738
+21-61-00-700-808-001,Cabin Temperature Controller BITE Test,客舱温度控制器 BITE 测试,739
+1952/9/17,LIGHT SEALS - REMOVAL/INSTALLATION,灯密封件-拆卸/安装,740
+52-11-00,FORWARD ENTRY DOOR - MAINTENANCE PRACTICES,前登机舱门-维护实施,741
+52-11-00,FORWARD ENTRY DOOR - REMOVAL/INSTALLATION,前登机舱门-拆卸/安装,742
+52-11-00,FORWARD ENTRY DOOR - ADJUSTMENT/TEST,前登机舱门-调整/测试,743
+52-11-00,FORWARD ENTRY DOOR - INSPECTION/CHECK,前登机舱门-检验/检查,744
+52-11-00-200-801,Forward Entry Door Check,前登机舱门检查,745
+52-11-00,FORWARD ENTRY DOOR - REPAIRS,前登机舱门-修理,746
+52-13-00,AFT ENTRY DOOR - MAINTENANCE PRACTICES,后登机舱门-维护实施,747
+52-13-00,AFT ENTRY DOOR - REMOVAL/INSTALLATION,后登机舱门-拆卸/安装,748
+52-13-00-200-801,Aft Entry Door Check,后登机舱门检查,749
+52-22-00,EMERGENCY EXIT DOOR - MAINTENANCE PRACTICES,应急出口门-维护实施,750
+52-22-00-580-801,Open the Emergency Exit Door,打开应急出口门,751
+52-22-00-580-802,Open the Emergency Exit Door from the Outside,从外部打开应急出口门,752
+52-22-00-580-803,Close the Emergency Exit Door,关闭应急出口门,753
+52-22-00,EMERGENCY EXIT DOOR - REMOVAL/INSTALLATION,应急出口门-拆卸/安装,754
+52-22-00-710-801,Emergency Exit Door Operational Test,应急出口门操作测试,755
+52-22-00-710-802,Emergency Exit Door Flight Lock Mechanical Switch Operational Test,应急出口门飞行锁机械电门操作测试,756
+52-22-00-400-801,Emergency Exit Door System Test,应急出口门系统测试,757
+52-22-00,EMERGENCY EXIT DOOR - INSPECTION/CHECK,应急出口门-检验/检查,758
+52-22-00-200-801,Emergency Exit Door Latch Components Visual Inspection,应急出口门检验/检查,759
+52-31-00,CARGO DOOR - MAINTENANCE PRACTICES,货舱门-维护实施,760
+52-31-00,CARGO DOOR - REMOVAL/INSTALLATION,货舱门-拆卸/安装,761
+52-31-00,CARGO DOOR - ADJUSTMENT/TEST,货舱门-调节/测试,762
+52-31-00-200-801,Cargo Door Check,货舱门检查,763
+52-31-12,CARGO DOOR COUNTERBALANCE MECHANISM - REMOVAL/INSTALLATION,货舱门平衡机构-拆卸/安装,764
+52-31-12,CARGO DOOR COUNTERBALANCE MECHANISM - REPAIRS,修理货舱门均衡机构,765
+52-31-13,CARGO DOOR SNUBBER - REMOVAL/INSTALLATION,货舱门缓冲器-拆卸/安装,766
+52-31-13,CARGO DOOR SNUBBER - ADJUSTMENT/TEST,货舱门缓冲器-调节/测试,767
+52-31-14,CARGO DOOR HANDLE MECHANISM -REMOVAL/INSTALLATION,货舱门手柄机构-拆卸/安装,768
+52-41-00,GALLEY SERVICE DOORS - MAINTENANCE PRACTICES,厨房勤务门-维护实施,769
+52-41-00,GALLEY SERVICE DOOR - ADJUSTMENT/TEST,厨房勤务门-调节/测试,770
+52-41-00-200-801,Galley Service Door Check,厨房勤务门检查,771
+52-48-21,AUXILIARY POWER UNIT (APU) COWL DOOR - REMOVAL/INSTALLATION,辅助动力装置(APU)整流罩门-拆卸/安装,772
+52-48-31,FORWARD ACCESS DOOR - MAINTENANCE PRACTICES,前检修口盖-维护实施,773
+52-48-31,FORWARD ACCESS DOOR - REMOVAL/INSTALLATION,前检修口盖-拆卸/安装,774
+52-48-31,FORWARD ACCESS DOOR - INSPECTION/CHECK,前检查口盖-检验/检查,775
+52-48-41,ELECTRONIC EQUIPMENT ACCESS DOOR -MAINTENANCE PRACTICES,电子设备维护口盖-维护实施,776
+52-48-41-010-801, 打开电子设备门Open the Electronic Equipment Door when the Door Handle will not Move,当舱门把手不能移动时,777
+52-48-41,ELECTRONIC EQUIPMENT ACCESS DOOR -REMOVAL/INSTALLATION,电子设备检查口盖-拆卸/安装,778
+52-48-41,ELECTRONIC EQUIPMENT ACCESS DOOR -INSPECTION/CHECK,电子设备检查口盖-检查/检查,779
+52-49-07,WASTE TANK SERVICE PANEL - REMOVAL/INSTALLATION,污水箱勤务面板-拆卸/安装,780
+52-49-09,WATER SERVICE PANEL - REMOVAL/INSTALLATION,水务板-拆卸/安装,781
+52-49-21,REFUELING STATION DOOR - REMOVAL/INSTALLATION,加油站门-拆卸/安装,782
+52-51-00,FLIGHT COMPARTMENT DOOR -MAINTENANCE PRACTICES,驾驶舱门-维护实施,783
+52-51-00,CREW DOOR - REMOVAL/INSTALLATION,机组门-拆卸/安装,784
+52-51-00,FLIGHT COMPARTMENT DOOR -ADJUSTMENT/TEST,驾驶舱门-调整/测试,785
+52-51-00-710-801,Operational Check of the Flight Compartment Access System,驾驶舱接近系统的操作检查,786
+52-51-00-700-801,Flight Compartment Security Door Access System Test,驾驶舱安全门接近系统测试,787
+52-51-00,FLIGHT COMPARTMENT DOOR -INSPECTION/CHECK,驾驶舱门-检验/检查,788
+52-51-01,FLIGHT COMPARTMENT DOOR - REMOVAL/INSTALLATION,驾驶舱门-拆除/安装,789
+52-51-01-200-801,Flight Compartment Door Seal Inspection,驾驶舱门密封检查,790
+52-51-02,FLIGHT COMPARTMENT DOOR LATCH -REMOVAL/INSTALLATION,驾驶舱门锁-拆卸/安装,791
+52-51-03,ELECTRIC STRIKE - REMOVAL/INSTALLATION,电触发器-拆卸/安装,792
+52-51-04,FLIGHT COMPARTMENT DOOR DEADBOLT - REMOVAL/INSTALLATION,驾驶舱门锁定插销-拆卸/安装,793
+52-51-05,KEYPAD - REMOVAL/INSTALLATION,数字小键盘-拆卸/安装,794
+52-51-06,CHIME MODULE - REMOVAL/INSTALLATION,谐音组件-拆卸/安装 52-51-06,795
+52-51-07,COCKPIT CONTROL PANEL SWITCH/LIGHT(P8-47) - REMOVAL/INSTALLATION,驾驶舱控制面板电门/灯(P8-47)-拆卸/安装,796
+52-51-08,DECOMPRESSION PANEL AND PRESSURE RELEASE LATCH - REMOVAL/INSTALLAION,减压板和释压锁闩-拆卸/安装,797
+52-51-21,CREW DOOR LOCK - REMOVAL/INSTALLATION,机组门锁-拆卸/安装,798
+52-51-21-700-801,Crew Door Lock Test,机组门锁测试,799
+52-51-31,CREW DOOR EMERGENCY EXIT PANELS -REMOVAL/INSTALLATION,机组门应急出口面板-拆卸/安装,800
+52-61-00,FORWARD AIRSTAIR - MAINTENANCE PRACTICES,前登机梯-维护实施,801
+52-71-00,DOOR WARNING SYSTEM - MAINTENANCE PRACTICES,门警告系统-维护实施,802
+52-71-00-730-801,Door Warning System Test,门警告系统测试,803
+52-71-11,ENTRY AND GALLEY SERVICE DOOR WARNING SYSTEM - MAINTENANCE PRACTICES,登机舱门和厨房勤务门警告系统-维护实施,804
+52-71-22,EMERGENCY EXIT DOOR INDICATION SWITCH - MAINTENANCE PRACTICES,应急出口门指示电门-维护实施,805
+52-71-31,CARGO DOOR WARNING SYSTEM -MAINTENANCE PRACTICES,货舱门警告系统-维护实施,806
+52-71-41,FORWARD ACCESS DOOR WARNING SYSTEM - MAINTENANCE PRACTICES,前检修口盖警告系统-维护实施,807
+52-71-42,ELECTRONIC EQUIPMENT ACCESS DOOR WARNING SYSTEM - MAINTENANCE PRACTICES,电子设备维护口盖警告系统-维护实施,808
+1953/5/2,FUSELAGE FATIGUE INSPECTIONS -MAINTENANCE PRACTICES,机身故障检查-维护实施,809
+1953/5/3,FUSELAGE - STRUCTURAL INSPECTIONS -MAINTENANCE PRACTICES,机身-结构检查-维护实施,810
+1953/11/1,PASSENGER ENTRY DOOR SCUFF PLATE -REMOVAL/INSTALLATION,客舱入口防磨板-拆卸/安装,811
+1953/11/2,CARGO DOOR SCUFF PLATE - REMOVAL/INSTALLATION,货舱门防磨板-拆卸/安装,812
+53-11-37,FRAMES AND BULKHEADS CORROSION PREVENTION - MAINTENANCE PRACTICES,隔框和隔板腐蚀预防-维护实施,813
+1953/12/11,KEEL BEAM BLOWOUT PANEL - REMOVAL/INSTALLATION,龙骨梁释压板-拆卸/安装,814
+53-14-01,NOSE WHEEL WELL ACCESS PANELS -REMOVAL/INSTALLATION,前起落架轮舱维护盖板-拆卸/安装,815
+53-21-00,PASSENGER CABIN FLOORS - REMOVAL/INSTALLATION,客舱地板-拆卸/安装,816
+53-31-11,NOSE VORTEX GENERATORS - REMOVAL/INSTALLATION,前涡流发电机-拆卸/安装,817
+53-52-00,NOSE RADOME - REMOVAL/INSTALLATION,机头雷达罩-拆卸/安装,818
+53-52-00-200-801,Do a Check of the Nose Radome,机头雷达罩的检查,819
+53-52-00-370-801,Nose Radome - Cleaning and Painting,机头雷达罩-清洁和涂漆,820
+53-52-00,NOSE RADOME PROTECTIVE BOOT -REMOVAL/INSTALLATION,机头雷达天线罩保护套-拆卸/安装,821
+53-52-03,LIGHTNING DIVERTER STRIPS -MAINTENANCE PRACTICES,避雷条-维护实施,822
+53-52-31,GLIDE SLOPE ANTENNA DIRECTOR BAR -REMOVAL/INSTALLATION,下滑道天线指引条-拆卸/安装,823
+53-53-00,TAILCONE - REMOVAL/INSTALLATION,尾锥-拆除/安装,824
+1954/5/3,NACELLES/PYLONS - STRUCTURAL INSPECTIONS - MAINTENANCE PRACTICES,短舱/支柱-结构检验-维护实施,825
+54-51-01,NACELLE STRUT - MAINTENANCE PRACTICES,短舱支柱-维护实施,826
+54-51-01,NACELLE STRUT - REMOVAL/INSTALLATION,短舱支柱-拆卸/安装,827
+54-51-01,NACELLE STRUT - INSPECTION/CHECK,短舱支柱-检验/检查,828
+54-52-01,FORWARD FAIRINGS - REMOVAL/INSTALLATION,前整流罩-拆卸/安装,829
+54-52-01,FORWARD FAIRINGS - INSPECTION/CHECK,前整流罩-探伤/检查,830
+54-52-03,WING JUNCTION FAIRINGS - REMOVAL/INSTALLATION,机翼接合整流罩-拆卸/安装,831
+54-52-04,AFT FAIRING - REMOVAL/INSTALLATION,后整流罩-拆卸/安装,832
+54-52-09,LEADING EDGE GAP COVERS - REMOVAL/INSTALLATION,前缘缝隙盖板-拆卸/安装,833
+55-00-01,STRUT DRAINS - MAINTENANCE PRACTICES,方向舵和水平安定面-检验/检查,834
+1955/5/2,AFT FAIRING STRUT DRAINS -MAINTENANCE PRACTICES,安定面-疲劳检查-维护实施,835
+1955/5/3,AFT FAIRING STRUT DRAINS - INSPECTION/CHECK,安定面-结构检查-维护实施,836
+1956/11/21,WINDOW NO. 3 - REMOVAL/INSTALLATION,3号窗-修理,837
+56-11-31,NO. 4 AND NO. 5 WINDOWS - REMOVAL/INSTALLATION,4号和5号窗-拆卸/安装,838
+1956/12/11,NO. 2 OPENABLE WINDOW - MAINTENANCE PRACTICES,2号活动窗-维护实施,839
+1956/12/11,NO. 2 OPENABLE WINDOW - REMOVAL/INSTALLATION,2号活动窗-拆卸/安装,840
+1956/12/11,NO. 2 OPENABLE WINDOW - ADJUSTMENT/TEST,2号活动窗-调整/测试,841
+1956/12/11,NO. 2 OPENABLE WINDOW - INSPECTION/CHECK,2 号活动窗-检验/检查,842
+1956/12/11,NO. 2 OPENABLE WINDOW - REPAIRS,2 号活动窗-修理,843
+56-21-00,PASSENGER CABIN WINDOWS - REMOVAL/INSTALLATION,客舱窗-拆卸/安装,844
+56-21-00-200-801,Passenger Cabin Window Inspection,客舱窗检查,845
+56-21-00-300-801,Repair the Passenger Windows (Orbital Sander Method,修理乘客窗,846
+56-22-00,AUTOMATIC OVERWING EXIT WINDOW -REMOVAL/INSTALLATION,自动翼上应急出口窗-拆卸/安装,847
+56-22-00,EMERGENCY EXIT HATCH WINDOW -INSPECTION/CHECK,应急出口窗-检验/检查,848
+56-31-00,DOOR-MOUNTED WINDOWS - REMOVAL/INSTALLATION,门装式窗-拆卸/安装,849
+56-31-00,DOOR MOUNTED WINDOWS - INSPECTION/CHECK,门装式窗-检验/检查,850
+56-31-00,ENTRY AND GALLEY SERVICE DOOR WINDOWS - REPAIRS,登机口和厨房服务门窗-修理,851
+57-00-01,AILERON - INSPECTION/CHECK,副翼 -检验/检查,852
+57-21-21,WINGLET - REMOVAL/INSTALLATION,小翼-拆卸/安装,853
+57-21-22,WINGLET POSITION AND ANTI-COLLISION LIGHTS AND LENS - MAINTENANCE PRACTICES,小翼航行灯和防撞灯和灯罩-维护实施,854
+57-21-22,WINGLET FORWARD ANTI-COLLISION LIGHT AND POSITION LIGHT LENS -INSPECTION/CHECK,小翼前航行灯和防撞灯灯罩-检验/检查,855
+71-00-00,POWER PLANT - MAINTENANCE PRACTICES (OPERATION PROCEDURES,动力装置-维护实施(操作程序),856
+71-00-00-800-805-F00,Engine Ground Safety Precautions,发动机地面安全预防措施,857
+71-00-00-800-806-F00,Engine Operation Limits,发动机操作标准,858
+71-00-00-700-818-F00,Procedure to Prepare the Engine for Operation,发动机运转准备程序,859
+71-00-00-800-807-F00,Start the Engine Procedure (Selection),起动发动机程序(选择),860
+71-00-00-800-808-F00,Start the Engine Procedure (Normal Start),起动发动机程序(正常起动),861
+71-00-00-800-809-F00,Start the Engine Procedure (Manual Override of the Engine Start Valve),起动发动机程序(发动机起动活门的手动超控),862
+71-00-00-800-810-F00,Start the Engine Procedure (Engine Cross Bleed Start),起动发动机程序(发动机交叉引气起动),863
+71-00-00-700-819-F00,Stop the Engine Procedure (Usual Engine Stop),关闭发动机程序(正常发动机关闭),864
+71-00-00-700-820-F00,Stop the Engine Procedure (Emergency Engine Stop),关闭发动机程序(应急发动机关闭),865
+71-00-00-700-821-F00,Dry Motor the Engine,干转发动机,866
+71-00-00-700-822-F00,Wet Motor the Engine,湿转发动机,867
+71-00-00,POWER PLANT - ADJUSTMENT/TEST,动力装置-调整/测试,868
+71-00-00-800-811-F00,Power Plant Test Reference Table,动力装置测试参考表,869
+21-61-00-700-809-001,Cabin Temperature Control Manual Mode - Operational Test,客舱温度控制手动模式-操作测试,870
+21-61-00-700-810-001,Cabin Temperature Indication -Operational Test,客舱温度指示-操作测试,871
+21-61-00-710-801-001,Duct Overheat Switch - Operational Test,管道过热电门-操作试验,872
+21-61-00-700-806-002,Pack/Zone Temperature Controller BITE Test,Pack 组件/区域温度控制器BITE 测试,873
+21-61-00-700-807-002,Cabin Temperature Control and Indication - Operational Test,客舱温度控制和指示-操作测试,874
+21-61-00-700-811-002,Duct Overheat Switch - Operational Test,管道过热电门-操作试验,875
+21-61-01-000-801,Cabin Temperature Controller (CTC) Remova,拆卸客舱温度控制器(CTC),876
+21-61-01-400-801,Cabin Temperature Controller (CTC) Installation,安装客舱温度控制器(CTC),877
+21-61-02-000-801,Air Mix Valve Removal,空气混合活门拆卸,878
+21-61-02-400-801,Air Mix Valve Installation,安装空气混合活门,879
+21-61-03-000-801,Hot Air Check Valve Removal,拆卸热空气单向活门,880
+21-61-03-400-801,Hot Air Check Valve Installation,安装热空气单向活门,881
+21-61-04-000-805-001,Duct Temperature Limit Sensor Test,管道温度限制传感器测试,882
+71-00-00-800-803-F00,使用灭火剂或短舱高温Inspection After an Engine Fire Use of Fire Extinquishing Agents or High Nacelle Temperature,发动机火警后检查,883
+71-00-00-800-804-F00,Inspection After Engine Operations Above the Limits and High Engine Stress,发动机在超过极限和高发动机应力运行后的检查,884
+71-00-00-800-802-F00,Foreign Object Damage Inspection,外来物损坏检查,885
+71-00-00-210-801-F00,Inspection of the Engine After an EngineStall or Possible Engine Stall,发动机失速后或可能存在的发动机失速后的发动机检查,886
+71-00-00-200-803-F00,Inspection Of The Engine After A Hard Landing (More Than The Limits),重着陆后的发动机检查(超限),887
+71-00-00-200-802-F00,Inspection of the Engine After VolcanicAsh Dust or Sand Ingestion,在火山灰、灰尘或砂子吸入后的发动机检查,888
+71-00-02,POWER PLANT - REMOVAL/INSTALLATION,构型 页 有效性动力装置-拆卸/安装,889
+71-00-03,POWER PLANT - MAINTENANCE PRACTICES (PRESERVATION AND DEPRESERVATION,动力装置-维护实施(封存和起封),890
+1971/11/1,INLET COWL - REMOVAL/INSTALLATION,进气道-拆卸/安装,891
+1971/11/1,INLET COWL - INSPECTION/CHECK,进气道-检验/检查,892
+1971/11/2,FAN COWL PANELS - MAINTENANCE PRACTICES,风扇整流罩面板-维护实施,893
+1971/11/5,OIL TANK ACCESS DOOR - MAINTENANCE PRACTICES,滑油箱检查口盖-拆卸/安装,894
+1971/11/5,OIL TANK ACCESS DOOR - ADJUSTMENT/TEST,滑油箱检查口盖-调整/测试,895
+1971/11/6,T12 ACCESS/PRESSURE RELIEF DOOR -MAINTENANCE PRACTICES,T12接近/释压门-维护实施,896
+1971/11/7,CHIP DETECTOR ACCESS/PRESSURE RELIEF DOOR - MAINTENANCE PRACTICES,金属屑探测器入口/释压门-维护实施,897
+1971/11/8,VORTEX CONTROL DEVICE - REMOVAL/INSTALLATION,涡流控制装置-拆卸/安装,898
+71-71-00,ENGINE VENTS AND DRAINS - INSPECTION/CHECK,发动机通风和排放-检验/检查,899
+72-21-00-200-801-F00,Power Plant Inlet and Fan Blades Inspection (General Visual),发动机进口和风扇叶片检查(一般目视),900
+72-21-00-220-801-F00,Engine Inlet and Fan Blades Inspection (Detail),发动机进气口和风扇叶片检查(详图),901
+72-21-02-200-801-F00,Fan Module Inspection,风扇叶片检查,902
+72-21-02-300-801-F00,Repair the Fan Blade,修理风扇叶片,903
+72-23-01,OUTLET GUIDE VANES - INSPECTION/CHECK,出口导流叶片-检验/检查,904
+72-23-02,AFT ACOUSTICAL PANELS - REMOVAL/INSTALLATION,后消音板-拆卸/安装,905
+72-23-02-200-801-F00,Acoustical Panels and Profile Struts Inspection,消音板和成型支柱检查,906
+72-63-00,ACCESSORY GEARBOX - REMOVAL/INSTALLATION,附件齿轮箱-拆卸/安装,907
+72-63-00-200-801-F00,Accessory Gearbox Inspection,附件齿轮箱检查,908
+1973/11/1,FUEL PUMP PACKAGE - MAINTENANCE PRACTICES,燃油泵组-拆卸/安装,909
+73-11-01-200-801-F00,The Visual Inspection of the Impeller Rotation,燃油泵组件-检验/检查,910
+1973/11/2,FUEL FILTER - REMOVAL/INSTALLATION,燃油过滤器-拆卸/安装,911
+1973/11/3,FUEL NOZZLE FILTER - REMOVAL/INSTALLATION,燃油喷嘴过滤器-拆卸/安装,912
+73-11-04-200-801-F00,Fuel Nozzle and Fuel Manifold Leak Check,燃油喷嘴和燃油总管泄漏检查,913
+73-11-05-700-801-F00,Fuel Manifold - Inspection/Check,燃油总管-检查/校验,914
+1973/11/6,IDG OIL COOLER - REMOVAL/INSTALLATION,IDG 滑油散热器-拆除/安装,915
+1973/11/7,SERVO FUEL HEATER - REMOVAL/INSTALLATION,伺服燃油加热器-拆除/安装,916
+73-21-00,FUEL CONTROL SYSTEM - ADJUSTMENT/TEST,燃油调节系统-调节/测试,917
+73-21-00-740-803-F00,EEC BITE TEST - RECENT FAULTS,EEC 自测-最近的故障,918
+73-21-00-740-801-F00,EEC BITE TEST - FAULT HISTORY,EEC 自测-故障记录,919
+73-21-00-840-801-F00,Prepare for the Tests,准备测试,920
+73-21-00-700-802-F00,FADEC System Test,FADEC 系统试验,921
+73-21-00-700-804-F00,EEC TEST,EEC 测试,922
+3-21-00-700-805-F00,T/R LEVER INTLK (Interlock) TEST,T/R 手柄联锁(互锁)测试,923
+73-21-00-700-806-F00,Thrust Lever Adjustment and ThrustReverser Position Adjustment Test,推力杆调节和反推装置位置调节测试,924
+73-21-00-700-807-F00,Engine 1 and Engine 2 Thrust LeverAngle Resolver Alignment Test,1 号和2 号发动机推力杆角度解析校准测试,925
+73-21-00-700-808-F00,IDENT/CONFIG,识别/构型,926
+73-21-00-700-809-F00,EEC Discretes Test,EEC 离散测试,927
+73-21-00-800-801-F00,Erase All EEC Faults,消除所有的EEC 故障,928
+73-21-00-700-810-F00,FADEC 2 or FADEC 3 Identification,FADEC 2 或 FADEC 3 识别,929
+73-21-02,PT25 SENSOR - REMOVAL/INSTALLATION,PT25 传感器-拆卸/安装,930
+73-21-05,T12 SENSOR - REMOVAL/INSTALLATION,T12 传感器-拆卸/安装,931
+73-21-05-200-801-F00,T12 Sensor Inspection/Check,T12 传感器检验/检查,932
+73-21-06,WIRING HARNESSES - REMOVAL/INSTALLATION,导线束-拆卸/安装,933
+73-21-07,T3 SENSOR - REMOVAL/INSTALLATION,T3传感器-拆卸/安装73-21-07,934
+73-21-08,ELECTRONIC ENGINE CONTROL (EEC)ALTERNATOR - REMOVAL/INSTALLATION,电子发动机控制(EEC)交流发电机-拆卸/安装,935
+73-21-09,HIGH PRESSURE SHUTOFF VALVE -MAINTENANCE PRACTICES,高压关断活门-维护实施,936
+73-21-10,HYDROMECHANICAL UNIT - REMOVAL/INSTALLATION,HMU组件-拆卸/安装,937
+73-21-12,ENGINE CONTROL MODULE - REMOVAL/INSTALLATION,发动机控制组件-拆卸/安装,938
+73-21-60-470-801-F00,EEC Software Load,EEC 软件加载,939
+73-21-60-970-801-F00,Retrieve NVM,恢复NVM,940
+73-21-60-000-801-F00,EEC Removal,EEC 拆卸,941
+73-21-60-400-801-F00,EEC Installation,EEC 安装,942
+73-31-01,FUEL FLOW TRANSMITTER - REMOVAL/INSTALLATION,燃油流量传感器-拆除/安装,943
+73-34-01,FUEL FILTER DIFFERENTIAL PRESSURE SWITCH - REMOVAL/INSTALLATION,燃油过滤器压差开关-拆卸/安装,944
+74-00-00-750-801-F00,Audible Test of the Ignition System -EEC BITE Igniters Test,点火系统听音测试-EEC BITE点火器测试,945
+74-00-00-750-802-F00,Ignition System Test (Optional),点火系统测试(可选),946
+74-00-00-040-801-F00,MMEL 74-1 (DDPG) Preparation - RightIgnition System Inoperative,MMEL 74-1 (DDPG)准备-右点火系统失效,947
+74-00-00-040-802-F00,MMEL 74-1 (DDPG) Restoration - RightIgnition System Inoperative,MMEL 74-1 (DDPG)恢复-右点火系统失效,948
+74-11-01-000-801-F00,Ignition Exciter Removal,点火励磁器的拆卸,949
+74-11-01-400-801-F00,Ignition Exciter Installation,点火励磁器的安装,950
+74-11-01-200-801-F00,Ignition Exciter Inspection,点火励磁器的检验,951
+74-21-01,Ignition Lead Removal/Installation,点火导线-拆卸/安装,952
+74-21-01,Ignition Lead Inspection,点火导线-检验/检查,953
+74-21-02,MAIN IGNITER PLUG - REMOVAL/INSTALLATION,主点火嘴-拆卸/安装,954
+74-21-02-200-801-F00,Main Igniter Plug Inspection,主点火嘴的检验,955
+75-21-01,HIGH PRESSURE TURBINE ACTIVE CLEARANCE CONTROL VALVE -REMOVAL/INSTALLATION,高压涡轮主动间隙控制活门-拆卸/安装,956
+75-22-04,LOW PRESSURE TURBINE ACTIVE CLEARANCE CONTROL VALVE -REMOVAL/INSTALLATION,低压涡轮主动间隙控制活门-拆卸/安装,957
+75-23-01,TRANSIENT BLEED VALVE - REMOVAL/INSTALLATION,瞬时引气活门-拆卸/安装,958
+75-31-00,VSV Actuation System - Manual Operation,可变定子叶片(VSV)作动系统-维护实施,959
+75-31-01,VARIABLE STATOR VANE ACTUATOR -REMOVAL/INSTALLATION,可变定子叶片作动筒-拆卸/安装,960
+75-32-00,VARIABLE BLEED VALVE (VBV) ACTUATIONSYSTEM - MAINTENANCE PRACTICES,可变引气活门(VBV)作动系统-维护实施,961
+75-32-00,VARIABLE BLEED VALVE (VBV) ACTUATION SYSTEM - ADJUSTMENT/TEST,可变引气活门(VBV)作动系统-检验/检查,962
+75-32-02,VARIABLE BLEED VALVE ACTUATOR -REMOVAL/INSTALLATION,可变引气活门作动筒-拆卸/安装,963
+75-32-03,VARIABLE BLEED VALVE DOORS -REMOVAL/INSTALLATION,可变引气活门口盖-拆卸/安装,964
+75-32-03,Variable Bleed Valve Doors Inspection,可变引气活门口盖-检验/检查,965
+76-11-01-010-801-F00,Thrust Levers Removal,推力杆拆卸,966
+76-11-01-420-801-F00,Thrust levers Installation,推力杆安装,967
+1976/11/2,START LEVERS - REMOVAL/INSTALLATION,起动手柄-拆卸/安装,968
+1976/11/3,CONTROL STAND LIGHTPLATES SEALS AND RETAINERS COVERS AND STOPS -REMOVAL/INSTALLATION,操纵台灯板、密封件以及挡圈、盖板和止动块-拆卸/安装,969
+1976/11/5,THRUST LEVER ANGLE RESOLVER AND AUTOTHROTTLE BRAKE ASSEMBLY -REMOVAL/INSTALLATION,推力杆角度变换器和自动油门刹车组件-拆卸/安装,970
+1976/11/5,THRUST LEVER ANGLE RESOLVER AND AUTOTHROTTLE BRAKE ASSEMBLY -ADJUSTMENT/TEST,推力杆角度变换器和自动油门刹车组件-调整/测试,971
+1976/11/6,REVERSE THRUST INTERLOCK SOLENOID -REMOVAL/INSTALLATION,反推力互锁电磁阀-拆卸/安装,972
+1976/11/7,AUTOTHROTTLE SWITCHPACK ASSEMBLY AND SWITCHES - REMOVAL/INSTALLATION,自动油门电门组组件和电门-拆卸/安装,973
+76-11-07-820-801-F00,A/T Switch Check and Adjustment,自动油门电门组组件和电门检查和调节,974
+1976/11/10,ENGINE START BRAKE ASSEMBLY -REMOVAL/INSTALLATION,发动机起动刹车组件-拆卸/安装,975
+1976/11/11,ENGINE START BRAKE ASSEMBLY SWITCH- REMOVAL/INSTALLATION,发动机起动刹车组件电门-拆卸/安装,976
+1977/11/1,N1 SPEED SENSOR - REMOVAL/INSTALLATION,N1 速度传感器-拆卸/安装,977
+1977/11/2,N2 SPEED SENSOR - REMOVAL/INSTALLATION,N2 速度传感器-拆卸/安装,978
+77-21-01,T49.5 PROBE - REMOVAL/INSTALLATION,T49.5 探头-拆卸/安装,979
+77-21-01-200-801-F00,T49.5 Probe and EGT System Inspection,T49.5 传感器和EGT 系统的检查,980
+77-31-00-970-804-F00,Airborne Vibration Monitoring (AVM)System - System Test,机载振动监控(AVM)系统-系统测试,981
+77-31-00-970-805-F00,Download The Advanced AVM (AAVM) Bearing Data With The Ground Support Software (GSS),用地面支持软件(GSS)下载高级AVM(AAVM)方位数据,982
+77-31-00-910-801-F00,ARINC 429 Data Bus Charts,ARINC 429 数据总线图,983
+77-31-00-710-801-F00,Airborne Vibration Monitoring (AVM) System - Operational Test,机载振动监控(AVM)系统-操作测试,984
+77-31-00-700-801-F00,Airborne Vibration Monitor (AVM) Signal Conditioner - Self Test,机载振动监控器(AVM)信号调节器-自测,985
+77-31-03,AIRBORNE VIBRATION MONITOR (AVM) SIGNAL CONDITIONER - REMOVAL/INSTALLATION,机载振动监控器(AVM)信号调节器-拆卸/安装,986
+77-31-04,FAN FRAME COMPRESSOR CASE (FFCC) VIBRATION SENSOR - REMOVAL/INSTALLATION,风扇框压气机机匣(FFCC)振动传感器-拆卸/安装,987
+77-31-05,NO. 1 BEARING VIBRATION SENSOR -MAINTENANCE PRACTICES,1 号轴承振动传感器-维护实施,988
+78-00-00,EXHAUST - DDG MAINTENANCE PROCEDURES,排气-DDG 维护工序,989
+78-00-00-040-801-F00,MMEL 78-1 (DDPG) Preparation - Thrust Reversers Inoperative,MMEL 78-1准备-反推装置不工作,990
+78-00-00-440-801-F00,MMEL 78-1 (DDPG) Restoration - Thrust Reversers Inoperative,MMEL 78-1修复-反推装置不工作,991
+78-11-00,TURBINE EXHAUST SYSTEM - INSPECTION/CHECK,涡轮排气系统-检验/检查,992
+1978/11/1,PRIMARY NOZZLE ASSEMBLY - REMOVAL/INSTALLATION,主喷嘴组件-拆卸/安装,993
+1978/11/2,PRIMARY PLUG ASSEMBLY - REMOVAL/INSTALLATION,主插头组件-拆卸/安装,994
+78-31-00-010-801-F00,Open the Thrust Reverser (Selection,打开反推装置(选择),995
+78-31-00-010-804-F00,Close the Thrust Reverser (Selection),关闭反推装置(选择),996
+78-31-00-000-802-F00,Open the Thrust Reverser (Hand Pump) Procedure,打开反推装置(手摇泵程序),997
+78-31-00-410-802-F00,Close the Thrust Reverser (Hand Pump Method),关闭反推装置(手摇泵方法),998
+78-31-00-010-805-F00,Open the Thrust Reverser (Manual Procedure),打开反推装置(手动程序),999
+8-31-00-410-803-F00,Close the Thrust Reverser (Manual Procedure),关闭反推装置(手动程序),1000
+78-31-00-000-803-F00,Open the Thrust Reverser (65-Degree Maintenance Position,打开反推装置(65度维护位置),1001
+78-31-00-410-804-F00,Close the Thrust Reverser (65-Degree Maintenance Position),关闭反推装置(65度维护位置),1002
+78-31-00-980-801-F00,Thrust Reverser Operation - Extend (Selection),反推装置工作-伸出(选择),1003
+78-31-00-980-802-F00,Thrust Reverser Operation - Retract (Selection),反推装置工作-收缩(选择),1004
+78-31-00-980-803-F00,Thrust Reverser Operation - Extend (Manual Procedure),反推装置工作-伸出(手动程序),1005
+78-31-00-980-804-F00,Thrust Reverser Operation - Retract (Manual Procedure,反推装置工作-收缩(手动程序),1006
+78-31-00-980-805-F00,Thrust Reverser Operation - Extend (Power Procedure),反推装置工作-伸出(电源程序),1007
+78-31-00-980-806-F00,Thrust Reverser Operation - Retract (Power Procedure),反推装置工作-收缩(电源程序),1008
+78-31-00-040-802-F00,Thrust Reverser Deactivation For Ground Maintenance,反推力装置地面维护解除,1009
+78-31-00-440-803-F00,Thrust Reverser Activation After Ground Maintenance,地面维护后的反推力装置恢复,1010
+78-31-00-700-801-F00,Thrust Reverser Normal Operation Test,反推装置正常工作测试,1011
+78-31-00-700-802-F00,Thrust Reverser Operation Test (Standby Hydraulic System),反推装置工作测试( 备用液压系统),1012
+21-61-04,DUCT TEMPERATURE LIMIT SENSOR -REMOVAL/INSTALLATION,管道温度限制传感器-拆卸/安装,1013
+21-61-05,DUCT OVERHEAT SWITCH - REMOVAL/INSTALLATION,管道过热电门-拆卸/安装,1014
+21-61-06,CABIN TEMPERATURE SENSOR ASSEMBLY FILTER - MAINTENANCE PRACTICES,客舱温度传感器组件过滤器-维护实施,1015
+21-61-07,CABIN TEMPERATURE SELECTOR -REMOVAL/INSTALLATION,客舱温度选择器-拆卸/安装,1016
+21-61-08,DUCT TEMPERATURE ANTICIPATOR SENSOR - REMOVAL/INSTALLATION,管道温度预感器-拆卸/安装,1017
+21-61-09,TRIM AIR CHECK VALVE - REMOVAL/INSTALLATION,配平空气单向活门-拆除/安装,1018
+21-61-10,CABIN TEMPERATURE SENSOR -MAINTENANCE PRACTICES,客舱温度传感器-维护实施,1019
+21-61-15,CABIN TEMPERATURE SENSOR -INSPECTION/CHECK,温度控制组件-拆卸/安装,1020
+21-61-20,PACK/ZONE TEMPERATURE CONTROLLER - REMOVAL/INSTALLATION,Pack 组件/区域温度控制器-拆卸/安装,1021
+21-61-20-000-801,Pack/Zone Temperature Controller Removal,拆卸Pack 组件/区域温度控制器,1022
+21-61-20-400-801,Pack/Zone Temperature Controller Installation,安装Pack 组件/区域温度控制器,1023
+21-61-21-000-801,Zone Trim Air Modulating Valve Removal,拆卸区域配平空气调节活门,1024
+21-61-21-400-801,Zone Trim Air Modulating Valve Installation,安装区域配平空气调节活门,1025
+78-31-00-700-803-F00,Sync Lock Operational Test,同步锁操作试验,1026
+78-31-00-700-804-F00,Thrust Reverser Engine Accessory Unit (EAU) Test,反推装置发动机附件(EAU)测试,1027
+78-31-00-700-806-F00,Thrust Reverser Linear VariableDifferential Transformer (LVDT) Test,反推装置线性可变差动变压器(LVDT)测试,1028
+78-31-01-000-801-F00,Thrust Reverser Removal,反推装置的拆卸,1029
+78-31-01-400-801-F00,Thrust Reverser Installation,反推装置安装,1030
+78-31-01-820-801-F00,Thrust Reverser Adjustment,反推调节,1031
+78-31-01-200-801-F00,Thrust Reverser Fan Duct Wall Inspection,反推装置风扇函道壁检查,1032
+78-31-01,THRUST REVERSER- CLEANING/PAINTING,反推装置-清洗/油漆,1033
+78-31-01-960-801-F00,Thrust Reverser Hinge Beam Fire Wall Replacement,反推力装置铰接梁防火墙更换,1034
+78-31-02,TRANSLATING SLEEVE - REMOVAL/INSTALLATION,传输套筒-拆卸/安装,1035
+78-31-02,TRANSLATING SLEEVE - INSPECTION/CHECK,传输套筒-检验/检查,1036
+78-31-03,THRUST REVERSER HYDRAULIC ACTUATORS - REMOVAL/INSTALLATION,反推力装置液压作动筒-拆卸/安装,1037
+78-31-03-610-801-F00,Thrust Reverser Hydraulic Actuator RodEnd Inspection,反推装置液压作动筒杆端检查,1038
+78-31-03,THRUST REVERSER HYDRAULIC ACTUATORS - REPAIRS,反推力装置液压作动筒-修理,1039
+78-34-10,THRUST REVERSER SYNC LOCK -REMOVAL/INSTALLATION,反推力装置同步锁-拆卸/安装,1040
+78-34-10,THRUST REVERSER SYNC LOCK -ADJUSTMENT/TEST,反推装置同步锁-调节/测试,1041
+79-00-00,OIL - INSPECTION/CHECK,滑油-检验/检查,1042
+79-00-00-200-804-F00,Chip Detectors and Scavenge Screens Inspection,金属屑探测器和回油滤网的检查,1043
+79-00-00-200-805-F00,Oil Supply Filter Pop-Out Indicator Inspection (Visual Check,滑油供油滤快速脱开指示器检查(目视检查),1044
+1979/11/1,OIL TANK - REMOVAL/INSTALLATION,滑油箱-拆卸/安装,1045
+79-11-01-200-801-F00,Oil Tank Inspection,滑油箱检查,1046
+79-21-00,OIL DISTRIBUTION - MAINTENANCE PRACTICES,滑油分配-维护实施,1047
+79-21-02,MAIN OIL/FUEL HEAT EXCHANGER -REMOVAL/INSTALLATION,主滑油/燃油热交换器-拆除/安装,1048
+79-21-03,OIL SUPPLY FILTER - REMOVAL/INSTALLATION,滑油供油滤-拆卸/安装,1049
+79-21-04,SCAVENGE OIL FILTER ASSEMBLY -REMOVAL/INSTALLATION,回油滑油滤组件-拆卸/安装,1050
+79-21-05,CHIP DETECTOR REMOVAL/INSTALLATION,金属屑探测器拆卸/安装,1051
+79-21-06,SCAVENGE OIL FILTER ELEMENT -REMOVAL/INSTALLATION,回油滑油滤芯-拆卸/安装,1052
+79-21-07,SCAVENGE OIL FILTER CLOGGING TRANSMITTER - REMOVAL/INSTALLATION,回油过滤器堵塞传感器-拆卸/安装,1053
+79-31-00-730-801-F00,System Test - Oil Quantity Indicating System,系统测试-滑油量指示系统测试,1054
+79-31-01,OIL QUANTITY TRANSMITTER - REMOVAL/INSTALLATION,滑油量传感器-拆卸/安装,1055
+79-32-01,OIL PRESSURE SENSOR - REMOVAL/INSTALLATION,滑油压力传感器-拆卸/安装,1056
+79-34-02,OIL TEMPERATURE SENSOR - REMOVAL/INSTALLATION,滑油温度传感器-拆除/安装,1057
+80-00-00-040-801-F00,MMEL 80-3 (DDPG) Preparation - StartValve Inoperative,MMEL 80-3准备-起动活门不工作,1058
+80-00-00-440-801-F00,MMEL 80-3 (DDPG) Restoration - StartValve Inoperative,MMEL 80-3恢复-起动活门不工作,1059
+80-11-00-000-801-F00,Starter Switch Removal,起动机电门拆卸,1060
+80-11-00-400-801-F00,Starter Switch Installation,起动机电门安装,1061
+80-11-00-730-801-F00,Start Switch Test,起动电门测试,1062
+80-11-01-680-801-F00,Drain the Starter Oil,排放起动机滑油,1063
+80-11-01-610-801-F00,Fill the Starter With Engine Oil,用发动机滑油加注起动机,1064
+1980/11/1,STARTER - REMOVAL/INSTALLATION,起动机-拆装,1065
+1980/11/1,STARTER - INSPECTION/CHECK,起动机-检查/检验,1066
+1980/11/1,STARTER - REPAIRS,起动机-修理,1067
+1980/11/2,QAD ADAPTER - REMOVAL/INSTALLATION,QAD转接头 - 拆卸/,1068
+1980/11/3,START VALVE - REMOVAL/INSTALLATION,起动活门-拆卸/安装,1069
+21-61-30,DUCT TEMPERATURE BULB - REMOVAL/INSTALLATION,管道热敏元件-拆卸/安装,1070
+21-61-30,DUCT TEMPERATURE BULB - REMOVAL/INSTALLATION,管道热敏元件-拆卸/安装,1071
+21-61-31,CABIN TEMPERATURE BULB - REMOVAL/INSTALLATION,客舱热敏元件-拆卸/安装,1072
+21-61-32,CABIN TEMPERATURE INDICATOR -REMOVAL/INSTALLATION,客舱温度指示器-拆卸/安装,1073
+21-61-33,AIR MIX VALVE POSITION INDICATOR -REMOVAL/INSTALLATION,空气混合活门位置指示器-拆卸/安装,1074
+21-61-34,AIR MIX VALVE POSITION TRANSMITTER -ADJUSTMENT/TEST,空气混合活门位置传感器-调整/测试,1075
+21-61-35,CABIN TEMPERATURE MODULE PRINTED CIRCUIT ASSEMBLY - REMOVAL/INSTALLATION,客舱温度组件印刷电路组件-拆卸/安装,1076
+21-62-00-000-801,Trim Air Pressure Regulating and Shutoff Valve - Operational Test,配平空气压力调节和关断活门的操作测试,1077
+21-62-01,TRIM AIR PRESSURE REGULATING AND SHUTOFF VALVE - REMOVAL/INSTALLATION,配平气压调节和关断活门-拆卸/安装,1078
+22-11-00-700-801,Land Verify Test,着陆验证测试,1079
+22-11-00-700-802,Reset Latches Procedure,复位锁存故障,1080
+22-11-00-740-801,Digital Flight Control System (DFCS) -Operational Test,数字飞机操纵系统(DFCS)-操作测试,1081
+22-11-00-740-814,Flight Control Computer Option Pins Test,飞行控制计算机程序钉测试,1082
+22-11-00-740-806,BITE Library Test,BITE 程序库测试,1083
+22-11-00-740-807,Wheel Spin Up Test,机轮向上转动测试,1084
+22-11-00-740-808,Power Bus Transfer Test,电源汇流条传输测试,1085
+22-11-00-740-809,Power Bus Isolation Test,电源汇流条隔离测试,1086
+22-11-00-740-810,Circuit Breaker Interface Test,跳开关接口测试,1087
+22-11-00-740-811,Air/Ground Discrete Test,空中/地面离散测试,1088
+22-11-00-740-812,Other Discrete Inputs Test,其它离散输入测试,1089
+22-11-00-820-801,Sensor Excitation Test,传感器励磁测试,1090
+22-11-00-740-813,Maintenance Monitor Test,维护监控器测试,1091
+22-11-00-800-801,Master Caution Test,主告诫测试,1092
+22-11-00-800-802,Autoland Warning Light Test,自动着陆警告灯测试,1093
+22-11-00-820-802,Elevator Rigging Test,升降舵校装测试,1094
+22-11-00-820-803,Aileron Rigging Test,副翼校装测试,1095
+05-51-18-210-801,Bird/Hail Strike Conditional Inspection,鸟/冰雹撞击状况检查,1096
+05-51-18-212-801,Hail Strike on the Ground Conditional Inspection,地面冰雹打击状况检查,1097
+05-51-19-210-801,Examine External and Internal Areas for Lightning Strike Damage,检查外部和内部区域有无雷击损坏,1098
+05-51-19-710-801,Inspection and Operational Check of Radio and Navigation Systems,对无线电和导航系统进行检查和工作性能检查,1099
+05-51-24-200-801,Cabin Overpressurization Conditional Inspection,客舱过压状况检查,1100
+05-51-28-210-801,Ice or Snow Condition Maintenance Practices,冰或雪状态维护实施,1101
+05-51-29-200-801,EXCEEDING MAXIMUM NOSE LANDING GEAR TOWING ANGLE OR MAXIMUM TOWING LOAD (CONDITIONAL INSPECTION) Phase I Inspection,超过最大前起落架牵引角度或最大牵引载荷(状况检查)I,1102
+05-51-29-200-802,EXCEEDING MAXIMUM NOSE LANDING GEAR TOWING ANGLE OR MAXIMUM TOWING LOAD (CONDITIONAL INSPECTION) Phase II Inspection,超过最大前起落架牵引角度或最大牵引载荷(状况检查)II,1103
+05-51-32-210-801,Tail Strike Inspection,尾部撞击检查,1104
+05-51-32-210-802,Tail Skid Inspection,尾橇检查,1105
+05-51-35-210-801,OVERWEIGHT LANDING - MAINTENANCE PRACTICES (CONDITIONAL INSPECTION) Phase I Inspection,超重着陆阶段I检查,1106
+05-51-35-200-801,OVERWEIGHT LANDING - MAINTENANCE PRACTICES (CONDITIONAL INSPECTION) Phase II Inspection,超重着陆阶段II检查,1107
+05-51-47-210-801, 状况检查Landing Gear Operation Above DesignSpeed Condition Conditional Inspection,超过设计速度状况的起落架,1108
+22-11-00-820-804,Flaps Rigging Test,襟翼校装测试,1109
+22-11-00-820-805,Stabilizer Rigging Test,安定面校装测试,1110
+22-11-00-820-806,Pitch Control Wheel Steering Rigging Test,俯仰控制机轮转弯校装测试,1111
+22-11-00-820-807,Roll Control Wheel Steering Rigging Test,横滚控制轮转弯力校装测试,1112
+22-11-00-820-808,Mach Trim Rigging Test,马赫配平校装测试,1113
+22-11-00-820-809,Alpha Vane Rigging Test,迎角叶片校装测试,1114
+22-11-00-820-811,Remote Light Sensor Input Test,遥控灯光传感器输入测试,1115
+22-11-00-820-812,Elevator Centering Unit Test,升降舵定中心组件测试,1116
+22-11-11-000-801,Roll Force Transducer Removal,拆卸滚转操纵力传感器,1117
+22-11-11-400-801,Roll Force Transducer Installation,安装滚转操纵力传感器,1118
+22-11-11-820-801,Roll Force Transducer Adjustment and Test,横向滚力传感器调节和测试,1119
+22-11-11-740-801,Roll Force Transducer Test,滚转操纵力传感器测试,1120
+22-11-12-000-801,A/P ACTUATOR SOLENOID AND TRANSFER VALVES - REMOVAL,A/P 作动筒电磁活门和转换活门-拆卸,1121
+22-11-12-400-801,A/P ACTUATOR SOLENOID AND TRANSFER VALVES - INSTALLATION,A/P 作动筒电磁活门和转换活门-安装,1122
+22-11-14-000-801,Elevator Neutral Shift Sensor Removal,拆卸升降舵中立位移传感器,1123
+22-11-14-400-801,Elevator Neutral Shift Sensor Installation,安装升降舵中立位移传感器,1124
+22-11-14-820-801,Elevator Neutral Shift Sensor  Adjustment and Test,升降舵中立位移传感器调节和测试,1125
+22-11-14-400-801,Elevator Neutral Shift Sensor Test,升降舵中立位移传感器测试,1126
+22-11-24-000-801,Mach Trim Actuator Removal,拆卸马赫数配平作动筒,1127
+22-11-24-400-801,Mach Trim Actuator Installation,安装马赫数配平作动筒,1128
+22-11-24-740-801,Mach Trim Actuator Installation Test,马赫数配平作动筒安装测试,1129
+22-11-25-000-801,Autopilot Aileron Actuator Removal,拆卸自动驾驶副翼作动筒,1130
+22-11-25-400-801,Autopilot Aileron Actuator Installation,安装自动驾驶副翼作动筒,1131
+22-11-25-820-801,Autopilot Aileron Actuator Adjustment,自动驾驶副翼作动筒调节,1132
+22-11-25-710-801,Autopilot Aileron Actuator Test,自动驾驶副翼作动筒测试,1133
+22-11-25-200-801,Autopilot Aileron Actuator Linkage Inspection,自动驾驶仪副翼作动筒连杆检查,1134
+22-11-26-000-801,Autopilot Elevator Actuator Removal,拆卸自动驾驶仪升降舵作动筒,1135
+22-11-26-400-801,Autopilot Elevator Actuator Installation,安装自动驾驶仪升降舵作动筒,1136
+22-11-26-820-801,Autopilot Elevator Actuator Adjustment and Test,自动驾驶仪升降舵作动筒调节和测试,1137
+22-11-26-710-801,Autopilot Elevator Actuator Test,自动驾驶仪升降舵作动筒测试,1138
+22-11-26-200-802,Autopilot Elevator Actuator Linkage Inspection,自动驾驶仪升降舵作动筒渗漏检查,1139
+22-11-27-000-801,Spoiler Position Sensor Removal,拆卸扰流板位置传感器,1140
+22-11-27-400-801,Spoiler Position Sensor Installation,安装扰流板位置传感器,1141
+22-11-27-820-801,Spoiler Position Sensor Adjustment,扰流板位置传感器调节,1142
+22-11-27-710-801,Spoiler Position Sensor Test,扰流板位置传感器测试,1143
+22-11-29-000-801,Aileron Position Sensor Removal,拆卸副翼位置传感器,1144
+22-11-29-400-801,Aileron Position Sensor Installation,安装副翼位置传感器,1145
+22-11-29-820-801,Aileron Position Sensor Adjustment,副翼位置传感器调节,1146
+22-11-29-710-801,Aileron Position Sensor Test,副翼位置传感器测试,1147
+22-11-30-000-801,Elevator Position Sensor Removal,升降舵位置传感器拆卸,1148
+22-11-30-400-801,Elevator Position Sensor Installation,安装升降舵位置传感器,1149
+22-11-30-820-801,Elevator Position Sensor Adjustment and Test,升降舵位置传感器调节和测试,1150
+22-11-30-710-801,Elevator Position Sensor Test,升降舵位置传感器测试,1151
+22-11-31-000-801,Stabilizer Position Sensor Removal,安定面位置传感器的拆卸,1152
+22-11-31-400-801,Stabilizer Position Sensor Installation,安定面位置传感器的安装,1153
+22-11-31-820-801,Stabilizer Position Sensor Adjustment and Test,安定面位置传感器调节和测试,1154
+22-11-31-710-801,Stabilizer Position Sensor Test,安定面位置传感器测试,1155
+22-11-33-470-802,FCC Software Installation with an Airborne Data Loader,用机载数据载入器安装FCC 软件,1156
+22-11-33-000-801,Flight Control Computer Removal,飞行控制计算机拆卸,1157
+22-11-33-400-801,Flight Control Computer Installation,飞行控制计算机安装,1158
+22-11-34-740-801,DFCS MODE CONTROL PANEL -ADJUSTMENT/TEST,DFCS 模式控制面板调整测试,1159
+22-11-41-000-801,Autopilot Disengage Switch Removal,自动驾驶脱开电门拆卸,1160
+22-11-41-400-801,Autopilot Disengage Switch Installation,安装自动驾驶仪脱开电门,1161
+22-11-81-710-801,Stabilizer Trim Motor Test,安定面配平马达测试,1162
+22-23-00-000-801,Yaw Damper Indicator Removal,偏航阻尼器指示器拆卸,1163
+22-23-00-400-801,Yaw Damper Indicator Installation,偏航阻尼器指示器安装,1164
+22-23-00-710-801,Yaw Damper Indicator Installation,偏航阻尼器系统-操作测试,1165
+22-23-00-710-802,Yaw Damper System - System Test,偏航阻尼器系统-系统测试,1166
+22-31-00-710-801,Autothrottle System - Operational Test,自动油门系统-操作测试,1167
+22-31-00-710-802,Autothrottle System - System Test,自动油门系统-系统测试,1168
+22-31-10-000-801,Autothrottle Computer Removal,自动油门计算机拆卸,1169
+22-31-10-400-801,Autothrottle Computer Installation,安装自动油门计算机,1170
+23-11-00-710-801,HF Communication System -Operational Test,HF 通讯系统-操作测试,1171
+23-11-00-730-801,HF Communication System - System Test,HF 通讯系统-系统测试,1172
+23-11-21-000-801,HF Transceiver - Removal,HF 收发器-拆卸,1173
+23-11-21-400-801,HF Transceiver - Installation,HF 收发器-安装,1174
+23-11-31-000-801,HF Control Panel - Removal,HF 控制面板-拆卸,1175
+23-11-31-400-801,HF Control Panel - Installation,HF 控制面板-安装,1176
+23-11-51-000-801,HF Communication Antenna Removal,HF 通讯天线拆卸,1177
+23-11-51-400-801,HF Communication Antenna Installation,HF 通讯天线安装,1178
+23-11-51-760-801,HF Antenna - Electrical Bond Check,HF 天线-电搭接检查,1179
+23-11-61-000-801,HF Antenna Coupler - Removal,HF 天线耦合器-拆卸,1180
+23-11-61-400-801,HF Antenna Coupler - Installation,HF 天线耦合器-安装,1181
+23-12-00-710-801,VHF Communication System -Operational Test,VHF 通讯系统-操作测试,1182
+23-12-00-730-801,VHF Communication System - System Test,VHF 通讯系统-系统测试,1183
+23-12-11-000-801,VHF Communication Antenna -Removal,VHF 通讯天线-拆卸,1184
+23-12-11-000-802,VHF Communication Antenna With Gasket - Removal,带密封垫的VHF 通讯天线-拆卸,1185
+23-12-11-400-801,VHF Communication Antenna -Installation,VHF 通讯天线-安装,1186
+23-12-11-400-802,VHF Communication Antenna With  Gasket - Installation,带密封垫的VHF 通讯天线-安装,1187
+23-12-21-020-801,VHF Communication Transceiver -Removal,VHF 通讯收发器-拆卸,1188
+23-12-21-420-801,VHF Communication Transceiver -Installation,VHF 通讯收发器-安装,1189
+23-12-31-000-801,VHF Communication Control Panel -Removal,VHF 通讯控制面板-拆卸,1190
+23-12-31-400-801,VHF Communication Control Panel -Installation,VHF 通讯控制面板-安装,1191
+23-12-41-000-801,Radio Tuning Panel (RTP) - Removal,无线电调谐面板(RTP)-拆卸,1192
+23-12-41-400-801,Radio Tuning Panel (RTP) - Installation,无线电调谐面板(RTP)-安装,1193
+23-12-41-800-802,Radio Tuning Panel - INOP Display Toggle,无线电调谐面板-INOP 显示器触发电门,1194
+23-24-00-000-801-001,Emergency Locator Transmitter -Removal,应急定位器发射机-拆卸,1195
+23-24-00-400-801-001,Emergency Locator Transmitter -Installation,应急定位器发射机-安装,1196
+23-24-00-900-801-001,Emergency Locator Transmitter Battery - Replacement,应急定位器发射机电池-更换,1197
+23-24-00-710-801-001,ELT - Operational Test,应急定位器发射机ELT-操作测试,1198
+23-24-02-000-801,ELT Antenna - Removal,ELT 天线-拆卸,1199
+23-24-02-400-801,ELT Antenna - Installation,ELT 天线-安装,1200
+23-24-03-000-801,Emergency Locator Transmitter (ELT) Control Panel Removal,应急定位器发射机(ELT)控制板拆卸,1201
+23-24-03-400-801,Emergency Locator Transmitter (ELT) Control Panel installation,应急定位器发射机(ELT)控制板安装,1202
+23-27-00-740-815-001,ACARS - Operational Test,ACARS-操作测试,1203
+23-27-00-700-813-001, FMC 和VHF 连接测试ACARS Initialization FMC and VHF Link Test,ACARS 初始化,1204
+23-27-00-700-814-001,ACARS Interface Out-Off-On-In Discrete Test,ACARS 接口Out-Off-On-In 离散测试,1205
+23-27-00-700-815-001,ACARS - System Test,ACARS-系统测试,1206
+23-27-11-700-801,MIDU Software Configuration Check,多功能交互式显示器(MIDU)软件构型检查,1207
+23-27-11-000-801,Multipurpose Interactive Display Unit (MIDU) Software Installation using the PCMCIA Interface,使用PCMCIA 接口安装多功能交互显示组件(MIDU)软件,1208
+23-27-11-020-801,Multpurpose Interactive Display Unit (MIDU) Removal,多功能交互显示组件(MIDU)拆卸,1209
+23-27-11-400-801,Multipurpose Interactive Display Unit Installation,多功能交互显示组件安装,1210
+23-27-32-700-801,ACARS Software Configuration Check,ACARS 软件构型检查,1211
+23-27-32-000-801,ACARS Software Installation with an Airborne Data Loader (ADL),带有机载数据装载机(ADL)的ACARS 软件装置,1212
+23-27-32-470-801,ACARS Software Installation with a Portable Data Loader (PDL),用手提式数据装载机(PDL)的ACARS 软件安装,1213
+23-27-32-020-801,ACARS Management Unit Removal,ACARS 管理组件拆卸,1214
+23-27-32-420-801,ACARS Management Unit Installation,ACARS 管理组件安装,1215
+23-27-33-700-802,ACARS Communications Management Unit (CMU) Software Configuration Check,ACARS 通讯管理组件(CMU)软件结构检查,1216
+23-27-33-470-802,ACARS Communications Management Unit Software Installation with an Airborne Data Loader (ADL),用机载数据装载机(ADL)的ACARS通讯管理组件软件安装,1217
+23-27-33-020-801,ACARS Communications Management Unit (CMU) Removal,ACARS 通讯管理组件(CMU)拆卸,1218
+23-27-33-420-801,ACARS Communications Management Unit (CMU) Installation,ACARS 通讯管理组件(CMU)安装,1219
+23-27-35-700-801,ACARS Airplane Personality Module (APM) Data Verification Check,ACARS 飞机个性模块(APM)数据校验检查,1220
+23-27-35-700-802,ACARS Airplane Personality Module (APM) Software Installation,ACARS 飞机个性模块(APM)软件安装,1221
+23-27-35-020-801,ACARS Airplane Personality Module (APM) Removal,ACARS 飞机个性模块(APM)拆卸,1222
+23-27-35-420-801,ACARS Airplane Personality Module (APM) Installation,ACARS 飞机个性模块(APM)安装,1223
+23-28-00-700-801,SELCAL System - Operational Test,SELCAL 系统-操作测试,1224
+23-28-11-020-801,SELCAL Decoder Unit Removal,SELCAL 译码器组件的拆卸,1225
+23-28-11-420-801,SELCAL Decoder Installation,SELCAL 译码器安装,1226
+23-28-21-000-801,SELCAL Control Panel - Removal,SELCAL 控制面板-拆卸,1227
+23-28-21-400-801,SELCAL Control Panel - Installation,SELCAL 控制面板-安装,1228
+23-31-00-740-801,Passenger Address System -Operational Test,旅客广播系统-操作测试,1229
+23-31-00-730-801,Passenger Address System - System Test,旅客广播系统-系统测试,1230
+23-31-01-000-801,Passenger Address (PA) Amplifier Removal,旅客广播(PA)放大器的拆卸,1231
+23-31-01-400-801,Passenger Address (PA) Amplifier Installation,旅客广播(PA)放大器的安装,1232
+23-31-02-000-801,Passenger Service Unit (PSU) Speaker Removal,旅客服务组件(PSU)扬声器的拆卸,1233
+23-31-02-400-801,Passenger Service Unit (PSU) Speaker Installation,旅客服务组件(PSU)扬声器的安装,1234
+23-31-03-000-801,Attendant Speaker Removal,乘务员扬声器拆卸,1235
+23-31-03-400-801,Attendant Speaker Installation,乘务员扬声器安装,1236
+23-31-05-000-801,Lavatory Speaker Removal,盥洗室扬声器拆卸,1237
+23-31-05-400-801,Lavatory Speaker Installation,盥洗室扬声器安装,1238
+05-51-53-210-801,Interior Ice Removal,内部除冰,1239
+05-51-54-210-801,Tire Tread Loss or Tire Burst Conditional Inspection,胎面磨损或轮胎爆裂状况检查,1240
+05-51-56-200-801,Smoke or Fumes in Cabin (Conditional Inspection),客舱内烟雾或蒸气(条件检查),1241
+05-51-81-210-801,Cabin Depressurization Conditional Inspection,客舱释压状况检查,1242
+05-51-91-790-801,Cabin Pressure Leak Test,客舱压力泄漏测试,1243
+12-11-00-650-801,Precautions and Limits for the Refuel Operation,加油操作的注意事项和限制,1244
+12-11-00-650-807,Prepare the Airplane for a Refuel Operation,准备对飞机进行加油操作,1245
+12-11-00-650-802,Pressure Refuel Procedure,压力加油程序,1246
+12-11-00-650-808, 进行加油操作Refuel Operation When the Refuel Quantity Indicators Flash,当加油量指示器闪亮时,1247
+12-11-00-650-803, 进行加油操作Refuel Operation When the Fuel Quantity Indicating System Does not Operate,当油量指示系统不运行时,1248
+12-11-00-650-806,Pressure Refueling Operation For A Refuel Valve That Does Not Open Electrically,对没有电动打开的加油阀进行压力加油操作,1249
+12-11-00-680-801,Fuel System Sumping,燃油系统沉淀,1250
+12-11-00-650-804,Drain the Fuel from the Sumps after Defueling,抽油后排放油槽中的燃油,1251
+23-31-07,PRE-RECORDED ANNOUNCEMENT MACHINE (PRAM) - MAINTENANCE PRACTICES,预录广播机(PRAM)-维护实施,1252
+23-31-07-000-801,Pre-Recorded Announcement Machine (PRAM) Removal,预录广播机(PRAM)的拆卸,1253
+23-31-07-400-801,Pre-Recorded Announcement Machine (PRAM) Installation,预录广播机(PRAM)的安装,1254
+23-32-00-710-802,Passenger Video System - Operational Test,乘客视频系统-操作测试,1255
+23-32-01-000-801,Video Reproducer Removal,视频播放机的拆卸,1256
+23-32-01-400-801,Video Reproducer Installation,视频播放机的安装,1257
+23-32-02,VIDEO SYSTEM CONTROL UNIT -MAINTENANCE PRACTICES,视频系统控制组件-维护实施,1258
+23-32-02-700-801,Video System BITE Test,视频系统BITE 测试,1259
+23-32-02-000-801-001,Video System Control Unit Removal,视频系统控制组件的拆卸,1260
+23-32-02-400-801-001,Video System Control Unit Installation,视频系统控制组件的安装,1261
+23-32-03-000-801,Video Distribution Unit Removal,视频分配组件拆卸,1262
+23-32-03-400-801,Video Distribution Unit Installation,视频分配组件安装,1263
+23-32-06,DIGITAL INTERFACE UNIT - MAINTENANCE PRACTICES,数字接口组件-维护实施,1264
+23-32-06,DIGITAL INTERFACE UNIT - REMOVAL/INSTALLATION,数字接口组件-拆卸/安装,1265
+23-32-07,AIRSHOW CONTROL UNIT - REMOVAL/INSTALLATION,空中显示控制装置-拆卸/安装,1266
+23-32-13,PSU-MOUNTED LCD MONITOR - REMOVAL/INSTALLATION,PSU-固定的LCD 监控器-拆卸/安装,1267
+23-32-14,WALL-MOUNTED LCD MONITOR -REMOVAL/INSTALLATION,壁式LCD 监控器-拆卸/安装,1268
+23-34-00-710-801,Passenger Entertainment System -Operational Test,乘客娱乐系统-操作测试,1269
+23-34-01,AUDIO ENTERTAINMENT PLAYER -MAINTENANCE PRACTICES,音频娱乐播放器-维护实施,1270
+23-34-02,AUDIO MULTIPLEXER - REMOVAL/INSTALLATION,音频多路调制器-拆卸/安装,1271
+23-34-03,AUDIO BITE PANEL - MAINTENANCE PRACTICES,音频BITE 面板-维护实施,1272
+23-34-03-700-803,Passenger Entertainment System BITE Test,乘客娱乐系统BITE 测试,1273
+23-34-03,AUDIO BITE PANEL - REMOVAL/INSTALLATION,音频BITE 面板-拆卸/安装,1274
+23-34-04-000-801,Seat Electronics Box Removal,座椅电子盒拆卸,1275
+23-34-04-400-801,Seat Electronics Box Installation,座椅电子盒安装,1276
+23-34-05,ENTERTAINMENT SWITCH MODULE -REMOVAL/INSTALLATION,娱乐电门组件-拆卸/安装,1277
+23-34-11,PASSENGER CONTROL UNIT - REMOVAL/INSTALLATION,旅客控制组件-拆卸/安装,1278
+23-41-00-710-801,Service Interphone System -Operational Test,勤务内话系统-操作测试,1279
+23-42-01,ATTENDANT HANDSET - REMOVAL/INSTALLATION,乘务员话筒-拆卸/安装,1280
+23-42-01-400-803,Attendant Handset Installation,乘务员话筒安装,1281
+23-42-01-700-80,Attendant Handset Installation Test,乘务员话筒安装测试,1282
+23-42-02,FLIGHT DECK HANDSET - REMOVAL/INSTALLATION,驾驶舱电话听筒-拆卸/安装,1283
+23-43-00-710-801,Flight and Ground Crew Call System -Operational Test,飞行机组和地勤人员呼叫系统-操作测试,1284
+23-43-02,GROUND CREW CALL HORN - REMOVAL/INSTALLATION,地勤人员呼叫喇叭-拆卸/安装,1285
+23-51-00-710-801,Flight Interphone System - Operational Test,飞行内话系统-操作测试,1286
+23-51-01,REMOTE ELECTRONICS UNIT - REMOVAL/INSTALLATION,遥控电子设备-拆卸/安装,1287
+23-51-02-000-801,Audio Control Panel Removal,音频控制面板拆卸,1288
+23-51-02-400-801,Audio Control Panel Installation,音频控制面板安装,1289
+23-51-03,Flight Interphone Speaker Removal/Installation,飞行内话扬声器-拆卸/安装,1290
+23-51-04-000-801,Control Wheel PTT Switch Removal,驾驶盘PTT 电门拆卸,1291
+23-51-04-400-801,Control Wheel PTT Switch Installation,驾驶盘PTT 电门安装,1292
+23-51-05,GLARESHIELD PTT SWITCH - REMOVAL/INSTALLATION,遮光板PTT 电门-拆卸/安装,1293
+23-61-00,STATIC DISCHARGERS - MAINTENANCE  PRACTICES,静电放电刷-维护实施,1294
+23-61-00-000-801,Static Discharger Removal,静电放电刷的拆卸,1295
+23-61-00-400-801,Static Discharger Installation,静电放电刷安装,1296
+23-61-00-210-801,Static Discharger Inspection,静电放电刷检查,1297
+23-61-00-760-801,Static Discharger Resistance Measurement,静电放电刷电阻的测量,1298
+23-71-00-710-801,Voice Recorder System - Operational Test,话音记录器系统-操作测试,1299
+23-71-00-730-801,Voice Recorder System - System Test,话音记录器系统-系统测试,1300
+23-71-11-000-801,Voice Recorder Removal,话音记录器的拆卸,1301
+23-71-11-400-801,Voice Recorder Installation,话音记录器的安装,1302
+23-71-12-000-801,Voice Recorder Control Panel Removal,话音记录器控制面板的拆卸,1303
+23-71-12-400-801,Voice Recorder Control Panel Installation,话音记录器控制面板的安装,1304
+23-71-21,UNDERWATER LOCATOR BEACON -MAINTENANCE PRACTICES,水下定位信标-维护实施,1305
+23-71-21-000-801,Underwater Locator Beacon (ULB) Removal,水下定位信标(ULB)拆卸,1306
+23-71-21-400-801,Underwater Locator Beacon (ULB) Installation,水下定位信标(ULB)安装,1307
+23-75-00-730-804,Flight Deck Entry Video Surveillance System - System Test,驾驶舱进入视频监视系统-系统测试,1308
+23-75-02-000-804,Video Camera - Removal,视频摄影机-拆卸,1309
+23-75-02-400-804,Video Camera - Installation,视频摄影机-安装,1310
+23-75-03-000-802,Flight Deck Camera Select Panel -Removal,驾驶舱摄影机选择面板-拆卸,1311
+23-75-03-400-802,Flight Deck Camera Select Panel -Installation,驾驶舱摄影机选择面板-安装,1312
+23-75-10-000-801,Video Interface Unit - Removal,视频接口组件-拆卸,1313
+23-75-10-400-801,Video Interface Unit - Installation,视频接口组件-安装,1314
+23-81-00-710-803,PC Power System - Operational Test,PC 电源系统-操作测试,1315
+23-81-00-730-801,PC Power System - System Test,PC 电源系统-系统测试,1316
+23-81-01,MASTER CONTROL UNIT - REMOVAL/INSTALLATION,主控制装置-拆卸/安装,1317
+23-81-04,OUTLET UNIT - REMOVAL/INSTALLATION,插座组件-拆卸/安装,1318
+23-81-05,IN-SEAT POWER SUPPLY - REMOVAL/INSTALLATION,椅内电源-拆卸/安装,1319
+23-81-07,CONFIGURATION MODULE - REMOVAL/INSTALLATION,构型组件 - 拆卸/安装,1320
+24-11-00-700-801,IDG Oil System Static Leak Check,IDG 滑油系统静压泄漏检查,1321
+24-11-00-700-804,IDG Push-to-Vent Valve Replacement,IDG 按压式通风活门的更换,1322
+24-11-00-700-802,Operational Test For Number 1 IDG,1号 IDG的操作测试,1323
+24-11-00-700-803,Operational Test For Number 2 IDG,2号 IDG的操作测试,1324
+24-11-11-000-801,Integrated Drive Generator (IDG)Removal,整体驱动发电机(IDG)拆卸,1325
+24-11-11-400-801,Integrated Drive Generator (IDG) Installation,整体驱动发电机(IDG)的安装,1326
+24-11-11-700-801,Integrated Drive Generator Disconnect and Reset Check,综合驱动发电机断开和重置检查,1327
+24-11-21-000-801,Integrated Drive Generator (IDG) Air/Oil Cooler Removal,综合驱动发电机(IDG)空气/滑油冷却器的拆卸,1328
+24-11-21-400-801,Integrated Drive Generator (IDG) Air/Oil Cooler Installation,综合驱动发电机(IDG)空气/滑油冷却器的安装,1329
+24-11-41-000-801,IDG Scavenge and Charge Filter Removal,IDG 回油滤和注油滤的拆卸,1330
+24-11-41-200-801,IDG Scavenge and Charge Filter Inspection/Check,IDG 回油滤和注油滤的探伤/检查,1331
+24-11-41-400-801,IDG Scavenge and Charge Filter Installation,IDG 回油滤和注油滤的安装,1332
+24-11-61-000-801,Quick Attach/Detach (QAD) Adapter Removal,快装/快卸(QAD)转接器的拆卸,1333
+24-11-61-400-801,Quick Attach/Detach (QAD) Adapter Installation,快装/快卸(QAD)转接器的安装,1334
+24-11-61-200-801,QAD Adapter Torque Check,QAD 转接器力矩检查,1335
+24-21-00-700-803,Operational Test for the AC Generation and Control System,交流发电机和控制系统的操作测试,1336
+24-21-00-700-802,System Test for the AC Generation and Control System,交流发电和控制系统的系统测试,1337
+24-21-21-000-801,Power Distribution Panel Removal,电源分配面板拆卸,1338
+24-21-21-400-801,Power Distribution Panel Installation,配电板的安装,1339
+24-21-22,Rigid Bus Assembly Removal/Installation,刚性汇流条组件-拆卸/安装,1340
+24-21-41-000-801,Breaker Removal,跳开关拆卸,1341
+24-21-41-400-801,Breaker Installation,跳开关的安装,1342
+24-21-51,AC System Generator and APU Module Removal/Installation,AC 系统发电机和APU组件-拆卸/安装,1343
+24-21-52,Generator Drive and Standby Power Module Removal/Installation,发电机驱动装置和备用电源组件(P5-5)-拆卸/安装,1344
+24-21-53,Electrical Meters Battery and GalleyPower Module Removal/Installation,电气仪表、电瓶和厨房电源组件(P5-13)-拆卸/安装,1345
+24-21-71,Current Transformer Removal/Installation,变流器-拆卸/安装,1346
+24-21-81,Generator Control Unit Removal/Installation,发电机控制组件-拆卸/安装,1347
+24-22-00-860-811,Supply Electrical Power,接通电源,1348
+24-22-00-860-812,Remove Electrical Power,断开电源,1349
+24-22-00-860-813,Supply External Power,提供外部电源,1350
+24-22-00-860-814,Remove External Power,撤除外部电源,1351
+24-22-00-860-815,Supply APU Generator Power,提供APU 发电机电源,1352
+24-22-00-860-816,Remove APU Generator Power,撤除APU 发电机电源,1353
+24-22-00-860-817,Supply IDG Power,提供 IDG 电源,1354
+24-22-00-860-818,Remove IDG Power,断开 IDG 电源,1355
+24-31-00-700-801,The Operational Test of the DC System,DC 发电系统的操作测试,1356
+24-31-11-000-801-001,Battery Removal,电瓶的拆卸,1357
+24-31-11-400-801-001,Battery Installation,电瓶安装,1358
+24-31-11-200-801,Battery Connector Inspection,电瓶插头检查,1359
+24-31-21-000-802-002,Main Battery Charger Removal,主电瓶充电器拆卸,1360
+24-31-21-400-802-002,Main Battery Charger Installation,主电瓶充电器安装,1361
+24-31-21-710-801,Main Battery Charger Operational Test,主电瓶充电器操作测试,1362
+24-31-31-000-801,Auxiliary Battery Charger Removal,辅助电瓶充电器的拆卸,1363
+24-31-31-400-801,Auxiliary Battery Charger Installation,辅助电瓶充电器的安装,1364
+24-31-31-710-801,Auxiliary Battery Charger Operational Test,辅助电瓶充电器的操作测试,1365
+24-31-41-000-801,Dual Battery RCCB Removal,双电瓶 RCCB 的拆卸,1366
+24-31-41-400-801,Dual Battery RCCB Installation,双电瓶 RCCB 的安装,1367
+24-31-41-710-801,Operational Test for the Dual Battery RCCB,操作测试双电瓶RCCB,1368
+24-32-11-000-801,Transformer Rectifier Unit Removal,变压整流器拆卸,1369
+24-32-11-400-801,Transformer Rectifier Unit Installation,变压整流器安装,1370
+24-34-00-710-801,The Operational Test of the Standby Power System,备用电源系统的操作测试,1371
+24-34-11-000-801,SPCU Removal,备用动力控制组件(SPCU)拆卸,1372
+24-34-11-400-801,SPCU Installation,备用动力控制组件(SPCU)安装,1373
+24-34-21-000-801,Static Inverter Removal,静变流器的拆卸,1374
+24-34-21-400-801,Static Inverter Installation,静变流器安装,1375
+24-34-31-000-801-001,Static Inverter RCCB Removal,静变流器 RCCB 的拆卸,1376
+24-34-31-400-801-001,Static Inverter RCCB Installation,静变流器 RCCB 的安装,1377
+24-41-00-700-801,AC External Power Operational Test,交流电外部电源操作测试,1378
+24-41-11-000-801,External Power Receptacle Removal,外部电源插座的拆卸,1379
+24-41-11-400-801,External Power Receptacle Installation,外部电源插座的安装,1380
+24-41-11-960-801,External Power Receptacle Pins Replacement,更换外电源插座销,1381
+12-12-00-610-801,Hydraulic Reservoir Servicing,液压油箱勤务,1382
+12-13-11-600-801,Replenish the Engine Oil,补充发动机滑油,1383
+12-13-11-600-806,Replenish the Engine Oil (Remote Fill Procedure),补充发动机滑油(远端填满程序),1384
+12-13-11-600-803,Drain the Engine Oil,排放发动机滑油,1385
+12-13-11-100-801,Flush The Engine Oil System,冲洗发动机滑油系统,1386
+12-13-11-750-801,Oil Sampling For Analysis,滑油取样用于分析,1387
+12-13-21-200-801,IDG Oil Level Check,IDG 油位检查,1388
+12-13-21-600-801,IDG Servicing (Oil Fill),IDG 勤务(注油),1389
+12-13-21-200-802,IDG Differential Pressure Indicator (DPI) Check,IDG 压差指示器(DPI)检查,1390
+12-13-21-600-802,IDG Oil Change,IDG 滑油更换,1391
+12-13-31-200-801,APU Oil Level Inspection,APU 油位检查,1392
+12-13-31-610-801,Drain the APU Oil,排放APU滑油,1393
+12-13-31-610-802,Flush the APU Oil,冲洗APU滑油,1394
+24-41-11-200-801,External Power Receptacle - Internal Inspection,外电源插座-内部检查,1395
+24-41-11-200-804,External Power Receptacle - External Inspection,外电源插座-外部检查,1396
+24-41-11-200-802,External Power Receptacle Pin Inspection,外部电源插座插脚的检查,1397
+24-41-11-200-803,External Power Receptacle Neutral Pinto Ground Continuity Check,外部电源插座中性插脚到接地线的导通性检查,1398
+24-41-12-000-801,External Power Contactor Removal,外部电源接触器的拆卸,1399
+24-41-12-400-801,External Power Contactor Installation,外部电源接触器的安装,1400
+24-41-21-000-801,BUS POWER CONTROL UNIT (BPCU) Removal,汇流条电源控制组件(BPCU)拆卸,1401
+24-41-21-400-801,BUS POWER CONTROL UNIT (BPCU) Installation,汇流条电源控制组件(BPCU)安装,1402
+24-51-11-000-801,Load Shed Relay Removal,卸载继电器拆卸,1403
+24-51-11-400-801,Load Shed Relay Installation,卸载继电器安装,1404
+24-61-01-000-801,Cross Bus Tie Relay Removal,交叉汇流条连接继电器拆卸,1405
+24-61-01-400-801,Cross Bus Tie Relay Installation,交叉汇流条连接继电器安装,1406
+25-11-00,FLIGHT COMPARTMENT SEATS -MAINTENANCE PRACTICES,驾驶舱座椅-维护实施,1407
+25-11-01-000-801,Captain’s and First Officer’s Seat Removal,正副驾驶座椅拆卸,1408
+25-11-01-400-801,Captain’s and First Officer’s Seat Installation,正副驾驶座椅安装,1409
+2025/11/2,First Observer’s Seat Removal/Installation,观察员的座椅-拆卸/安装,1410
+2025/11/11,Seat Track Wear Inspection/check,驾驶舱座椅滑轨-检验/检查,1411
+2025/11/21,FLIGHT COMPARTMENT PANELS -MAINTENANCE PRACTICES,驾驶舱面板-维护实施,1412
+2025/11/22,Flight Compartment Forward Side Panel Removal/Installation,驾驶舱前侧板-拆卸/安装,1413
+25-21-12,Window Shade and Reveal AssemblyRemoval/Installation,遮阳帘和显示装置-拆卸/安装,1414
+25-21-20,Emergency Exit Doorway Lining Removal/Installation,应急出口门口衬套-拆卸/安装,1415
+25-21-24, 后舱门-拆卸/安装Doorway Header Panel Aft Doors Removal/Installation,门道顶板,1416
+25-21-25,Sidewall Lining Panel  (Aft Entry and Service Doorways) Removal/Installation,侧壁衬垫面板(后入口和后勤务门道)-拆卸/安装,1417
+25-21-30, 前登机舱门-拆卸/安装Doorway Header Panel Forward Entry Door Removal/Installation,门道顶板,1418
+25-21-31,Sidewall Lining Panel (Forward Entry Doorway) Removal/Installation,侧壁衬套面板(前入口门口)-拆卸/安装,1419
+25-21-34, 前厨房门-拆卸/安装Doorway Header Panel Forward Galley Door Removal/Installation,门道顶板,1420
+25-21-35,Door Surround Panel (Forward Galley Doorway) Removal/Installation,门环绕面板(前厨房门口)-拆卸/安装,1421
+25-21-45,Sculptured Ceiling Panel Removal/Installation,刻纹天花板-拆卸/安装,1422
+25-21-46,Sidewall Panel Removal/Installation,侧壁板组件-拆卸/安装,1423
+25-21-71,Forward and after Lowered Ceiling Removal/Installation,前后下部天花板-拆卸/安装,1424
+25-22-00,Passenger Seat Removal/Installation,客舱座椅-拆除/安装,1425
+25-22-00,Passenger Seat Belt Inspection/Check,客舱座椅-检验/检查,1426
+25-22-00-710-801,Passenger Seat Recline Operational Check and Inspection,客舱座椅斜倚操作检查和检验,1427
+25-22-00-710-802,Passenger Seat Breakover Check at Emergency Exits,在应急出口处客舱座椅斜靠背检查,1428
+25-22-00-710-803,Passenger Seat Recline Restriction Check at Emergency Exits,在应急出口处客舱座椅斜靠限制检查,1429
+25-22-10,PRIMEX PC POWER SYSTEM - REMOVAL/INSTALLATION,PRIMEX PC 电源系统-拆卸/安装,1430
+25-23-13,ATTENDANT/LAVATORY SERVICE UNITS -REMOVAL/INSTALLATION,乘务员/盥洗室勤务组件-拆卸/安装,1431
+25-23-61,PASSENGER SERVICE UNIT (PSU) -MAINTENANCE PRACTICES,旅客服务组件(PSU)-维护实施,1432
+25-24-05,MONUMENT MOUNTED CURTAIN AND TRACK - REMOVAL/INSTALLATION,标志柱装配窗帘和导轨-拆卸/安装,1433
+25-24-07,CEILING MOUNTED CURTAIN TRACK -REMOVAL/INSTALLATION,天花板装配窗帘导轨-拆卸/安装,1434
+25-24-10,CLASS DIVIDER HEADER - REMOVAL/INSTALLATION,顶部分配器组合-拆卸/安装,1435
+25-24-15,PARTITIONS - REMOVAL/INSTALLATION,隔板-拆卸/安装,1436
+25-24-31,OVERHEAD STOWAGE BIN - REMOVAL/INSTALLATION,顶部贮藏箱-拆卸/安装,1437
+25-24-36,OVERHEAD STOWAGE BIN DOOR -MAINTENANCE PRACTICES,顶部贮藏箱门-维护实施,1438
+25-24-40,CENTER OVERHEAD STOWAGE BOX -MAINTENANCE PRACTICES,中央顶部贮藏箱-维护实施,1439
+25-24-40,CENTER OVERHEAD STOWAGE BOX -REMOVAL/INSTALLATION,中央顶部贮藏箱-拆卸/安装,1440
+25-24-77,OUTBOARD STOWAGE CLOSET -REMOVAL/INSTALLATION,外侧储藏柜-拆卸/安装,1441
+25-25-11,FORWARD/AFT ATTENDANT’S PANEL AND COMPONENTS - REMOVAL/INSTALLATION,前/后乘务员面板和部件-拆卸/安装,1442
+25-25-12,CABIN ATTENDANTS’ SEAT - REMOVAL/INSTALLATION,客舱乘务员座椅-拆卸/安装,1443
+25-25-12,CABIN ATTENDANTS’ SEAT - INSPECTION/CHECK,客舱乘务员座椅-检验/检查,1444
+25-27-15,CARPETS - REMOVAL/INSTALLATION,地毯-拆卸/安装,1445
+25-27-21,ENTRY AND SERVICE AREA FLOOR COVERING - REMOVAL/INSTALLATION,入口和勤务区域地板覆盖材料-拆卸/安装,1446
+25-27-31,FLOOR PROXIMITY LIGHTING RACEWAY -REMOVAL/INSTALLATION,地板接近照明设备电缆管道-拆卸/安装,1447
+25-31-11,GALLEY NO. 1 - REMOVAL/INSTALLATION,1 号厨房-拆卸/安装,1448
+25-31-21,GALLEY NO. 2 2A - REMOVAL/INSTALLATION,2A 号厨房-拆卸/安装,1449
+25-31-31,GALLEY NO. 3 - REMOVAL/INSTALLATION,3  号厨房-拆卸/安装,1450
+25-31-41,GALLEY NO. 4B/4E - REMOVAL/INSTALLATION,4 号厨房-拆卸/安装,1451
+25-31-83,FORWARD GALLEY HEADER - REMOVAL/INSTALLATION,前厨房顶部-拆卸/安装,1452
+25-40-01,LAVATORY SEALANT - REMOVAL/INSTALLATION,盥洗室密封剂-拆卸/安装,1453
+25-40-08,LAVATORY WASTE COMPARTMENT -INSPECTION/CHECK,厕所废水箱-检验/检查,1454
+25-40-11,MODULAR LAVATORY A - REMOVAL/INSTALLATION,舱体化的盥洗室A-拆卸/安装,1455
+25-40-14,MODULAR LAVATORY D - REMOVAL/INSTALLATION,舱体化的盥洗室D-拆卸/安装,1456
+25-40-15,MODULAR LAVATORY E - REMOVAL/INSTALLATION,舱体化的盥洗室E-拆卸/安装,1457
+25-40-20,MODULAR LAVATORY K - REMOVAL/INSTALLATION,舱体化的盥洗室K-拆卸/安装,1458
+25-52-00,CARGO COMPARTMENT - INSPECTION/CHECK,货舱-检验/检查,1459
+25-52-00,CARGO COMPARTMENT - CLEANING/PAINTING,货舱-清洗/喷漆,1460
+25-52-01,CARGO COMPARTMENT LINING - REPAIRS,货舱内衬-修理,1461
+25-52-06,CARGO COMPARTMENT SIDEWALL LININGS - REMOVAL/INSTALLATION,货舱侧壁衬里-拆卸/安装,1462
+25-52-09,CARGO COMPARTMENT CEILING LINER -REMOVAL/INSTALLATION,货舱天花板衬垫-拆卸/安装,1463
+25-52-10,CARGO FLOOR PANEL - REMOVAL/INSTALLATION,货舱地板-拆卸/安装,1464
+25-52-12,CARGO COMPARTMENT NET - REMOVAL/INSTALLATION,货舱拦网-拆卸/安装,1465
+25-52-16,FORWARD CARGO COMPARTMENT FORWARD BULKHEAD LINER -REMOVAL/INSTALLATION,前货舱前隔板衬垫-拆卸/安装,1466
+25-52-17,FORWARD CARGO COMPARTMENT AFT BULKHEAD LINER - REMOVAL/INSTALLATION,前货舱后隔板衬垫-拆卸/安装,1467
+25-52-18,AFT CARGO COMPARTMENT FORWARD BULKHEAD LINER - REMOVAL/INSTALLATION,后货舱前隔板衬垫-拆卸/安装,1468
+25-52-19,AFT CARGO COMPARTMENT AFT BULKHEAD PANEL - REMOVAL/INSTALLATION,后货舱后隔板-拆卸/安装,1469
+25-52-20,WASTE TANK ENCLOSURE PANELS -REMOVAL/INSTALLATION,污水箱外罩面板-拆卸/安装,1470
+25-61-10,ESCAPE ROPES AND LIFE LINES -MAINTENANCE PRACTICES,撤离绳索和救生索-维护实施,1471
+25-61-13,DOOR WARNING STRAP REEL - REMOVAL/INSTALLATION,门警告带卷轴-拆卸/安装,1472
+25-63-03-700-801,Emergency Evacuation Signal System Operational Test,应急撤离信号系统操作测试,1473
+25-64-00,DETACHABLE EMERGENCY EQUIPMENT -MAINTENANCE PRACTICES,可分离的应急设备-维护实施,1474
+25-64-00-900-801,Life Jacket Restoration,救生衣恢复,1475
+25-64-00-900-802,Over-Water Survival Kit (If Installed),救生筏恢复,1476
+25-64-00-900-803,Over-Water Survival Kit (If Installed) Restoration,水上救生工具(如已安装)恢复,1477
+25-64-00-710-801,Megaphone Operational Test,扩音器操作试验,1478
+25-64-00-900-804,Megaphone Battery Replacement,扩音器电池更换,1479
+25-64-00-900-805,Emergency Locator Transmitter BatteryReplacement (If Installed),应急定位发射器电池更换(如已安装),1480
+25-64-00-210-802,Detachable Emergency Equipment Visual Check,可分离的应急设备目视检查,1481
+25-64-00-200-802,Flashlight Check (With Flashing LEDIndicator),手电筒检查(闪烁的LED 指示器),1482
+25-64-00-200-803,Flashlight Check (Without Flashing LEDIndicator),手电筒检查(不闪烁的LED 指示器),1483
+25-64-00-900-806,Flashlight Battery Replacement,手电筒电池更换,1484
+25-64-00-200-801,Smoke Hood (Protective Breathing Equipment) Inspection,烟雾罩(保护氧气设备)检查,1485
+25-64-00-900-807,Smoke Hood (Protective Breathing Equipment) Restoration,烟雾罩(保护氧气设备)恢复,1486
+25-64-00-900-808,First Aid Kit Restoration,急救箱恢复,1487
+25-64-00-900-809,Medical Kit Restoration,医疗箱恢复,1488
+25-64-00-000-801,Emergency Locator Transmitter (ELT) Removal,应急定位传输机(ELT)拆卸,1489
+25-64-00-400-801,Emergency Locator Transmitter (ELT) Installation,应急定位传输机(ELT)安装,1490
+25-66-00,DOOR-MOUNTED ESCAPE SYSTEM -MAINTENANCE PRACTICES,安装在舱门上的撤离系统-维护实施,1491
+25-66-00-840-801,Door-mounted Escape System Restoration,安装在舱门上的撤离系统恢复,1492
+25-66-00-710-801,Door-mounted Escape System Operational Test,安装在舱门上的撤离系统操作测试,1493
+25-66-01,DOOR-MOUNTED ESCAPE SYSTEM -REMOVAL/INSTALLATION,安装在舱门上的撤离系统-拆卸/安装,1494
+25-66-01-000-801,Escape Slide Pack and Cover Removal,撤离滑梯组件和盖板拆卸,1495
+25-66-01-400-803,Escape Slide Pack and Cover Installation,撤离滑梯组件和盖板安装,1496
+25-66-01-000-802,Escape Slide Pack Removal,撤离滑梯组件拆卸,1497
+25-66-01-400-801,Escape Slide Pack Installation,撤离滑梯组件安装,1498
+25-66-01-000-803,Escape Slide Girt Bar Removal,撤离滑梯系留杆拆卸,1499
+25-66-01-000-804,Escape Slide Girt Bar Installation,撤离滑梯系留杆安装,1500
+25-66-01,DOOR-MOUNTED ESCAPE SYSTEM -INSPECTION/CHECK,安装在舱门上的撤离系统-检验/检查,1501
+25-66-01-200-801,Escape Slide Pack Inflation Cylinder Check,撤离滑梯组件充气作动器检查,1502
+25-66-01-200-802,Escape Slide Pack Check,撤离滑梯组件检查,1503
+25-66-02,FLOOR-MOUNTED ESCAPE SLIDE BRACKETS - MAINTENANCE PRACTICES,地装式撤离滑梯支架-维护实施,1504
+25-71-00,ELECTRICAL EQUIPMENT RACK MOISTURESHROUD - REMOVAL/INSTALLATION,电子设备架防潮罩-拆卸/安装,1505
+25-71-00,ELECTRICAL EQUIPMENT RACK MOISTURESHROUD - INSPECTION/CHECK,电气设备架防潮套管-检验/检查,1506
+25-80-00,INSULATION BLANKET - REMOVAL/INSTALLATION,隔热层-拆卸/安装,1507
+25-80-00,INSULATION - REPAIRS,隔热层-修理,1508
+26-00-01-000-801,Engine and APU Fire Control Panel Remova,发动机和辅助动力装置防火控制面板拆卸,1509
+26-00-01-400-801,Engine and APU Fire Control Panel Installation,发动机和辅助动力装置防火控制面板安装,1510
+26-00-01-000-802,Engine and APU Fire Shutoff Switch Assembly Removal,发动机和APU 火警关断电门组件拆卸,1511
+26-00-01-400-802,Engine and APU Fire Shutoff Switch Assembly Installation,发动机和APU 火警关断电门组件安装,1512
+26-00-02-000-801,Cargo Fire Control Panel Removal,货舱火警控制面板拆卸,1513
+26-00-02-400-801,Cargo Fire Control Panel Installation,货舱火警控制面板安装,1514
+26-10-00-710-801,Fire and Overheat Detection System -Operational Test,防火和过热探测系统-操作测试,1515
+26-10-01-000-801,Engine and APU Fire Detection Module Removal,发动机和辅助动力装置防火探测组件拆卸,1516
+26-10-01-400-801,Engine and APU Fire Detection Module Installation,发动机和辅助动力装置防火探测组件安装,1517
+26-11-00-710-801,Engine Fire Detection - Operational Test,发动机防火探测-操作测试,1518
+26-11-00-730-801,Engine Fire Detection Loop Resistance -System Test,发动机防火探测环路电阻-系统测试,1519
+26-11-00-730-802,Engine Fire Detection Circuit - System Test,发动机防火探测电路-系统测试,1520
+26-11-01-000-801,Engine Fire Detector Element Removal,发动机防火探测器元件拆卸,1521
+26-11-01-400-801,Engine Fire Detector Element Installation,发动机防火探测器元件安装,1522
+26-11-01-000-802,Engine Fire Detector Assembly Removal,发动机防火探测器组件拆卸,1523
+26-11-01-400-802,Engine Fire Detector Assembly Installation,发动机防火探测器组件安装,1524
+12-13-31-610-803,Fill the APU Gearbox,APU齿轮箱加注滑油,1525
+12-14-01-600-801,Potable Water System - Drain,饮用水系统-排放,1526
+12-14-01-600-802,Potable Water Tank - Fill,注满饮用水水箱,1527
+12-15-11-610-801,Check of the Brake Accumulator Precharge Pressure,检查制动蓄压器预先充气压力,1528
+12-15-11-420-801,Hydraulic Brake Accumulator Servicing,液压刹车蓄压器勤务,1529
+12-15-21-600-801-001,Crew Oxygen Cylinder Replacement,机组氧气瓶更换,1530
+12-15-21-210-801-001,Crew Oxygen Cylinder Dispatch Pressure Check,机组氧气瓶派遣压力检查,1531
+12-15-21-610-801-002,Remote Fill Panel Servicing,远端加注面板勤务,1532
+12-15-21-600-803-002,Crew Oxygen Cylinder Replacement,机组氧气瓶更换,1533
+12-15-21-210-801-002,Crew Oxygen Cylinder Dispatch Pressure Check,机组氧气瓶派遣压力检查,1534
+12-15-22-610-801,Remote Fill Panel Servicing,远端加注面板勤务,1535
+12-15-22-000-802,Passenger Oxygen Cylinder removed,旅客氧气瓶拆卸,1536
+12-15-22-400-802,Passenger Oxygen Cylinder installed,旅客氧气瓶安装,1537
+26-11-01-211-801,Engine Fire Detector Inspection,发动机火警探测器检查,1538
+26-11-02-000-801,Fan Fire Detection Harness Removal,风扇防火探测电线束拆卸,1539
+26-11-02-400-801,Fan Fire Detection Harness Installation,风扇防火探测电线束安装,1540
+26-11-02-000-802,Core Fire Detection Harnesses Removal,核心防火探测电线束拆卸,1541
+26-11-02-400-802,Core Fire Detection Harness Installation,核心防火探测电线束安装,1542
+2026/11/2,ENGINE FIRE DETECTOR HARNESS -REPAIRS,发动机防火探测器导线-修理,1543
+26-14-00-710-801,Lavatory Smoke Detection - Self Test,盥洗室烟雾探测-自检测,1544
+26-14-01-000-801,Lavatory Smoke Detector Removal,盥洗室烟雾探测器拆卸,1545
+26-14-01-400-801,Lavatory Smoke Detector Installation,盥洗室烟雾探测器安装,1546
+26-14-01-100-801,Clean the Lavatory Smoke Detector,清洁盥洗室烟雾探测器,1547
+26-15-00-710-801,APU Fire Detection - Operational Test,APU 防火探测-操作测试,1548
+26-15-00-730-801,APU Fire Detection Loop Resistance,APU 防火探测环路电阻-系统测试,1549
+26-15-00-730-802,APU Fire Detection Circuit - System Test,APU 防火探测电路-系统测试,1550
+26-15-01,APU Overheat Detector Element Removal,APU 过热探测器-拆卸/安装,1551
+26-15-01-210-801,APU Overheat Detector Element,APU 防火探测器检查,1552
+26-15-02-000-801,APU Fire Warning Horn Removal,APU 火警喇叭拆卸,1553
+26-15-02-400-801,APU Fire Warning Horn Installation,APU 火警喇叭安装,1554
+26-16-00-710-801,Cargo Bay Smoke Detection -Operational Tes,货舱烟雾探测器-操作测试,1555
+26-16-00-730-801,Cargo Bay Smoke Detection - Smoke Test,货舱烟雾探测器-烟雾测试,1556
+26-16-01-000-801,Cargo Bay Detector Removal,货舱烟雾探测器拆卸,1557
+26-16-01-400-801,Cargo Bay Smoke Detector Installation,货舱烟雾探测器安装,1558
+26-16-01-100-801,Clean the Cargo Bay Smoke Detectors,清洗货舱烟雾探测器,1559
+26-16-02,Cargo Electronic Unit Removal/Installation,货舱电子组件-拆卸/安装,1560
+26-18-00-710-801,Wheel Well Wing and Lower Aft Body Overheat Detection System -Operational Test,轮舱、机翼和后下部机身过热探测系统-操作测试,1561
+26-18-01-000-801,Compartment Overheat Detection Control Unit Removal,隔舱过热探测控制组件拆卸,1562
+26-18-01-400-801,Compartment Overheat Detection Control Unit Installation,隔舱过热探测控制组件安装,1563
+26-18-02-000-801,Wheel Well Wing and Lower Aft Body Overheat Sensor Element Removal,轮舱、机翼和后下部机身温度传感器元件拆卸,1564
+26-18-02-400-801,Wheel Well Wing and Lower Aft Body Overheat Sensor Element Installation,轮舱、机翼和后下部机身温度传感器元件安装,1565
+26-18-02-720-803, 轮舱和后下方机身过热传感元件测试Wing Wheel Well and Lower Aft Body Overheat Sensing Element Test,机翼,1566
+26-20-00-210-802,Engine Fire Extinguishing Bottle Check,发动机灭火瓶检查,1567
+26-20-00-210-801,APU Fire Extinguishing Bottle Check,APU 灭火瓶检查,1568
+26-21-00,ENGINE FIRE EXTINGUISHING -ADJUSTMENT/TEST,发动机灭火-调整/测试,1569
+26-21-01-000-801,Engine Fire Extinguishing Bottle Removal,发动机灭火瓶拆卸,1570
+26-21-01-400-801,Engine Fire Extinguishing Bottle Installation,发动机灭火瓶安装,1571
+26-21-01-210-801,Engine Fire Extinguishing System Inspection,发动机灭火系统检查,1572
+26-21-02,ENGINE FIRE EXTINGUISHER BOTTLE SQUIB - REMOVAL/INSTALLATION,发动机灭火器瓶爆炸帽-拆卸/安装,1573
+26-22-00-730-801,APU Fire Extinguishing Bottle Squib Circuit Test,APU 灭火瓶爆炸帽电路测试,1574
+26-22-00-730-802,APU Fire Extinguishing Bottle Pressure Switch Circuit Test,APU 灭火瓶压力电门电路测试,1575
+26-22-00-720-801,APU Fire Switch System Shutdown Test.,APU 点火电门系统切断测试,1576
+26-22-01-000-801,APU Fire Extinguishing Bottle Removal,APU 灭火瓶拆卸,1577
+26-22-01-400-801,APU Fire Extinguishing Bottle Installation,APU 灭火瓶安装,1578
+26-22-01-210-801,APU Fire Bottle Inspection,APU 灭火瓶检查,1579
+26-22-02,APU FIRE EXTINGUISHING BOTTLE SQUIB -REMOVAL/INSTALLATION,APU 灭火瓶爆炸帽-拆卸/安装,1580
+26-22-03,REMOTE APU CONTROL PANEL -REMOVAL/INSTALLATION,远程APU 控制面板-拆卸/安装,1581
+26-22-03,REMOTE APU CONTROL PANEL -INSPECTION/CHECK,远程APU 控制面板-检验/检查,1582
+26-23-00,CARGO FIRE EXTINGUISHING -ADJUSTMENT/TEST,货舱灭火-调整/测试,1583
+26-23-01-000-801-001,Cargo Fire Extinguisher Bottle Removal,货舱灭火瓶拆卸,1584
+26-23-01-000-802-001,Cargo Fire Extinguisher Bottle Installation,货舱灭火瓶安装,1585
+26-23-01-100-801,Cargo Fire Extinguishing System Cleaning,货舱灭火系统清洗,1586
+26-23-02,CARGO COMPARTMENT FIRE EXTINGUISHER BOTTLE SQUIB -REMOVAL/INSTALLATION,货舱灭火瓶爆炸帽-拆卸/安装,1587
+26-23-04,CARGO FIRE EXTINGUISHING FILTER/DRYER - REMOVAL/INSTALLATION,货舱灭火过滤器/干燥器-拆卸/安装,1588
+26-24-01,LAVATORY WASTE COMPARTMENT FIRE EXTINGUISHING - MAINTENANCE PRACTICES,盥洗室废物舱灭火-维护实施,1589
+26-24-01,LAVATORY WASTE COMPARTMENT -INSPECTION/CHECK,盥洗室废物舱-检验/检查,1590
+26-26-01,HALON FIRE EXTINGUISHERS - REMOVAL/INSTALLATION,Halon 灭火器-拆卸/安装,1591
+26-26-01,HALON FIRE EXTINGUISHERS -INSPECTION/CHECK,卤代烷灭火器-检验/检查,1592
+26-26-02,WATER FIRE EXTINGUISHERS- REMOVAL/INSTALLATION,水型灭火瓶-拆卸/安装,1593
+26-26-02,WATER FIRE EXTINGUISHERS -INSPECTION/CHECK,水灭火器-检验/检查,1594
+27-09-14-860-801,Control Cables Identification and  Assembly Specifications,操纵钢索识别和组件规格,1595
+27-09-14-820-801,Control Cables - Rigging,操纵钢索-校装,1596
+27-09-17-860-801,Location of the Flight Control Cables AirPressure Seals,飞行操纵钢索气压密封件的位置,1597
+27-09-21-000-801,Flight Controls Hydraulic Module Removal,飞行操纵液压组件拆卸,1598
+27-09-21-400-801,Flight Controls Hydraulic Module Installation,飞行操纵液压组件安装,1599
+27-09-21-700-801,Flight Controls Hydraulic Module Test,飞行操纵液压组件测试,1600
+27-09-31-000-801,Flight Controls Shutoff Valve Removal,飞行控制装置关断活门拆卸,1601
+27-09-31-400-801,Flight Controls Shutoff Valve Installation,飞行控制装置关断活门安装,1602
+27-09-31-000-802,Flight Controls Shutoff Valve Motor Removal,飞行控制装置关断活门马达拆卸,1603
+27-09-31-400-802,Flight Controls Shutoff Valve Motor Installation,飞行控制装置关断活门马达安装,1604
+27-09-31-710-801,Flight Controls Shutoff Valve Test,飞行控制装置关断活门测试,1605
+27-09-45-000-801,Flight Controls Panel Removal,飞行控制面板拆卸,1606
+27-09-45-400-801,Flight Controls Panel Installation,飞行控制面板安装,1607
+27-09-51,COMPENSATOR CARTRIDGE - REMOVAL/INSTALLATION,补偿器滤筒-拆卸/安装,1608
+27-09-61,LOW PRESSURE WARNING SWITCH -REMOVAL/INSTALLATION,低压警告电门-拆卸/安装,1609
+27-09-61-700-801,Low Pressure Warning Switch Test,低压警告电门测试,1610
+27-09-71,FLIGHT CONTROLS TRIM CORRECTION -ADJUSTMENT/TEST,飞行操纵配平校正-调整/测试,1611
+27-09-91-200-801,Aileron - Inspection,副翼-检查,1612
+27-09-91-200-806,Aileron Balance Tab Freeplay -Inspection,副翼平衡调整片间隙-检查,1613
+27-09-91-200-802,Rudder Inspection,方向舵检查,1614
+27-09-91-200-804,Horizontal Stabilizer - Inspection,水平安定面-检查,1615
+27-09-91-200-805,Spoiler Inspection,扰流板检查,1616
+27-11-00-860-801,Remove Pressure from the Aileron Hydraulic Systems A and B,释放副翼液压系统 A 和 B 中的压力,1617
+27-11-00-860-802,Put the Aileron Hydraulic Systems A and B Back to the Condition Before Pressure Removal,将副翼液压系统 A 和 B 返回到压力撤除前的状态,1618
+27-11-00,AILERON - ADJUSTMENT/TEST,副翼 -调整/测试,1619
+2027/11/11,AILERON - REMOVAL/INSTALLATION,副翼-拆卸/安装,1620
+27-11-11-200-801,Aileron Inspection,副翼检查,1621
+2027/11/14,AILERON POWER CONTROL UNIT LINKAGE - REMOVAL/INSTALLATION,副翼动力控制组件连杆-拆卸/安装,1622
+2027/11/21,AILERON BALANCE TAB - REMOVAL/INSTALLATION,副翼平衡调整片-拆卸/安装,1623
+2027/11/21,AILERON BALANCE TAB - INSPECTION/CHECK,副翼平衡调整片-检验/检查,1624
+2027/11/24,AILERON WING QUADRANT - REMOVAL/INSTALLATION,副翼机翼扇形件-拆卸/安装,1625
+27-11-31,AILERON BALANCE PANELS - REMOVAL/INSTALLATION,副翼平衡面板-拆卸/安装,1626
+27-11-31,AILERON BALANCE PANEL - INSPECTION/CHECK,副翼平衡面板-检查/校验,1627
+27-11-34,AILERON TAB CONTROL RODS - REMOVAL/INSTALLATION,副翼调整片控制杆-拆卸/安装,1628
+27-11-34-200-801,Aileron Tab Control Rods Inspection,副翼调整片控制杆检查,1629
+27-11-41,AILERON CONTROL WHEEL - REMOVAL/INSTALLATION,副翼操纵轮-拆卸/安装,1630
+27-11-51,AILERON CONTROL WHEEL DRUM -REMOVAL/INSTALLATION,副翼操纵轮鼓轮-拆卸/安装,1631
+27-11-54,AILERON TRIM ACTUATOR - REMOVAL/INSTALLATION,副翼配平作动筒-拆卸/安装,1632
+27-11-61,AILERON TRANSFER MECHANISM -REMOVAL/INSTALLATION,副翼传动机构-拆卸/安装,1633
+27-11-61,AILERON TRANSFER MECHANISM -INSPECTION/CHECK,副翼传动机构-检查/校验,1634
+27-11-71,AILERON POWER CONTROL UNIT -REMOVAL/INSTALLATION,副翼动力控制组件-拆卸/安装,1635
+27-11-81,AILERON FEEL AND CENTERING UNIT -REMOVAL/INSTALLATION,副翼感应和定中心组件-拆卸/安装,1636
+27-11-81-210-801,Aileron Feel and Centering Unit Springs Visual Inspection,副翼感应和定中心组件弹簧目视检查,1637
+27-11-94,AILERON/RUDDER TRIM CONTROL MODULE - REMOVAL/INSTALLATION,副翼/方向舵配平控制组件-拆卸/安装,1638
+27-21-00,RUDDER AND RUDDER TRIM CONTROL SYSTEM - MAINTENANCE PRACTICES,方向舵和方向航配平操纵系统-维护实施,1639
+27-21-00,RUDDER AND RUDDER TRIM CONTROL SYSTEM - ADJUSTMENT/TEST,方向舵和方向舵配平操纵系统-调整/测试,1640
+27-21-00-700-815-001,Rudder Centering Test,方向舵定中心测试,1641
+27-21-00-700-816-001,Rudder Pedal Forces Test,方向舵脚蹬力度测试,1642
+27-21-00-700-817-001,Rudder Travel Test,方向舵行程测试,1643
+27-21-00-700-819-001,Rudder Trim System Test,方向舵配平系统测试,1644
+27-21-11,RUDDER - REMOVAL/INSTALLATION,方向舵-拆卸/安装,1645
+27-21-17,RUDDER INDEX PLATE - REMOVAL/INSTALLATION,方向舵指示板-拆卸/安装,1646
+27-21-24,STANDBY RUDDER POWER CONTROL UNIT - REMOVAL/INSTALLATION,备用方向舵动力控制组件-拆卸/安装,1647
+27-21-24,STANDBY RUDDER POWER CONTROL UNIT - INSPECTION/CHECK,备用方向舵动力控制组件-检查/效验,1648
+27-21-31,RUDDER PEDALS - REMOVAL/INSTALLATION,方向舵脚蹬-拆卸/安装,1649
+27-21-41,RUDDER PEDAL ADJUSTMENT CRANK -REMOVAL/INSTALLATION,方向舵脚蹬调节臂-拆卸/安装,1650
+27-21-51,RUDDER FORWARD QUADRANT -REMOVAL/INSTALLATION,方向舵前扇形轮-拆卸/安装,1651
+27-21-51,RUDDER FORWARD QUADRANT -INSPECTION/CHECK,方向舵前扇形件-检查/效验,1652
+27-21-61,RUDDER AFT QUADRANT - REMOVAL/INSTALLATION,方向舵后扇形轮-拆卸/安装,1653
+27-21-61,RUDDER AFT QUADRANT - INSPECTION/CHECK,方向舵后扇形轮-检验/检查,1654
+27-21-71,RUDDER CONTROL TORQUE TUBE -REMOVAL/INSTALLATION,方向舵控制器扭力管-拆卸/安装,1655
+27-21-71,RUDDER CONTROL TORQUE TUBE -REMOVAL/INSTALLATION,方向舵控制器扭力管-拆卸/安装,1656
+27-21-82,RUDDER FEEL AND CENTERING UNIT -REMOVAL/INSTALLATION,方向舵感应和定中心组件-拆卸/安装,1657
+27-21-87,RUDDER TRIM ACTUATOR - REMOVAL/INSTALLATION,方向舵配平作动筒-拆卸/安装,1658
+27-21-91,MAIN RUDDER POWER CONTROL UNIT -REMOVAL/INSTALLATION,主方向舵动力控制组件-拆卸/安装,1659
+27-21-94,STANDBY RUDDER POWER CONTROL UNIT SHUTOFF VALVE - MAINTENANCE PRACTICES,备用方向舵动力控制组件关断活门-维护实施,1660
+27-21-95,RUDDER HYDRAULIC FUSE - REMOVAL/INSTALLATION,方向舵液压熔丝-拆卸/安装,1661
+27-31-00,ELEVATOR AND TAB CONTROL SYSTEM -MAINTENANCE PRACTICES,升降舵和调整片控制系统-维护实施,1662
+27-31-00,ELEVATOR AND ELEVATOR TRIM CONTROL SYSTEM - ADJUSTMENT/TEST,升降舵和升降舵配平控制系统-调节/测试,1663
+27-31-11,ELEVATOR - REMOVAL/INSTALLATION,升降舵-拆卸/安装,1664
+27-31-14,ELEVATOR POWER CONTROL UNIT -REMOVAL/INSTALLATION,升降舵动力控制组件-拆卸/安装,1665
+27-31-14,ELEVATOR POWER CONTROL UNIT -INSPECTION/CHECK,升降舵动力控制组件-检验/检查,1666
+27-31-17,ELEVATOR PITOT-STATIC SYSTEM -MAINTENANCE PRACTICES,升降舵全静压系统-维护实施,1667
+12-15-31-610-801,Main Landing Gear Shock Strut Fluid Check,主起落架减震柱液体检查,1668
+12-15-41-610-802,Main Landing Gear Shock Strut Servicing,主起落架减震柱勤务,1669
+12-15-41-610-801,Nose Landing Gear Shock Strut Fluid Check,前起落架减震柱液面检查,1670
+12-15-41-610-802,Nose Landing Gear Shock Strut  Servicing,前起落架减震柱勤务,1671
+12-15-51-780-801,Landing Gear Tire Pressure Check and Tire Servicing,起落架轮胎压力检查和轮胎勤务,1672
+12-15-51-780-802,Main Landing Gear and Nose Gear HOT Tire Pressure Check,主起落架和前起落架热轮胎压力检查,1673
+12-15-51-610-802,Add Nitrogen or Air to the Tire,将氮气或空气注入轮胎,1674
+12-15-61-610-801,Landing Gear Shock Strut Fluids,起落架减震柱液体,1675
+12-16-02-100-801,Clean the Glass Flight Compartment Windows - Inner Surface,清洁驾驶舱窗玻璃内表面,1676
+12-16-02-100-802,Clean The Glass Flight Compartment Windows - Outer Surface,清洁驾驶舱窗玻璃-外表面,1677
+12-16-02-100-803,Clean The Acrylic Flight Compartment Windows - Inner Surface,清洁丙烯酸驾驶舱窗-内表面,1678
+12-16-02-100-804,Clean The Acrylic Flight Compartment Windows - Outer Surface,清洁丙烯酸驾驶舱窗-外表面,1679
+12-16-03-100-801,Clean The Passenger Compartment Windows,清洁客舱窗,1680
+27-31-20,ELEVATOR FEEL SHIFT MODULE -REMOVAL/INSTALLATION,升降舵感应位移组件-拆卸/安装,1681
+27-31-20-740-801,Elevator Feel Shift Module - Test,升降舵感应位移组件-测试,1682
+27-31-31,ELEVATOR TAB - REMOVAL/INSTALLATION,升降舵调整片-拆卸/安装,1683
+27-31-32,ELEVATOR AND ELEVATOR TAB FREEPLAY - INSPECTION/CHECK,升降舵和升降舵调整片间隙-检验/检查,1684
+27-31-34,ELEVATOR TAB CONTROL MECHANISM -EMOVAL/INSTALLATION,升降舵调整片操纵机构-拆卸/安装,1685
+27-31-34,ELEVATOR TAB CONTROL MECHANISM -INSPECTION/CHECK,升降舵调整片操纵机构-检验/检查,1686
+27-31-35,ELEVATOR TAB CONTROL VALVE -REMOVAL/INSTALLATION,升降舵调整片控制活门-拆卸/安装,1687
+27-31-37,ELEVATOR FEEL COMPUTER - REMOVAL/INSTALLATION,升降舵感应计算机-拆卸/安装,1688
+27-31-37,ELEVATOR FEEL COMPUTER -INSPECTION/CHECK,升降舵感应计算机-检验/检查,1689
+27-31-41,ELEVATOR BALANCE PANEL - REMOVAL/INSTALLATION,升降舵平衡面板-拆卸/安装,1690
+27-31-41-200-801,Elevator Balance Panel - Inspection,升降舵平衡面板-检查,1691
+27-31-51,CONTROL COLUMN - REMOVAL/INSTALLATION,操纵杆-拆卸/安装,1692
+27-31-54,CONTROL COLUMN SUPPORT BEARING -REMOVAL/INSTALLATION,操纵杆支承轴承-拆卸/安装,1693
+27-31-61,ELEVATOR FORWARD CONTROL QUADRANT ASSEMBLY - REMOVAL/INSTALLATION,升降舵前控制扇形件组件-拆卸/安装,1694
+27-31-61,ELEVATOR FORWARD CONTROL QUADRANT ASSEMBLY - INSPECTION/CHECK,升降舵前控制扇形件组件-检验/检查,1695
+27-31-64,ELEVATOR FEEL AND CENTERING UNIT -REMOVAL/INSTALLATION,升降舵感应和定中心组件-拆卸/安装,1696
+27-31-64,ELEVATOR FEEL AND CENTERING UNIT -INSPECTION/CHECK,升降舵感应和定中心组件-检验/检查,1697
+27-31-67,ELEVATOR FEEL ACTUATOR - REMOVAL/INSTALLATION,升降舵感应作动筒-拆卸/安装,1698
+27-31-71,ELEVATOR INPUT TORQUE TUBE -REMOVAL/INSTALLATION,升降舵输入扭力管-拆卸/安装,1699
+27-31-74,ELEVATOR OUTPUT TORQUE TUBE -REMOVAL/INSTALLATION,升降舵输出扭力管-拆卸/安装,1700
+27-31-81,ELEVATOR INDEX PLATE - REMOVAL/INSTALLATION,升降舵指示板-拆卸/安装,1701
+27-31-91,ELEVATOR NEUTRAL SHIFT MECHANISM -REMOVAL/INSTALLATION,升降舵中立位移机构-拆卸/安装,1702
+27-31-91-200-801,ELEVATOR NEUTRAL SHIFT MECHANISM -INSPECTION/CHECK,升降舵中立位移机构-检查,1703
+27-31-94,FEEL SYSTEM PITOT PROBE - REMOVAL/INSTALLATION,感应系统全压探头-拆卸/安装,1704
+27-32-00,STALL WARNING SYSTEM - ADJUSTMENT/TEST,失速警告系统-调整/测试,1705
+27-32-00-710-801,Stall Warning System - Operational Test,失速警告系统-操作测试,1706
+27-32-00-740-801,Stall Management Yaw Damper (SMYD) BITE Test - Existing Faults,失速管理偏航阻尼器(SMYD)BITE测试-现有故障,1707
+27-32-00-740-802,Stall Management Yaw Damper (SMYD) BITE Test - Fault History,失速管理偏航阻尼器(SMYD)BITE测试-故障记录,1708
+27-32-00-740-803,Stall Management Yaw Damper (SMYD) BITE Test - Ground Test,失速管理偏航阻尼器(SMYD)BITE测试-地面测试,1709
+27-32-21,STALL WARNING TEST MODULE -REMOVAL/INSTALLATION,失速警告测试组件-拆卸/安装,1710
+27-32-31,CONTROL COLUMN SHAKER - REMOVAL/INSTALLATION,操纵杆振动器-拆卸/安装,1711
+27-32-42,STALL MANAGEMENT YAW DAMPER(SMYD) - REMOVAL/INSTALLATION,失速管理偏航阻尼器(SMYD)-拆卸/安装,1712
+27-41-00,HORIZONTAL STABILIZER TRIM CONTROL SYSTEM - ADJUSTMENT/TEST,水平安定面配平控制系统-调节/测试,1713
+27-41-00-700-803,Stabilizer Electric Trim System Test,安定面电气配平系统测试,1714
+27-41-00-700-804,Stabilizer Trim Wheel Free Movement Test,安定面配平轮自由移动测试,1715
+27-41-00-700-805,Stabilizer Trim Limit Switches Test,安定面配平限位电门测试,1716
+27-41-11,HORIZONTAL STABILIZER - REMOVAL/INSTALLATION,水平安定面-拆卸/安装,1717
+27-41-21,HORIZONTAL STABILIZER LEADING EDGE -REMOVAL/INSTALLATION,水平安定面前缘-拆卸/安装,1718
+27-41-31,HORIZONTAL STABILIZER CENTER SECTION HINGE FITTING - REMOVAL/INSTALLATION,水平安定面中央段铰链接头-拆卸/安装,1719
+27-41-41,STABILIZER FORWARD CONTROL MECHANISM - REMOVAL/INSTALLATION,安定面前操纵机构-拆卸/安装,1720
+27-41-41-210-801,Stabilizer Control Mechanism Detail Visual Inspection,安定面操纵机构详细目视检验,1721
+27-41-41-210-802,Upper and Lower Stabilizer Trim Forward Mechanism Retention Turnbuckles and Turnbuckle Attachment Points Detail Visual Inspection,上部和下部安定面配平前部机构固位松紧螺套和松紧螺套连接点详细目视检,1722
+27-41-51,COLUMN CUTOUT SWITCH - REMOVAL/INSTALLATION,操纵杆关断电门-拆卸/安装,1723
+27-41-61,HORIZONTAL STABILIZER TRIM CONTROL WHEEL - REMOVAL/INSTALLATION,水平安定面配平操纵轮-拆卸/安装,1724
+27-41-71,STABILIZER TRIM MOTOR - REMOVAL/INSTALLATION,安定面配平马达-拆卸/安装,1725
+27-41-71,STABILIZER TRIM MOTOR - ADJUSTMENT/TEST,安定面配平马达测试,1726
+27-41-81,STABILIZER BALL NUT AND JACKSCREW GEARBOX - REMOVAL/INSTALLATION,安定面球形螺帽和蜗杆齿轮箱-拆卸/安装,1727
+27-41-81,STABILIZER BALL NUT AND JACKSCREW GEARBOX - INSPECTION/CHECK,安定面球形螺帽和蜗杆齿轮箱-检验/检查,1728
+27-41-82,STABILIZER CONTROL CABLE - REMOVAL/INSTALLATION,安定面操纵钢索-拆卸/安装,1729
+27-41-91,STABILIZER TRIM CUTOUT SWITCHES -REMOVAL/INSTALLATION,安定面配平切断电门-拆卸/安装,1730
+27-41-91,STABILIZER TRIM CUTOUT SWITCHES -ADJUSTMENT/TEST,安定面主切断电门测试,1731
+27-41-91-700-802,Autopilot Cutout Switch Test,安定面自动驾驶仪切断电门测试,1732
+27-41-94,STABILIZER TRIM LIMIT SWITCHES -REMOVAL/INSTALLATION,安定面配平限位电门-拆卸/安装,1733
+27-41-94,STABILIZER TRIM LIMIT SWITCHES -ADJUSTMENT/TEST,安定面配平限位电门-调整/测试,1734
+27-41-97,STABILIZER TRIM CONTROL SWITCH -REMOVAL/INSTALLATION,安定面配平控制电门-拆卸/安装,1735
+27-41-97-700-801,Stabilizer Trim Control Switch Test,安定面配平控制电门测试,1736
+27-41-98,HORIZONTAL STABILIZER INTERLOCK RELAY - REMOVAL/INSTALLATION,水平安定面互锁继电器-拆卸/安装,1737
+27-41-98-820-801,R850 Horizontal Stabilizer Interlock Relay Test,水平安定面互锁继电器-调整/测试,1738
+27-51-00,TRAILING EDGE FLAP SYSTEM -MAINTENANCE PRACTICES,后缘襟翼系统-维护实施,1739
+27-51-00,TRAILING EDGE FLAP SYSTEM -ADJUSTMENT/TEST,后缘襟翼系统-调整/测试,1740
+27-51-00-710-801,Trailing Edge Flap System Operational Test,后缘襟翼系统操作测试,1741
+27-51-00-730-801,Trailing Edge Flap System Test,后缘襟翼系统测试,1742
+27-51-00,TRAILING EDGE FLAP SYSTEM -INSPECTION/CHECK,后缘襟翼系统-检查/效验,1743
+27-51-01,FLAP/SLAT ELECTRONICS UNIT (FSEU) -REMOVAL/INSTALLATION,襟翼/缝翼电子组件(FSEU)-拆卸/安装,1744
+27-51-02,TRAILING EDGE FLAP BYPASS VALVE -REMOVAL/INSTALLATION,后缘襟翼旁通活门-拆卸/安装,1745
+27-51-02-720-801,Trailing Edge Flap Bypass Valve Functional Test,后缘襟翼旁通活门功能测试,1746
+27-51-04,FLAP PRIORITY VALVE - REMOVAL/INSTALLATION,襟翼优先活门-拆卸/安装,1747
+27-51-06,FLAP CONTROL LEVER POSITION SENSOR -MAINTENANCE PRACTICES,襟翼操纵杆位置传感器-维护实施,1748
+27-51-08,FLAP LEVER POSITION SWITCHES -REMOVAL/INSTALLATION,襟翼手柄位置电门-拆卸/安装,1749
+27-51-08,FLAP LEVER POSITION SWITCHES -ADJUSTMENT/TEST,襟翼手柄位置电门-调整/测试,1750
+27-51-11,INBOARD TRAILING EDGE FLAP -REMOVAL/INSTALLATION,内侧后缘襟翼-拆卸/安装,1751
+27-51-11-820-801,Inboard Trailing Edge Flap Adjustment,内侧后缘襟翼调节,1752
+27-51-12,INBOARD AFT FLAP - REMOVAL/INSTALLATION,内侧后襟翼-拆卸/安装,1753
+27-51-12,INBOARD AFT FLAP - INSPECTION/CHECK,内侧后襟翼-检查/校验,1754
+27-51-13,INBOARD FLAP CARRIAGES - REMOVAL/INSTALLATION,内襟翼车架-拆卸/安装,1755
+27-51-13,INBOARD FLAP CARRIAGES - INSPECTION/CHECK,内襟翼车架-检查/校验,1756
+27-51-14,INBOARD AFT FLAP ACTUATING MECHANISM - REMOVAL/INSTALLATION,内侧后襟翼作动筒-拆卸/安装,1757
+27-51-15,INBOARD FLAP TRACKS - REMOVAL/INSTALLATION,内襟翼导轨-拆卸/安装,1758
+27-51-15,INBOARD FLAP TRACKS - INSPECTION/CHECK,内襟翼导轨-检验/检查,1759
+27-51-16,INBOARD AFT FLAP TRACKS - REMOVAL/INSTALLATION,内侧后襟翼导轨-拆卸/安装,1760
+27-51-18,INBOARD FLAP SUPPORT FAIRING -REMOVAL/INSTALLATION,内襟翼支撑整流罩-拆卸/安装,1761
+27-51-21,OUTBOARD TRAILING EDGE FLAP -REMOVAL/INSTALLATION,外侧后缘襟翼-拆卸/安装,1762
+27-51-21-820-801,Outboard Trailing Edge Flap Adjustment,外侧后缘襟翼调节,1763
+27-51-22,OUTBOARD AFT FLAP - REMOVAL/INSTALLATION,外侧后襟翼-拆卸/安装,1764
+27-51-22,OUTBOARD AFT FLAP - INSPECTION/CHECK,外侧后襟翼-检查/校验,1765
+27-51-23,OUTBOARD FLAP CARRIAGES - REMOVAL/INSTALLATION,外襟翼车架-拆卸/安装,1766
+27-51-23,OUTBOARD FLAP CARRIAGES -INSPECTION/CHECK,外襟翼车架-检查/校验,1767
+27-51-24,OUTBOARD AFT FLAP ACTUATING MECHANISM - REMOVAL/INSTALLATION,外侧后襟翼作动机构-拆卸/安装,1768
+27-51-25,OUTBOARD FLAP TRACKS - REMOVAL/INSTALLATION,外襟翼导轨-拆卸/安装,1769
+27-51-25,OUTBOARD FLAP TRACKS - INSPECTION/CHECK,外襟翼导轨-检验/检查,1770
+27-51-26,OUTBOARD AFT FLAP TRACKS -REMOVAL/INSTALLATION,外侧后襟翼导轨-拆卸/安装,1771
+27-51-28,OUTBOARD FLAP SUPPORT FAIRINGS -EMOVAL/INSTALLATION,外襟翼支架整流罩-拆卸/安装,1772
+27-51-28,OUTBOARD FLAP SUPPORT FAIRINGS -ADJUSTMENT/TEST,外襟翼支架整流罩-调整/测试,1773
+27-51-31,INBOARD FLAP TRANSMISSIONS -REMOVAL/INSTALLATION,内襟翼传动装置-拆卸/安装,1774
+27-51-32,INBOARD FLAP BALLSCREWS AND GIMBALS - REMOVAL/INSTALLATION,襟翼滚珠丝杠和万向接头-拆卸/安装,1775
+27-51-32,INBOARD FLAP BALLSCREWS AND GIMBALS - INSPECTION/CHECK,内襟翼滚珠丝杠和万向接头-检查/校验,1776
+27-51-41,OUTBOARD FLAP TRANSMISSIONS -REMOVAL/INSTALLATION,外襟翼传动装置-拆卸/安装,1777
+27-51-42,OUTBOARD FLAP BALLSCREWS AND GIMBALS - REMOVAL/INSTALLATION,外襟翼滚珠丝杠和万向接头-拆卸/安装,1778
+27-51-42,OUTBOARD FLAP BALLSCREWS AND GIMBALS - INSPECTION/CHECK,外襟翼滚珠丝杠和万向接头-检查/校验,1779
+27-51-51,FLAP POWER DRIVE UNIT (PDU) -REMOVAL/INSTALLATION,襟翼动力驱动组件(PDU)-拆卸/安装,1780
+27-51-51,FLAP POWER DRIVE UNIT - ADJUSTMENT/TEST,襟翼动力驱动组件-调整/测试,1781
+27-51-52,FLAP HYDRAULIC MOTOR - REMOVAL/INSTALLATION,襟翼液压马达-拆卸/安装,1782
+27-51-53,FLAP ELECTRIC MOTOR - REMOVAL/INSTALLATION,襟翼电动马达-拆卸/安装,1783
+27-51-55,TEE ANGLE GEARBOX - REMOVAL/INSTALLATION,T 形角齿轮箱-拆卸/安装,1784
+27-51-56,MLG BEAM ANGLE GEARBOX - REMOVAL/INSTALLATION,主起落架梁角齿轮箱-拆卸/安装,1785
+27-51-57,SEAL RIB ANGLE GEARBOX - REMOVAL/INSTALLATION,密封肋角齿轮箱-拆卸/安装,1786
+27-51-58,FLAP TORQUE TUBES - REMOVAL/INSTALLATION,襟翼扭力管-拆卸/安装,1787
+27-51-59,FLAP TORQUE TUBE SUPPORT - REMOVAL/INSTALLATION,襟翼扭力管支架-拆卸/安装,1788
+27-51-61,FLAP CONTROL UNIT - REMOVAL/INSTALLATION,襟翼控制组件-拆卸/安装,1789
+27-51-62,FLAP CONTROL QUADRANT - REMOVAL/INSTALLATION,襟翼控制扇形轮-拆卸/安装,1790
+27-51-63,FLAP LIMIT SWITCHES - REMOVAL/INSTALLATION,襟翼限位电门-拆卸/安装,1791
+27-51-63,FLAP LIMIT SWITCHES - ADJUSTMENT/TEST,襟翼限位电门-调节/测试,1792
+27-51-65,TRAILING EDGE FLAP CONTROL VALVE -REMOVAL/INSTALLATION,后缘襟翼控制活门-拆卸/安装,1793
+27-51-65,TRAILING EDGE FLAP CONTROL VALVE -ADJUSTMENT/TEST,后缘襟翼控制活门-调节/测试,1794
+27-51-65,TRAILING EDGE FLAP CONTROL VALVE -REPAIRS,后缘襟翼控制活门-修理,1795
+27-58-01,FLAP POSITION TRANSMITTER - REMOVAL/INSTALLATION,襟翼位置传感器-拆卸/安装,1796
+27-58-01,FLAP POSITION TRANSMITTER -ADJUSTMENT/TEST,襟翼位置传感器-调整/测试,1797
+27-58-02,FLAP POSITION INDICATOR - REMOVAL/INSTALLATION,襟翼位置指示器-拆卸/安装,1798
+27-59-00,FLAP SKEW DETECTION SYSTEM -ADJUSTMENT/TEST,襟翼偏斜探测系统-调整/测试,1799
+27-59-01,FLAP SKEW SENSORS - MAINTENANCE PRACTICES,襟翼偏斜传感器-维护实施,1800
+27-59-02,FLAP SKEW MECHANISM - MAINTENANCE PRACTICES,襟翼偏斜机构-维护实施,1801
+27-61-00,SPOILER CONTROL SYSTEM -MAINTENANCE PRACTICES,扰流板操纵系统-维护实施,1802
+27-61-00,SPOILER CONTROL SYSTEM -ADJUSTMENT/TEST,扰流板控制系统-调整/测试,1803
+27-61-00,SPOILER CONTROL SYSTEM - INSPECTION/CHECK,扰流板控制系统-检验/检查,1804
+27-61-04,SPOILER POSITION SENSOR - REMOVAL/INSTALLATION,扰流板位置传感器-拆卸/安装,1805
+27-61-11,FLIGHT SPOILER - REMOVAL/INSTALLATION,飞行扰流板-拆卸/安装,1806
+27-61-12,SPOILER SHUTOFF VALVE - REMOVAL/INSTALLATION,扰流板关断活门-拆卸/安装,1807
+27-61-12,SPOILER SHUTOFF VALVE - ADJUSTMENT/TEST,扰流板关断活门-调节/测试,1808
+27-61-15,FLIGHT SPOILER HINGE LINK - REMOVAL/INSTALLATION,飞行扰流板铰链连杆-拆卸/安装,1809
+27-61-21,SPOILER MIXER - REMOVAL/INSTALLATION,扰流板混合器-拆卸/安装,1810
+12-16-03-600-801,Apply Antistatic Solution to the Passenger Compartment Windows,将防静电溶剂涂到客舱窗,1811
+12-17-01-610-801,Waste Tank Servicing,废水箱勤务,1812
+12-33-01-600-802,Cold Weather Maintenance Procedure,冷天维护程序,1813
+12-40-04-100-801,Bird Strike Cleaning,鸟击清洗工作,1814
+21-00-01,AIR CONDITIONING SYSTEM OIL CONTAMINATION REMOVAL -MAINTENANCE PRACTICES,清除空调系统油污染-维护实施,1815
+21-00-01-100-801,Oil Contamination Removal from Air Conditioning and Pneumatic Systems,清除空调和气动系统的滑油污染,1816
+21-00-05-780-801,Airplane Dispatch with Single Pack Operation - Confidence Check,飞机快速处理带有单组件操作-置信度检查,1817
+21-20-02,AIR CONDITIONING SYSTEM DUCTS -REPAIRS,空调系统管道-修理,1818
+21-21-01,GROUND CONDITIONED AIR CONNECTION DUCT AND CHECK VALVE DUCT -REMOVAL/INSTALLATION,地面调节空气接头管道和单向活门管道-拆卸/安装,1819
+21-21-02,MIX CHAMBER - REMOVAL/INSTALLATION,混合室-拆卸/安装,1820
+21-22-01,WINDSHIELD AND FOOT AIR OUTLET VALVE - REMOVAL/INSTALLATION,风挡和底部出气口活门-拆卸/安装,1821
+21-22-02,AIR OUTLET VALVE CONTROL CABLES -REMOVAL/INSTALLATION,空气出口活门控制钢索-拆卸/安装,1822
+21-22-02-820-801,Air Outlet Valve Control CablesAdjustment and Test,排气活门控制钢索调节和测试,1823
+27-61-31,SPOILER RATIO CHANGER - REMOVAL/INSTALLATION,扰流板比率变换器-拆卸/安装,1824
+27-61-31,SPOILER RATIO CHANGER INPUT ROD -INSPECTION/CHECK,扰流板比率变换器输入杆-检查/检验,1825
+27-61-41,SPOILER CONTROL QUADRANT -REMOVAL/INSTALLATION,扰流板控制扇形轮-拆卸/安装,1826
+27-61-41,SPOILER CONTROL QUADRANT -INSPECTION/CHECK,扰流板控制扇形件-检查/效验,1827
+27-61-41,SPOILER CONTROL QUADRANT - REPAIRS,扰流板控制扇形轮-修理,1828
+27-61-51,FLIGHT SPOILER ACTUATOR - REMOVAL/INSTALLATION,飞行扰流板作动筒-拆卸/安装,1829
+27-61-51,FLIGHT SPOILER ACTUATOR - INSPECTION/CHECK,飞行扰流板作动筒-检验/检查,1830
+27-61-61,FLIGHT SPOILER ACTUATOR QUADRANT -REMOVAL/INSTALLATION,飞行扰流板作动筒扇形件-拆卸/安装,1831
+27-62-00,SPEED BRAKE CONTROL SYSTEM -MAINTENANCE PRACTICES,减速板操纵系统-维护实施,1832
+27-62-00,SPEED BRAKE CONTROL SYSTEM -ADJUSTMENT/TEST,减速板控制系统-调节/测试,1833
+27-62-00,SPEED BRAKE CONTROL SYSTEM -INSPECTION/CHECK,减速板操纵系统-检验/检查,1834
+27-62-12,INBOARD GROUND SPOILER - REMOVAL/INSTALLATION,内侧地面扰流板-拆卸/安装,1835
+27-62-15,GROUND SPOILER HINGE LINK - REMOVAL/INSTALLATION,地面扰流板铰链连杆-拆卸/安装,1836
+27-62-21,SPEED BRAKE FORWARD DRUM AND LEVER BRAKE - REMOVAL/INSTALLATION,减速板前鼓轮和刹车连杆-拆卸/安装,1837
+27-62-22,Speed Brake Lever Removal/Installation,减速板操纵手柄拆卸/安装,1838
+27-62-31,AUTO SPEED BRAKE ACTUATOR -REMOVAL/INSTALLATION,自动减速板作动筒-拆卸/安装,1839
+27-62-32,SPEED BRAKE REFUSED TAKEOFF (RTO) SWITCH - REMOVAL/INSTALLATION,减速板中断起飞(RTO)电门-拆卸/安装,1840
+27-62-33,AUTOSTOW ACTUATOR - REMOVAL/INSTALLATION,自动加载作动筒-拆卸/安装,1841
+27-62-33,SPEED BRAKE AUTOSTOW ACTUATOR -ADJUSTMENT/TEST,减速板自动加载作动筒-调节/测试,1842
+27-62-34,SPEED BRAKE ARMED SWITCH AND SPEED BRAKE HANDLE POSITION SWITCH -REMOVAL/INSTALLATION,减速板待命电门和减速板手柄位置电门拆卸/安装,1843
+27-62-35,AUTO SPEED BRAKE MODULE - REMOVAL/INSTALLATION,自动减速板组件-拆卸/安装,1844
+27-62-37,SPEED BRAKE LEVER POSITION SENSOR -REMOVAL/INSTALLATION,减速板控制手柄位置传感器-拆卸/安装,1845
+27-62-41,GROUND SPOILER CONTROL VALVE -REMOVAL/INSTALLATION,地面扰流板控制活门-拆卸/安装,1846
+27-62-51,GROUND SPOILER INTERLOCK VALVE CABLE - REMOVAL/INSTALLATION,地面扰流板互锁活门钢索-拆卸/安装,1847
+27-62-61,GROUND SPOILER INTERLOCK VALVE -REMOVAL/INSTALLATION,地面扰流板互锁活门-拆卸/安装,1848
+27-62-61,GROUND SPOILER INTERLOCK VALVE -ADJUSTMENT/TEST,地面扰流板互锁活门-调节/测试,1849
+27-62-71,INBOARD GROUND SPOILER ACTUATOR -REMOVAL/INSTALLATION,内侧地面扰流板作动筒-拆卸/安装,1850
+27-62-91,OUTBOARD GROUND SPOILER - REMOVAL/INSTALLATION,外侧地面扰流板-拆卸/安装,1851
+27-62-94,OUTBOARD GROUND SPOILER ACTUATOR - REMOVAL/INSTALLATION,外侧地面扰流板作动筒-拆卸/安装,1852
+27-62-94,OUTBOARD GROUND SPOILER ACTUATOR - INSPECTION/CHECK,外侧地面扰流板作动筒-检查/校验,1853
+27-81-00,LEADING EDGE FLAP AND SLAT CONTROL SYSTEM - MAINTENANCE PRACTICES,前缘襟翼和缝翼操纵系统-维护实施,1854
+27-81-00,LEADING EDGE FLAP AND SLAT -ADJUSTMENT/TEST,前缘襟翼和缝翼-调整/测试,1855
+27-81-00,LEADING EDGE FLAP AND SLAT CONTROL SYSTEM - INSPECTION/CHECK,前缘襟翼和缝翼操纵系统-检查/校验,1856
+27-81-11,LEADING EDGE FLAPS - REMOVAL/INSTALLATION,前缘襟翼-拆卸/安装,1857
+27-81-11,LEADING EDGE FLAP - INSPECTION/CHECK,前缘襟翼-检查/校验,1858
+27-81-21,LEADING EDGE SLAT - REMOVAL/INSTALLATION,前缘缝翼-拆卸/安装,1859
+27-81-31,LEADING EDGE SLAT - REMOVAL/INSTALLATION,前缘襟翼作动筒-拆卸/安装,1860
+27-81-31,LEADING EDGE FLAP ACTUATOR -INSPECTION/CHECK,前缘襟翼作动筒-检查/校验,1861
+27-81-41,LEADING EDGE SLAT ACTUATOR -REMOVAL/INSTALLATION,前缘缝翼作动筒-拆卸/安装,1862
+27-81-41,LEADING EDGE SLAT ACTUATOR -INSPECTION/CHECK,前缘缝翼作动筒-检验/检查,1863
+27-81-52,LEADING EDGE UNCOMMANDED MOTION (UCM) VALVE AND LEADING EDGE CRUISE DEPRESSURIZATION VALVE -REMOVAL/INSTALLATION,前缘非指令动作(UCM)活门和前缘巡航释压活门-拆卸/安装,1864
+27-81-61,LEADING EDGE FLAP AND SLAT HYDRAULIC FUSE - REMOVAL/INSTALLATION,前缘襟翼和缝翼液压熔断器-拆卸/安装,1865
+27-81-71,LEADING EDGE FLAP FLOW LIMITING VALVE - REMOVAL/INSTALLATION,前缘襟翼流量限制活门-拆卸/安装,1866
+27-81-81,LEADING EDGE FLAP AND SLAT CONTROL VALVE - REMOVAL/INSTALLATION,前缘襟翼和缝翼控制活门-拆卸/安装,1867
+27-81-81,LEADING EDGE FLAP AND SLAT CONTROL VALVE - ADJUSTMENT/TEST,前缘襟翼和缝翼控制活门-调整/测试,1868
+27-81-91,LEADING EDGE STANDBY SHUTOFF VALVE - MAINTENANCE PRACTICES,前缘备用关断活门-维护实施,1869
+27-83-00,LEADING EDGE AUTOSLAT SYSTEM -ADJUSTMENT/TEST,前缘自动缝翼系统-调整/测试,1870
+27-83-21,AUTOSLAT CONTROL VALVE - REMOVAL/INSTALLATION,自动缝翼控制活门-拆卸/安装,1871
+27-88-00-710-801,Operational Test - Leading Edge Flap and Slat Position Indicating System,前缘襟翼和缝翼位置指示系统-调整/测试,1872
+27-88-11,LEADING EDGE FLAP AND SLAT PROXIMITY SENSOR - REMOVAL/INSTALLATION,前缘襟翼和缝翼接近传感器-拆卸/安装,1873
+27-88-11-700-801,Leading Edge Flap and Slat Proximity Sensor Test,前缘襟翼和缝翼接近传感器测试,1874
+28-10-00,STORAGE - MAINTENANCE PRACTICES,储藏-维护实施,1875
+28-11-00,FUEL TANKS - MAINTENANCE PRACTICES,油箱-维护实施,1876
+28-11-00,FUEL TANKS - INSPECTION/CHECK,油箱-检验/检查,1877
+28-11-00,FUEL TANKS - CLEANING/PAINTING,油箱-清洗/油漆,1878
+28-11-00,FUEL TANKS - REPAIRS,油箱-修理,1879
+2028/11/11,WING FUEL TANK ACCESS PANELS -REMOVAL/INSTALLATION,机翼燃油箱维护盖板-拆卸/安装,1880
+2028/11/11,WING FUEL TANK ACCESS DOORS -REPAIRS,机翼油箱检查口盖-修理,1881
+2028/11/21,SURGE TANK FUEL SUMP DRAIN VALVE -REMOVAL/INSTALLATION,通气油箱油槽放油活门-拆卸/安装,1882
+28-11-31,CENTER TANK ACCESS DOOR - REMOVAL/INSTALLATION,中央油箱检查口盖-拆卸/安装,1883
+28-11-41,CENTER TANK SUMP DRAIN VALVE -REMOVAL/INSTALLATION,中央油箱油槽排放活门-拆卸/安装,1884
+28-11-61,MAIN TANK FUEL SUMP DRAIN VALVE -MAINTENANCE PRACTICES,主油箱油槽放油活门-维护实施,1885
+28-13-11,FUEL VENT FLOAT VALVE - REMOVAL/INSTALLATION,燃油通气浮子活门-拆卸/安装,1886
+28-13-31,AIR VENT SCOOP FLAME ARRESTOR -REMOVAL/INSTALLATION,通风斗火焰清除器-拆卸/安装,1887
+28-13-31,AIR VENT SCOOP FLAME ARRESTOR -INSPECTION/CHECK,通气口火焰清除器-检验/检查,1888
+28-13-31,AIR VENT SCOOP FLAME ARRESTOR -CLEANING/PAINTING,通气口火焰清除器-清洗/油漆,1889
+28-13-41,SURGE TANK PRESSURE RELIEF VALVE -REMOVAL/INSTALLATION,通气油箱释压活门-拆卸/安装,1890
+28-13-41,SURGE TANK FLAME ARRESTOR PRESSURE RELIEF VALVE - INSPECTION/CHECK,通气油箱灭火器释压活门-检验/检查,1891
+28-21-00-700-801,Pressure Fueling System - Test,压力加油系统-测试,1892
+28-21-00,PRESSURE FUELING SYSTEM -INSPECTION/CHECK,压力加油系统-检验/检查,1893
+28-21-11,FUELING RECEPTACLE - REMOVAL/INSTALLATION,加油容器-拆卸/安装,1894
+28-21-11,FUELING RECEPTACLE - INSPECTION/CHECK,加油容器-检验/检查,1895
+28-21-21,REFUELING MANIFOLD - REMOVAL/INSTALLATION,加油总管-拆卸/安装,1896
+28-21-32,FUELING CHECK VALVE - REMOVAL/INSTALLATION,加油单向活门-拆卸/安装,1897
+28-21-41,FUELING BODY OR DEFUEL PORT ASSEMBLY - REMOVAL/INSTALLATION,加油机体或抽油孔组件-拆卸/安装,1898
+28-21-51,FUELING SHUTOFF VALVE - REMOVAL/INSTALLATION,加油关断活门-拆卸/安装,1899
+28-21-51,FUELING SHUTOFF VALVE - INSPECTION/CHECK,加油关断活门-检验/检查,1900
+28-21-71,FUELING FLOAT SWITCH - REMOVAL/INSTALLATION,加油浮子电门-拆卸/安装,1901
+28-21-71,FUELING FLOAT SWITCH - INSPECTION/CHECK,加油浮子电门-检验/检查,1902
+28-21-81,FUELING POWER CONTROL SWITCH -MAINTENANCE PRACTICES,加油电源控制电门-维护实施,1903
+28-22-00,ENGINE FUEL FEED SYSTEM -ADJUSTMENT/TEST,发动机供油系统-调节/测试,1904
+28-22-00-730-802,Crossfeed Valve - Functional Test,交输活门-功能测试,1905
+28-22-00-720-804,Engine Fuel Spar Valve Installation -Test,发动机燃油梁活门安装-测试,1906
+28-22-00-720-802,Fuel Scavenge System - Operational Test,燃油回油系统-操作测试,1907
+28-22-00-720-803,Fuel Boost Pump Output Pressure Test,燃油增压泵输出压力测试,1908
+28-22-00,ENGINE FUEL FEED SYSTEM - INSPECTION/CHECK,发动机供油系统-检查/检查,1909
+28-22-11,SPAR VALVE - MAINTENANCE PRACTICES,梁活门-维护实施,1910
+28-22-11,SPAR VALVE - REMOVAL/INSTALLATION,梁活门-拆卸/安装,1911
+28-22-11,SPAR VALVE - INSPECTION/CHECK,梁活门-检验/检查,1912
+28-22-13,WATER SCAVENGE JET PUMP - REMOVAL/INSTALLATION,回油喷射泵-拆卸/安装,1913
+28-22-13,WATER SCAVENGE JET PUMP -INSPECTION/CHECK,回油喷射泵-检验/检查,1914
+28-22-14,EMERGENCY FUEL SHUTOFF BATTERY -REMOVAL/INSTALLATION,应急燃油切断电瓶-拆卸/安装,1915
+28-22-15,FUEL FEED MANIFOLD AND COUPLINGS -REMOVAL/INSTALLATION,供油总管和联轴器-拆卸/安装,1916
+28-22-15,FUEL FEED MANIFOLD COUPLINGS -INSPECTION/CHECK,供油总管联轴器-检查/检查,1917
+28-22-16,FUEL SCAVENGE FLOAT-OPERATED SHUTOFF VALVE - REMOVAL/INSTALLATION,燃油回油浮动操纵切断活门-拆卸/安装,1918
+28-22-17,FUEL SCAVENGE JET PUMP - REMOVAL/INSTALLATION,燃油回油引射泵-拆卸/安装,1919
+28-22-18,GROUND FAULT INTERRUPTER (GFI)RELAY - REMOVAL/INSTALLATION,接地故障断路器(GFI)继电器-拆卸/安装,1920
+28-22-21,ENGINE FUEL CROSSFEED VALVE -REMOVAL/INSTALLATION,发动机燃油交输活门-拆卸/安装,1921
+28-22-21,ENGINE FUEL CROSSFEED VALVE -INSPECTION/CHECK,发动机燃油交输活门-检验/检查,1922
+28-22-41,FUEL BOOST PUMP - REMOVAL/INSTALLATION,燃油增压泵-拆卸/安装,1923
+28-22-41,FUEL BOOST PUMP - ADJUSTMENT/TEST,燃油增压泵-调节/测试,1924
+28-22-43,FUEL SYSTEM MODULE P5-2 - REMOVAL/INSTALLATION,P5-2 燃油系统组件-拆卸/安装,1925
+28-22-51,BOOST PUMP REMOVAL CHECK VALVE -REMOVAL/INSTALLATION,增压泵移动单向活门-拆卸/安装,1926
+28-22-61,MAIN TANK FUEL BOOST PUMP BYPASS VALVE - REMOVAL/INSTALLATION,主油箱燃油增压泵旁通活门-拆卸/安装,1927
+28-22-71,BOOST PUMP DISCHARGE CHECK VALVE -REMOVAL/INSTALLATION,增压泵排放单向活门-拆卸/安装,1928
+28-25-00-710-801,Operational Test - APU Fuel Feed System,操作测试-APU 供油系统,1929
+28-25-02,APU FUEL SHUTOFF VALVE - REMOVAL/INSTALLATION,APU 燃油关断活门-拆卸/安装,1930
+28-25-02-710-801,APU Fueling Shutoff Valve Actuator -Bonding Resistance Check,APU 关断活门操作测试,1931
+28-25-02,APU FUEL SHUTOFF VALVE - INSPECTION/CHECK,APU 燃油关断活门-检验/检查,1932
+28-25-04,APU FUEL FEED LINE - REMOVAL/INSTALLATION,APU 供油管-拆卸/安装,1933
+28-25-04-790-801,APU Fuel Line Leak Test (with air),APU 燃油管道渗漏测试(通过空气),1934
+28-25-05,APU FUEL FEED LINE SHROUD - REMOVAL/INSTALLATION,APU 供油管防护套管-拆卸/安装,1935
+28-25-06,APU CHECK VALVE - REMOVAL/INSTALLATION,APU 单向活门-拆卸/安装,1936
+28-25-07,APU FUEL FEED LINE SHROUD DRAIN MAST - REMOVAL/INSTALLATION,APU 供油管防护罩排放杆拆卸/安装,1937
+28-26-00,DEFUELING - MAINTENANCE PRACTICES,抽油-维护实施,1938
+28-26-11,DEFUELING VALVE - REMOVAL/INSTALLATION,放油活门-拆卸/安装,1939
+28-41-00,FUEL QUANTITY INDICATING SYSTEM (FQIS) - ADJUSTMENT/TEST,油量指示系统(FQIS)-调节/测试,1940
+28-41-21,TANK AND COMPENSATOR UNITS -REMOVAL/INSTALLATION,油箱和补偿器组件-拆卸/安装,1941
+28-41-21,TANK AND COMPENSATOR UNITS -ADJUSTMENT/TEST,油箱和补偿器组件-调节/测试,1942
+28-41-21,TANK AND COMPENSATOR UNITS -CLEANING/PAINTING,油箱和补偿器组件-清洗/油漆,1943
+28-41-41,TANK AND COMPENSATOR UNIT BUSSING PLUG - REMOVAL/INSTALLATION,油箱和补偿器组件连接插头-拆卸/安装,1944
+28-41-42,FQIS SPAR PENETRATION CONNECTOR -REMOVAL/INSTALLATION,FQIS 梁渗透插头-拆卸/安装,1945
+28-41-42,FQIS SPAR PENETRATION CONNECTOR -ADJUSTMENT/TEST,FQIS 梁穿透接头-调节/测试,1946
+28-41-44,FUEL TANK BULKHEAD (SPAR) RECEPTACLE WIRE HARNESS -REMOVAL/INSTALLATION,油箱隔板(梁)插座电缆-拆卸/安装,1947
+28-41-44,FUEL TANK BULKHEAD (SPAR) RECEPTACLE WIRE HARNESS -INSPECTION/CHECK,油箱隔板(梁)插座电缆-检验/检查,1948
+28-41-61,REFUEL QUANTITY INDICATOR - REMOVAL/INSTALLATION,加油油量指示器-拆卸/安装,1949
+28-41-81,FQIS PROCESSOR - REMOVAL/INSTALLATION,FQIS 程序-拆卸/安装,1950
+28-42-11,FUEL BOOST PUMP PRESSURE SWITCH -REMOVAL/INSTALLATION,燃油增压泵压力电门-拆卸/安装,1951
+28-43-00,FUEL TEMPERATURE INDICATING SYSTEM - ADJUSTMENT/TEST,燃油温度指示系统-调节/测试,1952
+28-43-00-710-801,Fuel Temperature Indicating System Test,燃油温度指示系统测试,1953
+21-22-05,FLIGHT DECK AIR DISTRIBUTION SYSTEM MUFFLER/DUCT ASSEMBLY - REMOVAL/INSTALLATION,驾驶舱空气分配系统消声器/管道组件-拆卸/安装,1954
+21-22-09,FLIGHT COMPARTMENT GASPER AIR OUTLETS - REMOVAL/INSTALLATION,驾驶舱空气出口-拆卸/安装,1955
+21-23-01,OVERHEAD DISTRIBUTION DUCT -MAINTENANCE PRACTICES,顶部分配导管-维护实施,1956
+21-23-02,SIDEWALL RISER DUCTS/TRANSITION DUCT - MAINTENANCE PRACTICES,侧壁立管/过渡管-维护实施,1957
+21-23-03,RETURN AIR GRILLS (DECOMPRESSION VENTS) - MAINTENANCE PRACTICES,回流空气格栅(卸压通风口)-维护实施,1958
+21-24-04,PASSENGER CABIN GASPER AIR OUTLETS - REMOVAL/INSTALLATION,客舱空气出口-拆卸/安装,1959
+21-25-00,RECIRCULATION SYSTEM - ADJUSTMENT/TEST,再循环系统-操作测试,1960
+21-25-00-710-801-001,Recirculation System - Operational Test,再循环系统-操作测试,1961
+21-25-01,RECIRCULATION AIR FILTER - REMOVAL/INSTALLATION,再循环空气过滤器-拆卸/安装,1962
+21-25-02,RECIRCULATION FAN - REMOVAL/INSTALLATION,再循环风扇-拆卸/安装,1963
+21-25-03,RECIRCULATION FAN CHECK VALVE -REMOVAL/INSTALLATION,再循环风扇单向活门-拆卸/安装,1964
+21-25-03-200-801,Recirculation Fan Check Valve Inspection,再循环风扇单向活门检查,1965
+21-26-01,GALLEY VENTILATION MUFFLER -REMOVAL/INSTALLATION,厨房通风消音器-拆卸/安装,1966
+28-43-11,FUEL TEMPERATURE BULB - REMOVAL/INSTALLATION,燃油温度计-拆卸/安装,1967
+28-43-21,FUEL TEMPERATURE INDICATOR -REMOVAL/INSTALLATION,燃油温度指示器-拆卸/安装,1968
+28-44-11,MEASURING STICK - REMOVAL/INSTALLATION,测量油尺-拆卸/安装,1969
+28-44-11,FUEL MEASURING STICK - REPAIRS,油尺-修理,1970
+29-00-00,HYDRAULIC POWER - MAINTENANCE PRACTICES,液压源-维护实施,1971
+29-00-00-910-801,Airworthiness Limitation Precautions,适航限制预告,1972
+29-00-00-900-801,Hydraulic Fluid Replacement,液压油更换,1973
+29-00-00-870-801,Bleed the Hydraulic Systems,液压系统放气,1974
+29-00-00,HYDRAULIC POWER - INSPECTION/CHECK,液压源-检验/检查,1975
+29-00-00-790-801,Hydraulic System External Leakage Check,液压系统外漏检查,1976
+29-00-00-790-802,Gross Internal Leakage Check,内部总泄漏检查,1977
+29-00-00-790-803,System A or System B Sub-System Internal Leakage Check,系统A 或系统B 子系统内漏检查,1978
+29-00-00-790-804,Part Internal Leakage Check,零件内漏检查,1979
+29-00-00-790-808,Standby Hydraulic System Internal Leakage Check,备用液压系统内漏检查,1980
+29-00-00-916-801,Hydraulic Components - Corrosion Protection,液压部件-防腐,1981
+29-09-00,HYDRAULICS - DDG MAINTENANCE PROCEDURES,液压油箱增压系统-维护实施,1982
+29-09-00-860-801,Hydraulic Reservoirs Pressurization,液压油箱的增压,1983
+29-09-00-860-802,Hydraulic Reservoirs Depressurization,液压油箱的释压,1984
+29-09-00-860-803,Hydraulic Reservoir Pressurization System - Leakage Test,液压油箱增压系统-泄漏测试,1985
+2029/9/1,AIR PRESSURE FILTER ASSEMBLY -MAINTENANCE PRACTICES,气压过滤器组件-维护实施,1986
+2029/9/2,AIR CHARGING VALVE MANIFOLD ASSEMBLY - MAINTENANCE PRACTICES,充气活门总管组件-维护操作,1987
+2029/9/3,AIR PRESSURE GAUGE - REMOVAL/INSTALLATION,气压表-拆卸/安装,1988
+2029/9/4,CROSS FITTING ASSEMBLY -MAINTENANCE PRACTICES,十字接头组件-维护实施,1989
+2029/9/5,PRESSURE RELIEF VALVE - MAINTENANCE PRACTICES,释压活门–维护实施,1990
+2029/9/6,HYDRAULIC RESERVOIR PRESSURIZATION MODULE - REMOVAL/INSTALLATION,液压油箱增压组件-拆卸/安装,1991
+2029/9/6,HYDRAULIC RESERVOIR PRESSURIZATION MODULE - INSPECTION/CHECK,液压油箱增压组件-探伤/检查,1992
+29-11-00,HYDRAULIC SYSTEMS A AND B -MAINTENANCE PRACTICES,液压系统A 和B-维护实施,1993
+29-11-00-860-801,Hydraulic System A or B Pressurization,液压系统A 或B 的增压,1994
+29-11-00-860-802,Hydraulic System A or B Pressurization with a Portable Hydraulic Cart,用便携式液压拖车为液压系统A或B 增压,1995
+29-11-00-860-803,Hydraulic System Pressurization with an Electric Motor-Driven Pump (EMDP),用电动马达驱动泵(EMDP)为液压系统增压,1996
+29-11-00-860-804,Hydraulic System A or B Pressurization with an Engine-Driven Pump (EDP),用发动机驱动泵(EDP)为液压系统A或B增压,1997
+29-11-00-860-805,Hydraulic System A or B Power Removal,液压系统A 或B 的液压源撤除,1998
+29-11-00-170-801,Hydraulic System A or B Flushing,液压系统A 或B 的冲洗,1999
+29-11-00-700-801,Operational Test of the Hydraulic Systems A and B,液压系统A 和B 的操作测试,2000
+29-11-00-700-802,System Test of the Hydraulic Systems A and B,液压系统A 和B 的系统测试,2001
+29-11-00-200-801,Hydraulic Fluid Check,液压油检查,2002
+2029/11/4,HEAT EXCHANGER - REMOVAL/INSTALLATION,热交换器-拆卸/安装 29-11-04,2003
+29-11-04-200-801,Hydraulic Lines to Heat Exchanger -Bonding Resistance Check,热交换器液压管-搭接电阻检查,2004
+2029/11/8,GROUND SERVICE DISCONNECT FILTER -MAINTENANCE PRACTICES,地面勤务断开过滤器-维护实施,2005
+2029/11/11,HYDRAULIC SYSTEMS A AND B ENGINEDRIVEN PUMP (EDP) - REMOVAL/INSTALLATION,液压系统A 和B 发动机驱动泵(EDP)-拆卸/安装,2006
+2029/11/21,HYDRAULIC SYSTEMS A AND B ELECTRIC MOTOR-DRIVEN PUMP (EMDP) -REMOVAL/INSTALLATION,液压系统 A 和 B 电马达驱动泵(EMDP)-拆卸/安装,2007
+29-11-21-700-801,Electric Motor-Driven Pump (EMDP) Test,电动马达驱动泵(EMDP)的测试,2008
+29-11-21-700-802,Ground Fault Protection System Test,地面故障保护系统测试,2009
+2029/11/27,HYDRAULIC SYSTEMS A AND B ELECTRIC  MOTOR-DRIVEN PUMP (EMDP) ACOUSTIC FILTER - REMOVAL/INSTALLATION,液压系统A 和B 电动马达驱动泵(EMDP)滤声器-拆卸/安装,2010
+29-11-31,HYDRAULIC SYSTEMS A AND B RESERVOIRS - REMOVAL/INSTALLATION,液压系统 A 和 B 油箱-拆卸/安装,2011
+29-11-41,SYSTEMS A AND B ELECTRIC MOTOR DRIVEN PUMP (EMDP) CASE DRAIN FILTER MODULE AND COMPONENTS -REMOVAL/INSTALLATION,系统A 和B 电动马达驱动泵(EMDP)壳体排放过滤器组件和部件-拆卸/安装,2012
+29-11-51,ENGINE DRIVEN PUMP (EDP) CASE DRAIN FILTER MODULE AND COMPONENTS -REMOVAL/INSTALLATION,发动机驱动泵(EDP)壳体排放过滤器组件和部件-拆卸/安装,2013
+29-11-61,HYDRAULIC SYSTEMS A AND B RETURN FILTER MODULE AND COMPONENTS -REMOVAL/INSTALLATION,液压系统A 和B 回油滤组件和部件-拆卸/安装,2014
+29-11-61-210-801,Inspection of the Differential Pressure Indicator of the A and B System Return Filter Modules,检查A 和B 系统回油滤组件的压差指示器,2015
+29-11-71,HYDRAULIC SYSTEMS A AND B PRESSURE MODULE AND COMPONENTS -REMOVAL/INSTALLATION,液压系统A 和B 压力组件和部件-拆卸/安装,2016
+29-11-81,ENGINE DRIVEN PUMP (EDP) SUPPLY SHUTOFF VALVE - REMOVAL/INSTALLATION,发动机驱动泵(EDP)供给关断活门-拆卸/安装,2017
+29-11-91, P5-8-拆卸/安装HYDRAULIC PUMPS MODULE P5-8 -REMOVAL/INSTALLATION,液压泵组件,2018
+29-18-01,RESERVOIR MANUAL FILL PUMP -REMOVAL/INSTALLATION,油箱手动加油泵-拆卸/安装,2019
+29-18-11,RESERVOIR FILL FILTER MODULE AND COMPONENTS - REMOVAL/INSTALLATION,油箱灌充过滤器组件和部件-拆卸/安装,2020
+29-18-21,RESERVOIR FILL SELECTOR VALVE -REMOVAL/INSTALLATION,油箱加油选择活门-拆卸/安装,2021
+29-21-00,STANDBY HYDRAULIC SYSTEM -MAINTENANCE PRACTICES,备用液压系统-维护实施,2022
+29-21-00-000-801,Standby Hydraulic System Pressurization,备用液压系统的增压,2023
+29-21-00-000-802,Standby Hydraulic System Power Removal,备用液压系统液压源撤除,2024
+29-21-00-700-801,Operational Test of the Standby Hydraulic System,备用液压系统的操作测试,2025
+29-21-00-700-802,System Test of the Standby Hydraulic System,备用液压系统的系统测试,2026
+29-21-00-700-803,Operational Test of the Standby Hydraulic Actuation System,备用液压作动系统的操作测试,2027
+29-21-21,STANDBY HYDRAULIC SYSTEM ELECTRIC MOTOR-DRIVEN PUMP (EMDP) -REMOVAL/INSTALLATION,备用液压系统电马达驱动泵(EMDP)-拆卸/安装,2028
+29-21-31,STANDBY HYDRAULIC SYSTEM RESERVOIR - REMOVAL/INSTALLATION,备用液压系统油箱-拆卸/安装,2029
+29-21-41,STANDBY EMDP CASE DRAIN FILTER -EMOVAL/INSTALLATION,备用电动马达驱动泵壳体排放过滤器-拆卸/安装,2030
+29-21-51,STANDBY HYDRAULIC SYSTEM PRESSUREMODULE - REMOVAL/INSTALLATION,备用液压系统压力组件-拆卸/安装,2031
+29-22-00-710-801,Power Transfer Unit Operational Test,动力转换组件操作测试,2032
+29-22-00-730-801,Power Transfer Unit (PTU) System Test,动力转换组件(PTU)系统测试,2033
+29-22-11,Power Transfer Unit (PTU) Removal/Installation,动力转换组件(PTU)-拆卸/安装,2034
+29-22-21,PTU Pressure Filter Module Removal/Installation,PTU 压力过滤器组件-拆卸/安装,2035
+29-22-31,Power Transfer Unit (PTU) Control Valve Removall/Installation,动力转换组件(PTU)控制活门-拆卸/安装,2036
+29-22-41,Engine Driven Pump (EDP) Pressure Switch Auto Slat System Removal/Installation,发动机驱动泵(EDP)压力电门自动缝翼系统-拆卸/安装,2037
+29-31-12,System Pressure Transmitter Removal/Installation,系统压力传感器-拆卸/安装,2038
+29-32-00-730-802,Case Drain Overheat Switch Test (Preferred Method,壳体排放过热电门测试(首选法),2039
+29-32-00-730-803,Case Drain Overheat Switch Test (Alternate Method,壳体排放过热电门测试(备用法),2040
+29-32-12,Hydraulic Fluid Overheat Warning Switch Removal/Installation,液压油过热警告电门-拆卸/安装,2041
+29-33-12,Hydraulic Fluid Quantity Transmitter/ Indicator Removal/Installation,液压油油量传感器/指示器-拆卸/安装,2042
+29-33-12,Hydraulic Fluid Quantity Transmitter/Indicator Inspection,液压油油量传感器/指示器-检验/检查,2043
+29-33-21,Standby Reservoir Low Quantity Switch Removal,备用液压系统油箱低油量电门-拆卸/安装,2044
+29-34-00-700-801,Pump Low Pressure Warning System Test,泵低压警告系统测试,2045
+29-34-11,Engine Driven Pump (EDP) Low Pressure Switch Removal/Installation,液压系统 A 和 B EDP 低压电门-拆卸/安装,2046
+29-34-21,Hydraulic System A or B EMDP Low Pressure Switch Removal/Installation,液压系统A 和BEMDP 低压电门-拆卸/安装,2047
+29-34-31,Standby System EMDP Low Pressure Switch Removal,备用液压系统电动马达驱动泵(EMDP)低压电门-拆卸/安装,2048
+30-11-00-710-801,Wing Anti-Icing - Operational Test,机翼防冰-操作测试,2049
+30-11-00-790-801,Wing Anti-Icing Duct - Leak Test,机翼防冰管-泄漏测试,2050
+1930/11/11,WING THERMAL ANTI-ICING SHUTOFF VALVE - REMOVAL/INSTALLATION,机翼热防冰关断活门-拆卸/安装,2051
+30-11-11-710-801,Wing Thermal Anti Icing Shutoff Valve Test,机翼热防冰关断活门测试,2052
+1930/11/12,GROUND WING THERMAL ANTI-ICING SOLENOID VALVE - REMOVAL/INSTALLATION,地面机翼热防冰电磁活门-拆卸/安装,2053
+30-11-12-710-801,Ground Wing Thermal Anti-Icing (TAI) Solenoid Valve Test,地面机翼热防冰(TAI)电磁活门测试,2054
+1930/11/21,WING ANTI-ICING GROUND OVERHEAT THERMAL SWITCH - REMOVAL/INSTALLATION,机翼防冰地面过热热控电门-拆卸/安装,2055
+30-11-31,WING ANTI-ICE TELESCOPING DUCT -REMOVAL/INSTALLATION,机翼防冰伸缩管-拆卸/安装,2056
+30-11-41,ENGINE AND WING ANTI-ICE PANEL -REMOVAL/INSTALLATION,发动机和机翼防冰面板-拆卸/安装,2057
+30-11-41-710-801,Engine and Wing Thermal Anti-Ice Panel (P5-11) Test,发动机和机翼热防冰面板(P5-11)的测试,2058
+30-11-51,CONTROL STAND WING ANTI-ICE SWITCHES - REMOVAL/INSTALLATION,操纵台机翼防冰电门-拆卸/安装,2059
+30-11-51-710-801,Control Stand Wing Anti-Icing Switches  Test,操纵台机翼防冰电门的测试,2060
+30-21-00-710-801,Engine Cowl Anti-Icing - Operational Test,发动机防冰整流罩-操作测试,2061
+30-21-11,ENGINE COWL TAI VALVE - REMOVAL/INSTALLATION,发动机整流罩TAI 活门-拆卸/安装,2062
+30-21-21,ENGINE ANTI-ICE PRESSURE SENSOR -REMOVAL/INSTALLATION,发动机防冰压力传感器-拆卸/安装,2063
+30-31-00-900-80, AOA传感器和TAT 探头加热器更换Pitot Probe AOA Sensor and TAT Probe Heater Replacement,全压探头,2064
+30-31-00-750-801,AUTO Air Data Sensor heating -Operational Test,大气数据传感器自动加温操作测试,2065
+30-31-00-730-801, AOA传感器和TAI探头加热器测试Pitot Probe AOA Sensor and TATProbe Heater - System Test,全压探头,2066
+30-41-00-710-801,Window Heat System - Operational Test,窗加热系统-操作测试,2067
+30-41-11-000-801,Window Heat Control Unit (WHCU) Removal,窗加热控制组件(WHCU)的拆卸,2068
+30-41-11-400-801,Window Heat Control Unit (WHCU)Installation,窗加热控制组件(WHCU)的安装,2069
+30-41-11-710-801,Window Heat Control Unit System Test,窗加热控制装置系统测试,2070
+30-41-21-000-801,Check the Electrical Resistance of the Window Heat Film,检查窗加热膜的电阻,2071
+30-41-21-760-801,Measure the Resistance of the Window Temperature Sensors,测量窗温度传感器的电阻,2072
+30-41-41,WINDOW/PITOT HEAT MODULE (P5-9) -REMOVAL/INSTALLATION,窗/全压加热组件(P5-9)-拆卸/安装,2073
+30-42-00-700-801,Windshield Wiper System - Operational Test,风挡雨刷系统-操作测试,2074
+30-42-11,WINDSHIELD WIPER BLADE - REMOVAL/INSTALLATION,风挡雨刷刮片-拆卸/安装,2075
+30-42-21,WINDSHIELD WIPER MOTOR/CONVERTER -REMOVAL/INSTALLATION,风挡雨刷马达/转换器-拆卸/安装,2076
+30-42-31,WINDSHIELD WIPER ARM - MAINTENANCE PRACTICES,风挡雨刷臂-维护实施,2077
+30-43-00,WINDSHIELD HYDROPHOBIC COATING -MAINTENANCE PRACTICES,风挡疏水层-维护实施,2078
+30-71-00,Water and Drain Operation with 115 Volts on the Ground,用地面上115 伏进行供水和排水操作,2079
+30-71-00-720-801,Drain Mast Heater Ground and Air Mode Test,排放柱加热器的地面和空中模式测试,2080
+30-71-00-720-802,Water and Drain Heater Tests,供水和排放加热器测试,2081
+30-71-01,POTABLE WATER FILL FITTING HEATER -REMOVAL/INSTALLATION,饮用水灌注接头加热器-拆卸/安装,2082
+30-71-02,GRAY WATER DRAIN LINE HEATER -REMOVAL/INSTALLATION,灰色排水管加热器-拆卸/安装,2083
+30-71-03,WASTE DRAIN LINE HEATER - REMOVAL/INSTALLATION,废水管加热器-拆卸/安装,2084
+30-71-04,WASTE TANK RINSE FITTING HEATER -REMOVAL/INSTALLATION,废水箱冲洗接头加热器-拆卸/安装,2085
+30-71-05,DRAIN MAST HEATERS - REMOVAL/INSTALLATION,排放柱加热器-拆卸/安装,2086
+30-71-06,HEATED POTABLE WATER HOSES -REMOVAL/INSTALLATION,加热的饮用水软管-拆卸/安装,2087
+31-25-00-710-803,Clocks - System Test,时钟-系统测试,2088
+31-25-00-710-804,Clocks - System Test,时钟-系统测试,2089
+31-25-11,Clock Removal/Installation,时钟-拆卸/安装,2090
+31-31-00,FLIGHT DATA RECORDER (FDR) -MAINTENANCE PRACTICES,飞行数据记录器(FDR)-维护实施,2091
+31-31-00-710-801,Flight Data Recorder System -Operational Test,飞行数据记录器系统-操作测试,2092
+31-31-00-730-801,Flight Data Recorder System - System Test,飞行数据记录器系统-系统测试,2093
+31-31-09,UNDERWATER LOCATOR BEACON -MAINTENANCE PRACTICES,水下定位信标-维护实施,2094
+31-31-11-000-802,Flight Data Recorder Removal,飞行数据记录器拆卸,2095
+31-31-11-400-802,Flight Data Recorder Installation,安装飞行数据记录器,2096
+21-26-03,GALLEY CEILING VENTILATION GRILL -MAINTENANCE PRACTICES,厨房天花板通风格栅-维护实施,2097
+21-27-00,EQUIPMENT COOLING SYSTEM -ADJUSTMENT/TEST,设备冷却系统-调整/测试,2098
+21-27-00-700-801,Equipment Cooling Low Flow Sensors -Operational Test,设备冷却低流量传感器-操作测试,2099
+21-27-00-700-802,Equipment Cooling Fans - Operational Test,设备冷却风扇-操作测试,2100
+21-27-00-700-803,Equipment Cooling Overboard Exhaust Valve - Functional Test,设备冷却机外排气活门-功能测试,2101
+21-27-00-700-806,Flight Compartment Display Unit Air Flow Test,驾驶舱显示装置气流测试,2102
+21-27-00-890-801,Alternate Equipment Cooling Supply Fan - Operational Test,备用设备冷却进气风扇-操作测试,2103
+21-27-00-700-804,Alternate Equipment Cooling Exhaust Fan - Operational Test,备用设备冷却排气风扇-操作测试,2104
+21-27-00-700-805,Equipment Cooling Overboard Exhaust Valve Smoke Clearance Mode -Operational Test,设备冷却机外排气活门烟雾清除模式-操作测试,2105
+21-27-01,EQUIPMENT COOLING AIR FILTER -REMOVAL/INSTALLATION,设备冷却空气过滤器-拆卸/安装,2106
+21-27-02,EQUIPMENT COOLING SUPPLY FAN -REMOVAL/INSTALLATION,设备冷却进气风扇-拆卸/安装,2107
+21-27-03,EQUIPMENT COOLING LOW FLOW SENSORS - MAINTENANCE PRACTICES,设备冷却低流量传感器-维护实施,2108
+21-27-04,EQUIPMENT COOLING EXHAUST FAN -REMOVAL/INSTALLATION,设备冷却排气风扇-拆卸/安装,2109
+31-31-12,FLIGHT RECORDER/MACH AIRSPEED WARNING TEST MODULE - REMOVAL/INSTALLATION,飞行记录器/马赫空速警告测试模块-拆卸/安装,2110
+31-31-22,FLIGHT DATA ACQUISITION UNIT (FDAU) -MAINTENANCE PRACTICES,飞行数据收集装置(FDAU)-维护实施,2111
+31-31-22-400-803,Flight Data Acquisition Unit (FDAU) Software Installation with an Airborne Data Loader (ADL,用机载数据装载机(ADL)安装飞行数据采集组件(FDAU)软件,2112
+31-31-22-400-810,ACMS Data Output from the FDAU to an Airborne Data Loader (ADL),ACMS 数据从FDAU 输出到机载数据载入器(ADL),2113
+31-31-22-470-801,Flight Data Acquisition Unit (FDAU) Software Installation with a Portable Data Loader,用手提式数据载入器安装飞行数据收集装置(FDAU)软件,2114
+31-31-22-470-803,ACMS Data Output from the FDAU with the use of the Portable Data Loader,用手提式数据载入器从FDAU 输出ACMS 数据,2115
+31-31-22,FLIGHT DATA ACQUISITION UNIT (FDAU) -REMOVAL/INSTALLATION,飞行数据收集装置(FDAU)-拆卸/安装,2116
+31-31-24-000-802,WGL-QAR PCMCIA Removal,WGL-QAR PCMCIA 拆卸,2117
+31-31-24-400-802,WGL-QAR PCMCIA Installation,WGL-QAR PCMCIA 安装,2118
+31-31-24,QUICK ACCESS RECORDER - REMOVAL/INSTALLATION,快速存取记录器-拆卸/安装,2119
+31-31-31,AILERON POSITION TRANSMITTER -REMOVAL/INSTALLATION,副翼位置传感器-拆卸/安装,2120
+31-31-32,CONTROL WHEEL POSITION SENSOR -REMOVAL/INSTALLATION,操纵轮位置传感器-拆卸/安装,2121
+31-31-41,RUDDER POSITION TRANSMITTER -REMOVAL/INSTALLATION,方向舵位置传感器-拆卸/安装,2122
+31-31-42,RUDDER PEDAL POSITION SENSOR -REMOVAL/INSTALLATION,方向舵脚蹬位置传感器-拆卸/安装,2123
+31-31-43,RUDDER PEDAL FORCE TRANSMITTER ROD - REMOVAL/INSTALLATION,方向舵脚蹬力传感器杆-拆卸/安装,2124
+31-31-51,ELEVATOR POSITION TRANSMITTER -REMOVAL/INSTALLATION,升降舵位置传感器-拆卸/安装,2125
+31-31-52,CONTROL COLUMN POSITION SENSOR -REMOVAL/INSTALLATION,驾驶杆位置传感器-拆卸/安装,2126
+31-31-61,BRAKE PRESSURE TRANSMITTER -REMOVAL/INSTALLATION,刹车压力传感器-拆卸/安装,2127
+31-31-61-000-801,Brake Pressure Transmitter Removal,刹车压力传感器拆卸,2128
+31-31-61-400-801,Brake Pressure Transmitter Installation,刹车压力传感器安装,2129
+31-31-61-820-801,Brake Pressure Transmitter Installation Test,刹车压力传感器安装测试,2130
+31-31-81,FLIGHT DATA RECORDER ACCELEROMETER - REMOVAL/INSTALLATION,飞行数据记录器加速计-拆卸/安装,2131
+31-33-01-400-802,Printer Paper Installation,打印纸安装,2132
+31-33-01,PRINTER - REMOVAL/INSTALLATION,打印机-拆卸/安装,2133
+31-51-00,AURAL WARNING SYSTEM - ADJUSTMENT/TEST,音响警告系统-调节/测试,2134
+31-51-00-740-801,Aural Warning Module BITE Test,音响警告模块BITE 测试,2135
+31-51-00-730-801,Aural Warning System - System Test,音响警告系统-系统测试,2136
+31-51-00-730-802,Landing Warning System Test,着陆警告系统测试,2137
+31-51-00-730-803,Takeoff Warning System Test,起飞警告系统试验,2138
+31-51-00-741-804,Autothrottle Switchpack Test,自动油门电门组件测试,2139
+31-51-01,FLAP LANDING WARNING SWITCH -REMOVAL/INSTALLATION,襟翼着陆警告电门-拆卸/安装,2140
+31-51-01-820-801,Flap Landing Warning Switch Adjustment and Test,襟翼着陆警告电门调节和测试,2141
+31-51-02,STABILIZER TAKEOFF WARNING SWITCHES - REMOVAL/INSTALLATION,尾翼起飞警告电门-拆卸/安装,2142
+31-51-02,STABILIZER TAKEOFF WARNING SWITCHES - ADJUSTMENT/TEST,尾翼起飞警告电门-调节/测试,2143
+31-51-03,SPEEDBRAKE TAKEOFF WARNING SWITCH- REMOVAL/INSTALLATION,减速起飞警告电门-拆卸/安装,2144
+31-51-04,AURAL WARNING MODULE - REMOVAL/INSTALLATION,音响警告模块-拆卸/安装,2145
+31-62-00-710-801,Common Display System - Operational Test,通用显示系统-操作测试,2146
+31-62-00-730-801,Common Display System - System Test,通用显示系统-系统测试,2147
+31-62-11-000-801,Display Unit Removal,显示装置拆卸,2148
+31-62-11-400-801,Display Unit Installation,显示装置安装,2149
+31-62-11,DISPLAY UNIT - CLEANING/PAINTING,显示装置-清洗/油漆,2150
+31-62-12-000-801,EFIS Control Panel Removal,EFIS 控制面板拆卸,2151
+31-62-12-400-801,EFIS Control Panel Installation,EFIS 控制面板安装,2152
+31-62-13,LIGHTING CONTROL MODULE - REMOVAL/INSTALLATION,照明控制组件-拆卸/安装,2153
+31-62-14,INSTRUMENT SWITCHING MODULE -REMOVAL/INSTALLATION,仪表转换组件-拆卸/安装,2154
+31-62-21,DISPLAY ELECTRONIC UNIT -MAINTENANCE PRACTICES,显示器电子设备-维护实施,2155
+31-62-21-000-801,Display Electronic Unit Removal,显示器电子设备拆卸,2156
+31-62-21-400-801,Display Electronic Unit Installation,显示器电子设备安装,2157
+31-62-21-100-801,How to Clean the Cooling Air InletScreen for the Display Electronic Unit,如何清洁显示电子组件冷气进口滤网,2158
+31-62-31-000-801,Coaxial Coupler Removal,同轴耦合器拆卸,2159
+31-62-31-400-801,Coaxial Coupler Installation,安装同轴耦合器,2160
+31-62-41,REMOTE LIGHT SENSOR - REMOVAL/INSTALLATION,安装光遥感器-拆卸/安装,2161
+32-00-01,LANDING GEAR DOWNLOCK PINS -MAINTENANCE PRACTICES,起落架下位锁销-维护实施,2162
+32-00-37,LANDING GEAR - CORROSION PREVENTION,起落架-防腐蚀,2163
+1932/5/3,LANDING GEAR - STRUCTURAL INSPECTIONS - MAINTENANCEPRACTICES,起落架-结构检查-维护实施,2164
+32-09-00,AIR/GROUND SYSTEM - MAINTENANCE PRACTICES,空中/地面系统-维护实施,2165
+1932/9/1,MAIN LANDING GEAR AIR/GROUND SENSOR - REMOVAL/INSTALLATION,主起落架空中/地面传感器-拆卸/安装,2166
+1932/9/1,MAIN LANDING GEAR AIR/GROUND SENSOR - ADJUSTMENT/TEST,主起落架空中/地面传感器-调整/测试,2167
+1932/9/2,NOSE LANDING GEAR AIR/GROUND SENSOR - REMOVAL/INSTALLATION,前起落架空/地面传感器-拆卸/安装,2168
+1932/9/2,NOSE LANDING GEAR AIR/GROUND SENSOR - ADJUSTMENT/TEST,前起落架空/地传感器-调整/测试,2169
+1932/9/10,PROXIMITY SWITCH ELECTRONICS UNIT(PSEU) - REMOVAL/INSTALLATION,接近电门电子组件(PSEU)-拆卸/安装,2170
+32-09-10-710-801,Proximity Switch Electronics Unit (PSEU) - Operational Test,接近电门电子组件(PSEU)操作测试,2171
+32-09-10-740-801,Proximity Switch Electronics Unit (PSEU) BITE Test - Ground Test,接近电门电子组件(PSEU) BITE 测试,2172
+32-11-00,MAIN LANDING GEAR - REMOVAL/INSTALLATION,主起落架-拆卸/安装,2173
+32-11-00-200-801,Main Landing Gear Inspection,主起落架-检验/检查,2174
+1932/11/21,MAIN LANDING GEAR SHOCK STRUT SEALS - REPAIRS,主起落架减震支柱密封件-修理,2175
+32-11-37,MAIN LANDING GEAR CORROSION PREVENTION - MAINTENANCE PRACTICES,主起落架防腐蚀-维护实施,2176
+32-11-51,Main Landing Gear Upper Torsion LinkRemoval/Installation,主起落架扭力杆-拆卸/安装,2177
+32-11-51,Main Landing Gear Torsion Links Inspection,主起落架扭力连杆-检验/检查,2178
+32-11-61,MAIN LANDING GEAR SIDE STRUT ASSEMBLY - REMOVAL/INSTALLATION,主起落架侧支柱组件-拆卸/安装,2179
+32-11-61,MAIN LANDING GEAR SIDE STRUT ASSEMBLY - INSPECTION/CHECK,主起落架侧支柱组件-检验/检查,2180
+32-11-71,MAIN LANDING GEAR REACTION LINK ASSEMBLY - REMOVAL/INSTALLATION,主起落架作动连杆组件-拆卸/安装,2181
+32-11-81,MAIN LANDING GEAR HYDRAULIC SHIMMY DAMPER COMPONENTS - REMOVAL/INSTALLATION,主起落架液压摆震阻尼器部件-拆卸/安装,2182
+32-11-81,MAIN LANDING GEAR HYDRAULIC SHIMMY DAMPER - REMOVAL/INSTALLATION,主起落架液压摆震阻尼器-拆卸/安装,2183
+32-11-81,MAIN LANDING GEAR SHIMMY DAMPER AND TORSION LINK APEX ASSEMBLY -INSPECTION/CHECK,主起落架摆震阻尼器和扭力杆顶点组件-检验/检查,2184
+32-11-83,MAIN LANDING GEAR FORWARD TRUNNION BEARING ASSEMBLY -REMOVAL/INSTALLATION,主起落架前耳轴轴承组件-拆卸/安装,2185
+32-11-85,MAIN LANDING GEAR AXLE - REMOVAL/INSTALLATION,主起落架轴-拆卸/安装,2186
+32-11-85,MAIN LANDING GEAR AXLE - APPROVED REPAIRS,主起落架轴-批准修理,2187
+32-11-89,MAIN LANDING GEAR DOWNLOCK STRUT -REMOVAL/INSTALLATION,主起落架下位锁支柱-拆卸/安装,2188
+1932/12/12,MAIN LANDING GEAR WHEEL WELL BLADE SEAL - REMOVAL/INSTALLATION,主起落架轮舱叶片密封件-拆卸/安装,2189
+1932/12/12,MAIN LANDING GEAR WHEEL WELL BLADE SEAL - INSPECTION/CHECK,主起落架轮舱叶片密封件-检验/检查,2190
+32-13-11,MAIN LANDING GEAR SHOCK STRUT DOORS - REMOVAL/INSTALLATION,主起落架减震支柱门-拆卸/安装,2191
+32-13-11,Main Landing Gear Shock Strut Door Adjustmen,主起落架减震支柱门-调整/测试,2192
+32-13-12,MAIN LANDING GEAR WING DOOR -REMOVAL/INSTALLATION,主起落架轴套筒-拆卸/安装,2193
+32-13-21,MAIN LANDING GEAR WING DOOR -REMOVAL/INSTALLATION,主起落架机翼门-拆卸/安装,2194
+32-13-21,Main Landing Gear Wing Door Adjustment,主起落架机翼门-调整/测试,2195
+32-21-00,NOSE LANDING GEAR - REMOVAL/INSTALLATION,前起落架-拆卸/安装,2196
+32-21-00,NOSE LANDING GEAR - INSPECTION/CHECK,前起落架-检验/检查,2197
+32-21-00,NOSE LANDING GEAR - APPROVED REPAIRS,前起落架-核准修理,2198
+32-21-11,NOSE LANDING GEAR SHOCK STRUT SEALS - REPAIRS,前起落架减震支柱密封件-修理,2199
+32-21-14,NOSE LANDING GEAR TOW FITTING -REMOVAL/INSTALLATION,前起落架牵引接头-拆卸/安装,2200
+32-21-21,NOSE LANDING GEAR DRAG STRUT -REMOVAL/INSTALLATION,前起落架阻力支柱-拆卸/安装,2201
+32-21-21,NOSE LANDING GEAR DRAG STRUT -INSPECTION/CHECK,前起落架阻力支柱-检验/检查,2202
+32-21-24,NLG SHOCK STRUT INNER CYLINDER -REMOVAL/INSTALLATION,前起落架减震支柱内作动筒-拆卸/安装,2203
+32-21-31,NOSE LANDING GEAR TORSION LINKS -REMOVAL/INSTALLATION,前起落架扭力杆-拆卸/安装,2204
+32-21-31,Nose Landing Gear Torsion Links Inspection,前起落架扭力杆-检验/检查,2205
+32-21-37,NOSE LANDING GEAR CORROSION PREVENTION - MAINTENANCE PRACTICES,前起落架防腐蚀-维护实施,2206
+32-21-71-200-803,Nose Gear Axle Inspection for Corrosion,前起落架轴-检验/检查,2207
+32-22-11,NOSE LANDING GEAR WHEEL WELL DOORS - REMOVAL/INSTALLATION,前起落架轮舱门-拆卸/安装,2208
+32-22-11,NOSE LANDING GEAR WHEEL WELL DOORS - ADJUSTMENT/TEST,前起落架轮舱门-调整/测试,2209
+32-31-00,LANDING GEAR CONTROL SYSTEM -ADJUSTMENT/TEST,起落架操纵系统-调节/测试,2210
+32-31-11,LANDING GEAR CONTROL LEVER MODULE- REMOVAL/INSTALLATION,起落架操纵手柄组件-拆卸/安装,2211
+32-31-21,LANDING GEAR FORWARD QUADRANT HOUSING ASSEMBLY - REMOVAL/INSTALLATION,起落架前扇形轮壳体组件-拆卸/安装,2212
+32-31-22,PUSH/PULL CABLE AND GEARBOX -REMOVAL/INSTALLATION,推/拉钢索和齿轮箱-拆卸/安装,2213
+32-31-22,PUSH/PULL CABLE AND GEARBOX -ADJUSTMENT/TEST,推/拉钢索和齿轮箱-调整/测试,2214
+32-31-22,PUSH/PULL CABLE - INSPECTION/CHECK,推/拉式钢索-检验/检查,2215
+32-31-31,LANDING GEAR CONTROL LEVER LOCK SOLENOID - REMOVAL/INSTALLATION,起落架操纵手柄锁紧电磁阀-拆卸/安装,2216
+32-31-41,LANDING GEAR CONTROL CABLES -REMOVAL/INSTALLATION,起落架操纵钢索-拆卸/安装,2217
+32-31-51,LANDING GEAR SELECTOR VALVE -REMOVAL/INSTALLATION,起落架选择器活门-拆卸/安装,2218
+32-31-51,LANDING GEAR SELECTOR VALVE -INSPECTION/CHECK,起落架选择器活门-检验/检查,2219
+32-31-61,LANDING GEAR SELECTOR VALVE QUADRANT - REMOVAL/INSTALLATION,起落架选择器活门扇形轮-拆卸/安装,2220
+32-31-61,LANDING GEAR SELECTOR VALVE QUADRANT - INSPECTION/CHECK,起落架选择器活门扇形轮-检验/检查,2221
+32-31-71,LANDING GEAR TRANSFER VALVE -REMOVAL/INSTALLATION,起落架传输活门-拆卸/安装,2222
+32-32-00,MAIN GEAR EXTENSION AND RETRACTION- ADJUSTMENT/TEST,主起落架放下和收起-调整/测试,2223
+32-32-11,MAIN GEAR ACTUATOR ASSEMBLY -REMOVAL/INSTALLATION,主起落架作动筒组件-拆卸/安装,2224
+32-32-11,MAIN GEAR ACTUATOR ASSEMBLY -INSPECTION/CHECK,主起落架作动筒组件-检验/检查,2225
+32-32-21,MAIN GEAR RETRACT PRESSURE FUSES -REMOVAL/INSTALLATION,主起落架收起压力保险丝-拆卸/安装,2226
+32-32-31,MAIN GEAR UPLOCK ASSEMBLY -REMOVAL/INSTALLATION,主起落架上位锁组件-拆卸/安装,2227
+32-32-31,MAIN LANDING GEAR UPLOCK ASSEMBLY - INSPECTION/CHECK,主起落架上位锁组件-检验/检查,2228
+32-32-41,MAIN GEAR UPLOCK ACTUATOR -REMOVAL/INSTALLATION,主起落架上位锁作动筒-拆卸/安装,2229
+32-32-51,MAIN GEAR DOWNLOCK ACTUATOR -REMOVAL/INSTALLATION,主起落架下位锁作动筒-拆卸/安装,2230
+32-32-52,MAIN GEAR FRANGIBLE FITTING ASSEMBLY - REMOVAL/INSTALLATION,主起落架易断接头组件-拆卸/安装,2231
+32-32-71,MAIN GEAR TRANSFER CYLINDER -REMOVAL/INSTALLATION,主起落架传输作动筒-拆卸/安装,2232
+32-32-72,MAIN LANDING GEAR HYDRAULIC FLOW REGULATOR - REMOVAL/INSTALLATION,主起落架液压流量调节器-拆卸/安装,2233
+32-32-91,MAIN GEAR DOWNLOCK SPRINGS -REMOVAL/INSTALLATION,主起落架下位锁弹簧-拆卸/安装,2234
+32-32-93,MAIN GEAR BEAM HANGER PIN -REMOVAL/INSTALLATION,主起落架梁悬挂销-拆卸/安装,2235
+32-33-00,NOSE GEAR EXTENSION AND RETRACTION - ADJUSTMENT/TEST,前起落架放下和收起系统-调整/测试,2236
+32-33-11,NOSE GEAR RETRACT ACTUATOR -REMOVAL/INSTALLATION,前起落架收起作动筒-拆卸/安装,2237
+32-33-21,NOSE GEAR LOCK ACTUATOR - REMOVAL/INSTALLATION,前起落架锁紧作动筒-拆卸/安装,2238
+32-33-31,NOSE GEAR LOCK VALVE MANIFOLD -REMOVAL/INSTALLATION,前起落架锁活门总管-拆卸/安装,2239

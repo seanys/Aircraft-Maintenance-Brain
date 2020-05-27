@@ -1,0 +1,65 @@
+<!doctype html>
+<meta charset="UTF-8">
+<html>
+	<head>
+		<link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
+		<style>
+			.map {
+        height: 700px!important;
+        width: 100%;
+      }
+    </style>
+		<script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
+		<title>OpenLayers example</title>
+	</head>
+	<body>
+		<h2>My Map</h2>
+		<!-- <button onclick="AddPoint()">增加点</button> -->
+		<div id="map" class="map"></div>
+		<script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			var map = new ol.Map({
+				target: 'map',
+				layers: [
+					new ol.layer.Tile({
+						source: new ol.source.OSM()
+					})
+				],
+				view: new ol.View({
+					center: ol.proj.fromLonLat([104, 1.34]),
+					zoom: 14
+				})
+			});
+
+			var x = document.getElementById("demo");
+
+			function getLocation() {
+				if (navigator.geolocation) {
+					navigator.geolocation.getCurrentPosition(showPosition);
+				} else {
+					x.innerHTML = "Geolocation is not supported by this browser.";
+				}
+			}
+
+			function showPosition(position) {
+				x.innerHTML = "Latitude: " + position.coords.latitude +
+					"<br />Longitude: " + position.coords.longitude;
+			}
+
+			// 监听singleclick事件
+			map.on('singleclick', function(e) {
+				console.log(e.coordinate);
+				console.log(ol.proj.transform(e.coordinate, 'EPSG:3857', 'EPSG:4326'));
+
+				// 通过getEventCoordinate方法获取地理位置，再转换为wgs84坐标，并弹出对话框显示
+				console.log(map.getEventCoordinate(e.originalEvent));
+				console.log(ol.proj.transform(map.getEventCoordinate(e.originalEvent), 'EPSG:3857', 'EPSG:4326'));
+
+				var lonlat = map.getCoordinateFromPixel(e.pixel);
+				console.log(lonlat);
+				console.log(ol.proj.transform(lonlat, "EPSG:3857", "EPSG:4326")); //由3857坐标系转为4326
+
+			})
+		</script>
+	</body>
+</html>
